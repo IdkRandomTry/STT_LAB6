@@ -1,0 +1,4 @@
+[2025-10-20 03:50:32] [javac-output-21080] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:50:32] [javac-output-21080] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:50:32] [javac-output-21080] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:50:34] [javac-output-21080] warning: [processing] No processor claimed any of these annotations: org.junit.jupiter.api.Test,org.ops4j.pax.exam.spi.reactors.ExamReactorStrategy,org.ops4j.pax.exam.Configuration,javax.inject.Inject,org.junit.jupiter.api.BeforeEach,org.apache.logging.log4j.core.config.Order,org.junit.jupiter.api.extension.RegisterExtension,org.junit.runner.RunWith,org.junit.Test,org.junitpioneer.jupiter.Issue,org.apache.logging.log4j.core.config.plugins.Plugin

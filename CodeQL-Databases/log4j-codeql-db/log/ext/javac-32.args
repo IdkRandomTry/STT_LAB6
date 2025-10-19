@@ -1,0 +1,38 @@
+-Xprefer:source
+-d
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\target\classes
+-classpath
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\target\classes;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\target\log4j-api-2.26.0-SNAPSHOT.jar;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core\target\log4j-core-2.26.0-SNAPSHOT.jar;C:\Users\Siddhesh\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.19.2\jackson-annotations-2.19.2.jar;C:\Users\Siddhesh\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.19.2\jackson-core-2.19.2.jar;C:\Users\Siddhesh\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.19.2\jackson-databind-2.19.2.jar;C:\Users\Siddhesh\.m2\repository\biz\aQute\bnd\biz.aQute.bnd.annotation\7.1.0\biz.aQute.bnd.annotation-7.1.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.resource\1.0.0\org.osgi.resource-1.0.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.service.serviceloader\1.0.0\org.osgi.service.serviceloader-1.0.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_annotations\2.38.0\error_prone_annotations-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.annotation.bundle\2.0.0\org.osgi.annotation.bundle-2.0.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.annotation.versioning\1.1.2\org.osgi.annotation.versioning-1.1.2.jar;C:\Users\Siddhesh\.m2\repository\com\github\spotbugs\spotbugs-annotations\4.8.6\spotbugs-annotations-4.8.6.jar;C:\Users\Siddhesh\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;
+-sourcepath
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\src\main\java;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\target\generated-sources\annotations;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\target\generated-sources\annotations;
+-s
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\target\generated-sources\annotations
+-proc:only
+-processor
+org.apache.logging.log4j.docgen.processor.DescriptorGenerator,org.apache.logging.log4j.core.config.plugins.processor.PluginProcessor,org.apache.logging.log4j.core.config.plugins.processor.GraalVmProcessor
+-processorpath
+C:\Users\Siddhesh\.m2\repository\org\apache\logging\log4j\log4j-docgen\0.9.0\log4j-docgen-0.9.0.jar;C:\Users\Siddhesh\.m2\repository\org\asciidoctor\asciidoctorj-api\3.0.0-alpha.2\asciidoctorj-api-3.0.0-alpha.2.jar;C:\Users\Siddhesh\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\Siddhesh\.m2\repository\org\apache\logging\log4j\log4j-tools-internal-freemarker-util\0.9.0\log4j-tools-internal-freemarker-util-0.9.0.jar;C:\Users\Siddhesh\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core\target\log4j-core-2.26.0-SNAPSHOT.jar;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\target\log4j-api-2.26.0-SNAPSHOT.jar;
+-g
+--release
+8
+-encoding
+UTF-8
+-Alog4j.docgen.descriptorFilePath=C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2/target/plugin-descriptors/phase2/log4j-docker-plugins.xml
+-Alog4j.docgen.groupId=org.apache.logging.log4j
+-Alog4j.docgen.artifactId=log4j-docker
+-Alog4j.docgen.version=2.26.0-SNAPSHOT
+-Alog4j.docgen.description=Apache Log4j Docker Support
+-Alog4j.docgen.typeFilter.excludePattern=^java\..+
+-Alog4j.graalvm.groupId=org.apache.logging.log4j
+-Alog4j.graalvm.artifactId=log4j-docker
+-XDuseUnsharedTable=true
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\src\main\java\org\apache\logging\log4j\docker\DockerLookup.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\src\main\java\org\apache\logging\log4j\docker\model\Container.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\src\main\java\org\apache\logging\log4j\docker\model\HostConfig.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\src\main\java\org\apache\logging\log4j\docker\model\IPAMConfig.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\src\main\java\org\apache\logging\log4j\docker\model\Mount.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\src\main\java\org\apache\logging\log4j\docker\model\Network.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\src\main\java\org\apache\logging\log4j\docker\model\NetworkSettings.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\src\main\java\org\apache\logging\log4j\docker\model\PortDefinition.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\src\main\java\org\apache\logging\log4j\docker\model\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-docker\src\main\java\org\apache\logging\log4j\docker\package-info.java

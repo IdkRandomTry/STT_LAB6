@@ -1,0 +1,195 @@
+-Xprefer:source
+-d
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\target\classes
+-classpath
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\target\classes;C:\Users\Siddhesh\.m2\repository\javax\jms\javax.jms-api\2.0.1\javax.jms-api-2.0.1.jar;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\target\log4j-api-2.26.0-SNAPSHOT.jar;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core\target\log4j-core-2.26.0-SNAPSHOT.jar;C:\Users\Siddhesh\.m2\repository\biz\aQute\bnd\biz.aQute.bnd.annotation\7.1.0\biz.aQute.bnd.annotation-7.1.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.resource\1.0.0\org.osgi.resource-1.0.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.service.serviceloader\1.0.0\org.osgi.service.serviceloader-1.0.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_annotations\2.38.0\error_prone_annotations-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.annotation.bundle\2.0.0\org.osgi.annotation.bundle-2.0.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.annotation.versioning\1.1.2\org.osgi.annotation.versioning-1.1.2.jar;C:\Users\Siddhesh\.m2\repository\com\github\spotbugs\spotbugs-annotations\4.8.6\spotbugs-annotations-4.8.6.jar;C:\Users\Siddhesh\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;
+-sourcepath
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\target\generated-sources\annotations;
+-s
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\target\generated-sources\annotations
+-processorpath
+C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_core\2.38.0\error_prone_core-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_annotation\2.38.0\error_prone_annotation-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_check_api\2.38.0\error_prone_check_api-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\io\github\java-diff-utils\java-diff-utils\4.12\java-diff-utils-4.12.jar;C:\Users\Siddhesh\.m2\repository\com\github\kevinstern\software-and-algorithms\1.0\software-and-algorithms-1.0.jar;C:\Users\Siddhesh\.m2\repository\com\github\ben-manes\caffeine\caffeine\3.0.5\caffeine-3.0.5.jar;C:\Users\Siddhesh\.m2\repository\org\checkerframework\checker-qual\3.19.0\checker-qual-3.19.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\googlejavaformat\google-java-format\1.24.0\google-java-format-1.24.0.jar;C:\Users\Siddhesh\.m2\repository\org\pcollections\pcollections\4.0.1\pcollections-4.0.1.jar;C:\Users\Siddhesh\.m2\repository\com\google\guava\guava\33.4.6-jre\guava-33.4.6-jre.jar;C:\Users\Siddhesh\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\Siddhesh\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Siddhesh\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\auto\auto-common\1.2.2\auto-common-1.2.2.jar;C:\Users\Siddhesh\.m2\repository\io\github\eisop\dataflow-errorprone\3.41.0-eisop1\dataflow-errorprone-3.41.0-eisop1.jar;C:\Users\Siddhesh\.m2\repository\com\google\auto\value\auto-value-annotations\1.9\auto-value-annotations-1.9.jar;C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_annotations\2.38.0\error_prone_annotations-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\protobuf\protobuf-java\3.25.5\protobuf-java-3.25.5.jar;C:\Users\Siddhesh\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\Siddhesh\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\Siddhesh\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;
+-g
+-parameters
+--release
+8
+-encoding
+UTF-8
+-Xlint:all
+-XDcompilePolicy=simple
+--should-stop=ifError=FLOW
+-Xplugin:ErrorProne
+-XDuseUnsharedTable=true
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Appender.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\AppenderSkeleton.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\BasicConfigurator.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Category.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\CategoryKey.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\ConsoleAppender.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\DefaultCategoryFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\DefaultThrowableRenderer.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\FileAppender.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Hierarchy.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Layout.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Level.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\LogManager.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Logger.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\MDC.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\NDC.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PatternLayout.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Priority.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\ProvisionNode.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\RenderedMessage.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\RollingFileAppender.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\SimpleLayout.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\VectorAppender.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\WriterAppender.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\AppenderAdapter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\AppenderWrapper.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\ErrorHandlerAdapter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\FilterAdapter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\FilterWrapper.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LayoutAdapter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LayoutWrapper.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventAdapter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\RewritePolicyAdapter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\RewritePolicyWrapper.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\AbstractBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\BooleanHolder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\Builder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\BuilderManager.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\Holder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\Parser.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\AppenderBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\AsyncAppenderBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\ConsoleAppenderBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\DailyRollingFileAppenderBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\EnhancedRollingFileAppenderBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\FileAppenderBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\NullAppenderBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\RewriteAppenderBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\RollingFileAppenderBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\SocketAppenderBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\SyslogAppenderBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\filter\DenyAllFilterBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\filter\FilterBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\filter\LevelMatchFilterBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\filter\LevelRangeFilterBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\filter\StringMatchFilterBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\filter\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\layout\HtmlLayoutBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\layout\LayoutBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\layout\PatternLayoutBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\layout\SimpleLayoutBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\layout\TTCCLayoutBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\layout\XmlLayoutBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\layout\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\rewrite\RewritePolicyBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\rewrite\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\rolling\CompositeTriggeringPolicyBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\rolling\SizeBasedTriggeringPolicyBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\rolling\TimeBasedRollingPolicyBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\rolling\TriggeringPolicyBuilder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\rolling\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\component\helpers\Constants.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\config\InputStreamWrapper.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\config\Log4j1Configuration.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\config\Log4j1ConfigurationConverter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\config\Log4j1ConfigurationFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\config\Log4j1ConfigurationParser.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\config\PropertiesConfiguration.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\config\PropertiesConfigurationFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\config\PropertySetter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\config\PropertySetterException.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\config\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\AbsoluteTimeDateFormat.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\AppenderAttachableImpl.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\BoundedFIFO.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\CountingQuietWriter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\CyclicBuffer.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\DateLayout.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\DateTimeDateFormat.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\FileWatchdog.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\FormattingInfo.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\ISO8601DateFormat.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\Loader.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\LogLog.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\NullEnumeration.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\OptionConverter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\PatternConverter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\PatternParser.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\QuietWriter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\RelativeTimeDateFormat.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\UtilLoggingLevel.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\jmx\AbstractDynamicMBean.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\jmx\Agent.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\jmx\AppenderDynamicMBean.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\jmx\HierarchyDynamicMBean.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\jmx\LayoutDynamicMBean.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\jmx\LoggerDynamicMBean.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\jmx\MethodUnion.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\jmx\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\layout\Log4j1SyslogLayout.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\layout\Log4j1XmlLayout.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\legacy\core\CategoryUtil.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\legacy\core\ContextUtil.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\DefaultRenderer.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\ObjectRenderer.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\RendererMap.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\ThreadGroupRenderer.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\jms\MessageRenderer.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\jms\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\pattern\FormattingInfo.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\pattern\Log4j1LevelPatternConverter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\pattern\Log4j1MdcPatternConverter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\pattern\Log4j1NdcPatternConverter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\pattern\NameAbbreviator.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\pattern\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\rewrite\MapRewritePolicy.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\rewrite\PropertyRewritePolicy.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\rewrite\RewritePolicy.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\rewrite\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\AppenderAttachable.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\Configurator.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\DefaultRepositorySelector.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\ErrorCode.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\ErrorHandler.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\Filter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\HierarchyEventListener.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\LocationInfo.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\LoggerFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\LoggerRepository.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\LoggingEvent.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\NOPLogger.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\NOPLoggerRepository.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\OptionHandler.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\RendererSupport.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\RepositorySelector.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\RootLogger.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\ThrowableInformation.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\ThrowableRenderer.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\ThrowableRendererSupport.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\TriggeringEventEvaluator.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\varia\DenyAllFilter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\varia\FallbackErrorHandler.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\varia\LevelMatchFilter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\varia\LevelRangeFilter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\varia\NullAppender.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\varia\ReloadingPropertyConfigurator.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\varia\StringMatchFilter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\varia\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\xml\DOMConfigurator.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\xml\Log4jEntityResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\xml\UnrecognizedElementHandler.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\xml\XMLWatchdog.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\xml\XmlConfiguration.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\xml\XmlConfigurationFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\xml\package-info.java

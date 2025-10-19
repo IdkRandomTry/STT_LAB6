@@ -1,0 +1,42 @@
+[2025-10-20 03:45:19] [javac-output-20024] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:45:19] [javac-output-20024] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:45:19] [javac-output-20024] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:45:21] [javac-output-20024] warning: [processing] No processor claimed any of these annotations: org.osgi.annotation.versioning.Version,org.osgi.annotation.bundle.Export,edu.umd.cs.findbugs.annotations.SuppressFBWarnings
+[2025-10-20 03:45:22] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\ApiLogger.java:234: warning: [deprecation] logrb(Level,String,String,String,String) in Logger has been deprecated
+[2025-10-20 03:45:22] [javac-output-20024]     public void logrb(
+[2025-10-20 03:45:22] [javac-output-20024]                 ^
+[2025-10-20 03:45:22] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\ApiLogger.java:244: warning: [deprecation] logrb(Level,String,String,String,String,Object) in Logger has been deprecated
+[2025-10-20 03:45:22] [javac-output-20024]     public void logrb(
+[2025-10-20 03:45:22] [javac-output-20024]                 ^
+[2025-10-20 03:45:22] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\ApiLogger.java:255: warning: [deprecation] logrb(Level,String,String,String,String,Object[]) in Logger has been deprecated
+[2025-10-20 03:45:22] [javac-output-20024]     public void logrb(
+[2025-10-20 03:45:22] [javac-output-20024]                 ^
+[2025-10-20 03:45:22] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\ApiLogger.java:266: warning: [deprecation] logrb(Level,String,String,String,String,Throwable) in Logger has been deprecated
+[2025-10-20 03:45:22] [javac-output-20024]     public void logrb(
+[2025-10-20 03:45:22] [javac-output-20024]                 ^
+[2025-10-20 03:45:22] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\WrappedLogger.java:54: warning: [deprecation] entry() in AbstractLogger has been deprecated
+[2025-10-20 03:45:22] [javac-output-20024]     public void entry() {
+[2025-10-20 03:45:22] [javac-output-20024]                 ^
+[2025-10-20 03:45:22] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\WrappedLogger.java:59: warning: [deprecation] entry(Object...) in AbstractLogger has been deprecated
+[2025-10-20 03:45:22] [javac-output-20024]     public void entry(final Object... params) {
+[2025-10-20 03:45:22] [javac-output-20024]                 ^
+[2025-10-20 03:45:22] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\WrappedLogger.java:64: warning: [deprecation] exit() in AbstractLogger has been deprecated
+[2025-10-20 03:45:22] [javac-output-20024]     public void exit() {
+[2025-10-20 03:45:22] [javac-output-20024]                 ^
+[2025-10-20 03:45:22] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\WrappedLogger.java:69: warning: [deprecation] <R>exit(R) in AbstractLogger has been deprecated
+[2025-10-20 03:45:22] [javac-output-20024]     public <R> R exit(final R result) {
+[2025-10-20 03:45:22] [javac-output-20024]                  ^
+[2025-10-20 03:45:22] [javac-output-20024]   where R is a type-variable:
+[2025-10-20 03:45:22] [javac-output-20024]     R extends Object declared in method <R>exit(R)
+[2025-10-20 03:45:24] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\NoOpLogger.java:98: warning: [deprecation] logrb(Level,String,String,String,String) in Logger has been deprecated
+[2025-10-20 03:45:24] [javac-output-20024]     public void logrb(
+[2025-10-20 03:45:24] [javac-output-20024]                 ^
+[2025-10-20 03:45:24] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\NoOpLogger.java:106: warning: [deprecation] logrb(Level,String,String,String,String,Object) in Logger has been deprecated
+[2025-10-20 03:45:24] [javac-output-20024]     public void logrb(
+[2025-10-20 03:45:24] [javac-output-20024]                 ^
+[2025-10-20 03:45:24] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\NoOpLogger.java:115: warning: [deprecation] logrb(Level,String,String,String,String,Object[]) in Logger has been deprecated
+[2025-10-20 03:45:24] [javac-output-20024]     public void logrb(
+[2025-10-20 03:45:24] [javac-output-20024]                 ^
+[2025-10-20 03:45:24] [javac-output-20024] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jul\src\main\java\org\apache\logging\log4j\jul\NoOpLogger.java:133: warning: [deprecation] logrb(Level,String,String,String,String,Throwable) in Logger has been deprecated
+[2025-10-20 03:45:24] [javac-output-20024]     public void logrb(
+[2025-10-20 03:45:24] [javac-output-20024]                 ^

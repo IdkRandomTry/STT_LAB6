@@ -1,0 +1,14 @@
+[2025-10-20 03:39:35] [javac-output-4848] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:39:35] [javac-output-4848] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:39:35] [javac-output-4848] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:39:37] [javac-output-4848] warning: [processing] No processor claimed any of these annotations: org.osgi.annotation.versioning.Version,org.apache.logging.log4j.core.config.plugins.PluginElement,org.apache.logging.log4j.core.config.plugins.validation.constraints.Required,org.osgi.annotation.bundle.Export,org.apache.logging.log4j.core.config.plugins.PluginBuilderFactory,aQute.bnd.annotation.jpms.Open,org.apache.logging.log4j.core.config.plugins.Plugin,org.apache.logging.log4j.core.config.plugins.PluginBuilderAttribute
+[2025-10-20 03:39:43] [javac-output-4848] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-cassandra\src\main\java\org\apache\logging\log4j\cassandra\CassandraManager.java:67: warning: [deprecation] AbstractDatabaseManager(String,int) in AbstractDatabaseManager has been deprecated
+[2025-10-20 03:39:43] [javac-output-4848]         super(name, bufferSize);
+[2025-10-20 03:39:43] [javac-output-4848]         ^
+[2025-10-20 03:39:43] [javac-output-4848] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-cassandra\src\main\java\org\apache\logging\log4j\cassandra\CassandraManager.java:236: warning: [deprecation] AbstractFactoryData(int,Layout<? extends Serializable>) in AbstractFactoryData has been deprecated
+[2025-10-20 03:39:43] [javac-output-4848]             super(bufferSize, null);
+[2025-10-20 03:39:43] [javac-output-4848]             ^
+[2025-10-20 03:42:04] [javac-output-4848] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:42:04] [javac-output-4848] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:42:04] [javac-output-4848] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:42:05] [javac-output-4848] warning: [processing] No processor claimed any of these annotations: org.osgi.annotation.versioning.Version,org.apache.logging.log4j.core.config.plugins.validation.constraints.Required,org.osgi.annotation.bundle.Export,org.apache.logging.log4j.core.config.plugins.PluginAliases,org.apache.logging.log4j.core.config.plugins.PluginBuilderFactory,org.apache.logging.log4j.core.config.plugins.Plugin,org.apache.logging.log4j.core.config.plugins.PluginBuilderAttribute

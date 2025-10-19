@@ -1,0 +1,15 @@
+[2025-10-20 03:12:43] [javac-extractor-24920] Starting extraction for:
+                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 21 --javac-args @@@C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db\log\ext\javac-6.args
+                                              user.dir=C:\Sidd all in one\Unsafe\Lab6\Repos\gson
+[2025-10-20 03:12:43] [javac-extractor-24920] Compilation name C:/Sidd all in one/Unsafe/Lab6/CodeQL-Databases/gson-codeql-db/trap/java/diagnostics/diagnostic-6.trap.gz
+[2025-10-20 03:12:43] [javac-extractor-24920] [WARN] Appending source destination directory C:\Sidd all in one\Unsafe\Lab6\Repos\gson\test-shrinker\target\generated-test-sources\test-annotations to sourcepath
+[2025-10-20 03:12:45] [javac-extractor-24920] Annotation processor class 'lombok.launch.AnnotationProcessorHider$AnnotationProcessor' initialized.
+[2025-10-20 03:12:45] [javac-extractor-24920] Annotation processor class 'lombok.launch.AnnotationProcessorHider$ClaimingProcessor' initialized.
+[2025-10-20 03:12:45] [javac-extractor-24920] 1 files will be passed to the attrib/flow phase
+[2025-10-20 03:12:45] [javac-extractor-24920] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\test-shrinker\src\test\java\com\google\gson\it\ShrinkingIT.java
+[2025-10-20 03:12:46] [javac-extractor-24920] [WARN] Not rewriting trap file for C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db\trap\java\classes\com\example\UnusedClass.members\UnusedClass.members#52.0-1760910156513-java.trap.gz as C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db\trap\java\classes\com\example\UnusedClass.members\UnusedClass.members#0.0-1760887908118-java.trap.gz exists
+[2025-10-20 03:12:46] [javac-extractor-24920] Javac init time: 1.9s
+[2025-10-20 03:12:46] [javac-extractor-24920] Javac attr time: 0.2s
+[2025-10-20 03:12:46] [javac-extractor-24920] Extractor time: 0.4s
+[2025-10-20 03:12:46] [javac-extractor-24920] Other time: 0.2s
+[2025-10-20 03:12:46] [javac-extractor-24920] Total time: 2.8s

@@ -1,0 +1,26 @@
+-Xprefer:source
+-d
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpl\target\classes
+-classpath
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpl\target\classes;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\target\log4j-api-2.26.0-SNAPSHOT.jar;C:\Users\Siddhesh\.m2\repository\biz\aQute\bnd\biz.aQute.bnd.annotation\7.1.0\biz.aQute.bnd.annotation-7.1.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.resource\1.0.0\org.osgi.resource-1.0.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.service.serviceloader\1.0.0\org.osgi.service.serviceloader-1.0.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_annotations\2.38.0\error_prone_annotations-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.annotation.bundle\2.0.0\org.osgi.annotation.bundle-2.0.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.annotation.versioning\1.1.2\org.osgi.annotation.versioning-1.1.2.jar;C:\Users\Siddhesh\.m2\repository\com\github\spotbugs\spotbugs-annotations\4.8.6\spotbugs-annotations-4.8.6.jar;C:\Users\Siddhesh\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;
+-sourcepath
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpl\src\main\java;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpl\target\generated-sources\annotations;
+-s
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpl\target\generated-sources\annotations
+-processorpath
+C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_core\2.38.0\error_prone_core-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_annotation\2.38.0\error_prone_annotation-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_check_api\2.38.0\error_prone_check_api-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\io\github\java-diff-utils\java-diff-utils\4.12\java-diff-utils-4.12.jar;C:\Users\Siddhesh\.m2\repository\com\github\kevinstern\software-and-algorithms\1.0\software-and-algorithms-1.0.jar;C:\Users\Siddhesh\.m2\repository\com\github\ben-manes\caffeine\caffeine\3.0.5\caffeine-3.0.5.jar;C:\Users\Siddhesh\.m2\repository\org\checkerframework\checker-qual\3.19.0\checker-qual-3.19.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\googlejavaformat\google-java-format\1.24.0\google-java-format-1.24.0.jar;C:\Users\Siddhesh\.m2\repository\org\pcollections\pcollections\4.0.1\pcollections-4.0.1.jar;C:\Users\Siddhesh\.m2\repository\com\google\guava\guava\33.4.6-jre\guava-33.4.6-jre.jar;C:\Users\Siddhesh\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\Siddhesh\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Siddhesh\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\auto\auto-common\1.2.2\auto-common-1.2.2.jar;C:\Users\Siddhesh\.m2\repository\io\github\eisop\dataflow-errorprone\3.41.0-eisop1\dataflow-errorprone-3.41.0-eisop1.jar;C:\Users\Siddhesh\.m2\repository\com\google\auto\value\auto-value-annotations\1.9\auto-value-annotations-1.9.jar;C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_annotations\2.38.0\error_prone_annotations-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\protobuf\protobuf-java\3.25.5\protobuf-java-3.25.5.jar;C:\Users\Siddhesh\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\Siddhesh\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\Siddhesh\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;
+-g
+-parameters
+--release
+11
+-encoding
+UTF-8
+-Xlint:all
+-XDcompilePolicy=simple
+--should-stop=ifError=FLOW
+-Xplugin:ErrorProne
+-XDuseUnsharedTable=true
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpl\src\main\java\org\apache\logging\log4j\jpl\Log4jSystemLogger.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpl\src\main\java\org\apache\logging\log4j\jpl\Log4jSystemLoggerAdapter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpl\src\main\java\org\apache\logging\log4j\jpl\Log4jSystemLoggerFinder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpl\src\main\java\org\apache\logging\log4j\jpl\package-info.java

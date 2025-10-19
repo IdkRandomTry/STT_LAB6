@@ -1,0 +1,2080 @@
+[T 21:05:12 7868] Initializing tracer.
+[T 21:05:12 7868] Initializing tags.
+[T 21:05:13 7868] CodeQL CLI version 2.23.3
+[T 21:05:13 7868] Initializing tracer.
+[T 21:05:13 7868] Initializing tags.
+[T 21:05:13 7868] Allocated ID 5CC79F8600001EBC_0000000000000001 (parent )
+[T 21:05:13 7868] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (26952) ====
+[T 21:05:13 7868] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 21:05:13 7868] Executing the following tracer actions:
+[T 21:05:13 7868] Tracer actions:
+[T 21:05:13 7868] pre_invocations(0)
+[T 21:05:13 7868] post_invocations(0)
+[T 21:05:13 7868] trace_languages(1): [java]
+[T 21:05:13 26952] Initializing tracer.
+[T 21:05:13 26952] Initializing tags.
+[T 21:05:13 26952] ID set to 5CC79F8600001EBC_0000000000000001 (parent root)
+[T 21:05:13 26952] Allocated ID B9F1118F00006948_0000000000000001 (parent 5CC79F8600001EBC_0000000000000001)
+[T 21:05:13 26952] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (24772) ====
+[T 21:05:13 26952] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 21:05:13 26952] Executing the following tracer actions:
+[T 21:05:13 26952] Tracer actions:
+[T 21:05:13 26952] pre_invocations(0)
+[T 21:05:13 26952] post_invocations(0)
+[T 21:05:13 26952] trace_languages(1): [java]
+[T 21:05:13 24772] Initializing tracer.
+[T 21:05:13 24772] Initializing tags.
+[T 21:05:13 24772] ID set to B9F1118F00006948_0000000000000001 (parent 5CC79F8600001EBC_0000000000000001)
+[T 21:09:45 26192] Initializing tracer.
+[T 21:09:45 26192] Initializing tags.
+[T 21:09:45 26192] CodeQL CLI version 2.23.3
+[T 21:09:45 26192] Initializing tracer.
+[T 21:09:45 26192] Initializing tags.
+[T 21:09:45 26192] Allocated ID 9E92FA1800006650_0000000000000001 (parent )
+[T 21:09:45 26192] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (12160) ====
+[T 21:09:45 26192] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 21:09:45 26192] Executing the following tracer actions:
+[T 21:09:45 26192] Tracer actions:
+[T 21:09:45 26192] pre_invocations(0)
+[T 21:09:45 26192] post_invocations(0)
+[T 21:09:45 26192] trace_languages(1): [java]
+[T 21:09:45 12160] Initializing tracer.
+[T 21:09:45 12160] Initializing tags.
+[T 21:09:45 12160] ID set to 9E92FA1800006650_0000000000000001 (parent root)
+[T 21:09:45 12160] Allocated ID 49B70CC300002F80_0000000000000001 (parent 9E92FA1800006650_0000000000000001)
+[T 21:09:45 12160] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (6156) ====
+[T 21:09:45 12160] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 21:09:45 12160] Executing the following tracer actions:
+[T 21:09:45 12160] Tracer actions:
+[T 21:09:45 12160] pre_invocations(0)
+[T 21:09:45 12160] post_invocations(0)
+[T 21:09:45 12160] trace_languages(1): [java]
+[T 21:09:45 6156] Initializing tracer.
+[T 21:09:45 6156] Initializing tags.
+[T 21:09:45 6156] ID set to 49B70CC300002F80_0000000000000001 (parent 9E92FA1800006650_0000000000000001)
+[T 21:13:00 26264] Initializing tracer.
+[T 21:13:00 26264] Initializing tags.
+[T 21:13:00 26264] CodeQL CLI version 2.23.3
+[T 21:13:00 26264] Initializing tracer.
+[T 21:13:00 26264] Initializing tags.
+[T 21:13:00 26264] Allocated ID A53F3CC500006698_0000000000000001 (parent )
+[T 21:13:00 26264] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (8756) ====
+[T 21:13:00 26264] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 21:13:00 26264] Executing the following tracer actions:
+[T 21:13:00 26264] Tracer actions:
+[T 21:13:00 26264] pre_invocations(0)
+[T 21:13:00 26264] post_invocations(0)
+[T 21:13:00 26264] trace_languages(1): [java]
+[T 21:13:00 8756] Initializing tracer.
+[T 21:13:00 8756] Initializing tags.
+[T 21:13:00 8756] ID set to A53F3CC500006698_0000000000000001 (parent root)
+[T 21:13:00 8756] Allocated ID 71AC4E3900002234_0000000000000001 (parent A53F3CC500006698_0000000000000001)
+[T 21:13:00 8756] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (4748) ====
+[T 21:13:00 8756] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 21:13:00 8756] Executing the following tracer actions:
+[T 21:13:00 8756] Tracer actions:
+[T 21:13:00 8756] pre_invocations(0)
+[T 21:13:00 8756] post_invocations(0)
+[T 21:13:00 8756] trace_languages(1): [java]
+[T 21:13:00 4748] Initializing tracer.
+[T 21:13:00 4748] Initializing tags.
+[T 21:13:00 4748] ID set to 71AC4E3900002234_0000000000000001 (parent A53F3CC500006698_0000000000000001)
+[T 21:44:34 23336] Initializing tracer.
+[T 21:44:34 23336] Initializing tags.
+[T 21:44:34 23336] CodeQL CLI version 2.23.3
+[T 21:44:34 23336] Initializing tracer.
+[T 21:44:34 23336] Initializing tags.
+[T 21:44:34 23336] Allocated ID 89E0607F00005B28_0000000000000001 (parent )
+[T 21:44:34 23336] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (28060) ====
+[T 21:44:34 23336] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 21:44:34 23336] Executing the following tracer actions:
+[T 21:44:34 23336] Tracer actions:
+[T 21:44:34 23336] pre_invocations(0)
+[T 21:44:34 23336] post_invocations(0)
+[T 21:44:34 23336] trace_languages(1): [java]
+[T 21:44:34 28060] Initializing tracer.
+[T 21:44:34 28060] Initializing tags.
+[T 21:44:34 28060] ID set to 89E0607F00005B28_0000000000000001 (parent root)
+[T 21:44:34 28060] Allocated ID B5C3410D00006D9C_0000000000000001 (parent 89E0607F00005B28_0000000000000001)
+[T 21:44:34 28060] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (28240) ====
+[T 21:44:34 28060] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 21:44:34 28060] Executing the following tracer actions:
+[T 21:44:34 28060] Tracer actions:
+[T 21:44:34 28060] pre_invocations(0)
+[T 21:44:34 28060] post_invocations(0)
+[T 21:44:34 28060] trace_languages(1): [java]
+[T 21:44:34 28240] Initializing tracer.
+[T 21:44:34 28240] Initializing tags.
+[T 21:44:34 28240] ID set to B5C3410D00006D9C_0000000000000001 (parent 89E0607F00005B28_0000000000000001)
+[T 21:44:34 28240] Allocated ID AC063E8000006E50_0000000000000001 (parent B5C3410D00006D9C_0000000000000001)
+[T 21:44:34 28240] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-21.0.8.9-hotspot\bin\java.exe (11776) ====
+[T 21:44:34 28240] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-21.0.8.9-hotspot\bin\java.exe ===
+[T 21:44:34 28240] Executing the following tracer actions:
+[T 21:44:34 28240] Tracer actions:
+[T 21:44:34 28240] pre_invocations(0)
+[T 21:44:34 28240] post_invocations(0)
+[T 21:44:34 28240] trace_languages(1): [java]
+[T 21:44:34 11776] Initializing tracer.
+[T 21:44:34 11776] Initializing tags.
+[T 21:44:34 11776] ID set to AC063E8000006E50_0000000000000001 (parent B5C3410D00006D9C_0000000000000001)
+[T 21:44:34 11776] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:44:34 11776] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:44:35 11776] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 21:44:35 28240] Allocated ID C9D787CA00006E50_0000000000000001 (parent B5C3410D00006D9C_0000000000000001)
+[T 21:44:35 28240] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-21.0.8.9-hotspot\bin\java.exe (3232) ====
+[T 21:44:35 28240] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-21.0.8.9-hotspot\bin\java.exe ===
+[T 21:44:35 28240] Executing the following tracer actions:
+[T 21:44:35 28240] Tracer actions:
+[T 21:44:35 28240] pre_invocations(0)
+[T 21:44:35 28240] post_invocations(0)
+[T 21:44:35 28240] trace_languages(1): [java]
+[T 21:44:35 3232] Initializing tracer.
+[T 21:44:35 3232] Initializing tags.
+[T 21:44:35 3232] ID set to C9D787CA00006E50_0000000000000001 (parent B5C3410D00006D9C_0000000000000001)
+[T 21:44:35 3232] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:44:35 3232] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:44:35 3232] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 21:49:57 28752] Initializing tracer.
+[T 21:49:57 28752] Initializing tags.
+[T 21:49:57 28752] CodeQL CLI version 2.23.3
+[T 21:49:57 28752] Initializing tracer.
+[T 21:49:57 28752] Initializing tags.
+[T 21:49:57 28752] Allocated ID C670BBF400007050_0000000000000001 (parent )
+[T 21:49:57 28752] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (14016) ====
+[T 21:49:57 28752] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 21:49:57 28752] Executing the following tracer actions:
+[T 21:49:57 28752] Tracer actions:
+[T 21:49:57 28752] pre_invocations(0)
+[T 21:49:57 28752] post_invocations(0)
+[T 21:49:57 28752] trace_languages(1): [java]
+[T 21:49:57 14016] Initializing tracer.
+[T 21:49:57 14016] Initializing tags.
+[T 21:49:57 14016] ID set to C670BBF400007050_0000000000000001 (parent root)
+[T 21:49:57 14016] Allocated ID 09CC69FB000036C0_0000000000000001 (parent C670BBF400007050_0000000000000001)
+[T 21:49:57 14016] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (14304) ====
+[T 21:49:57 14016] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 21:49:57 14016] Executing the following tracer actions:
+[T 21:49:57 14016] Tracer actions:
+[T 21:49:57 14016] pre_invocations(0)
+[T 21:49:57 14016] post_invocations(0)
+[T 21:49:57 14016] trace_languages(1): [java]
+[T 21:49:57 14304] Initializing tracer.
+[T 21:49:57 14304] Initializing tags.
+[T 21:49:57 14304] ID set to 09CC69FB000036C0_0000000000000001 (parent C670BBF400007050_0000000000000001)
+[T 21:49:58 14304] Allocated ID 21540F63000037E0_0000000000000001 (parent 09CC69FB000036C0_0000000000000001)
+[T 21:49:58 14304] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-21.0.8.9-hotspot\bin\java.exe (5332) ====
+[T 21:49:58 14304] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-21.0.8.9-hotspot\bin\java.exe ===
+[T 21:49:58 14304] Executing the following tracer actions:
+[T 21:49:58 14304] Tracer actions:
+[T 21:49:58 14304] pre_invocations(0)
+[T 21:49:58 14304] post_invocations(0)
+[T 21:49:58 14304] trace_languages(1): [java]
+[T 21:49:58 5332] Initializing tracer.
+[T 21:49:58 5332] Initializing tags.
+[T 21:49:58 5332] ID set to 21540F63000037E0_0000000000000001 (parent 09CC69FB000036C0_0000000000000001)
+[T 21:49:58 5332] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:49:58 5332] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:49:58 5332] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 21:49:58 14304] Allocated ID A07A34F4000037E0_0000000000000001 (parent 09CC69FB000036C0_0000000000000001)
+[T 21:49:58 14304] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-21.0.8.9-hotspot\bin\java.exe (26052) ====
+[T 21:49:58 14304] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-21.0.8.9-hotspot\bin\java.exe ===
+[T 21:49:58 14304] Executing the following tracer actions:
+[T 21:49:58 14304] Tracer actions:
+[T 21:49:58 14304] pre_invocations(0)
+[T 21:49:58 14304] post_invocations(0)
+[T 21:49:58 14304] trace_languages(1): [java]
+[T 21:49:58 26052] Initializing tracer.
+[T 21:49:58 26052] Initializing tags.
+[T 21:49:58 26052] ID set to A07A34F4000037E0_0000000000000001 (parent 09CC69FB000036C0_0000000000000001)
+[T 21:49:58 26052] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:49:58 26052] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:49:58 26052] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 21:56:28 23228] Initializing tracer.
+[T 21:56:28 23228] Initializing tags.
+[T 21:56:29 23228] CodeQL CLI version 2.23.3
+[T 21:56:29 23228] Initializing tracer.
+[T 21:56:29 23228] Initializing tags.
+[T 21:56:29 23228] Allocated ID BC1557C800005ABC_0000000000000001 (parent )
+[T 21:56:29 23228] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (25792) ====
+[T 21:56:29 23228] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 21:56:29 23228] Executing the following tracer actions:
+[T 21:56:29 23228] Tracer actions:
+[T 21:56:29 23228] pre_invocations(0)
+[T 21:56:29 23228] post_invocations(0)
+[T 21:56:29 23228] trace_languages(1): [java]
+[T 21:56:29 25792] Initializing tracer.
+[T 21:56:29 25792] Initializing tags.
+[T 21:56:29 25792] ID set to BC1557C800005ABC_0000000000000001 (parent root)
+[T 21:56:29 25792] Allocated ID D9044CA0000064C0_0000000000000001 (parent BC1557C800005ABC_0000000000000001)
+[T 21:56:29 25792] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (28112) ====
+[T 21:56:29 25792] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 21:56:29 25792] Executing the following tracer actions:
+[T 21:56:29 25792] Tracer actions:
+[T 21:56:29 25792] pre_invocations(0)
+[T 21:56:29 25792] post_invocations(0)
+[T 21:56:29 25792] trace_languages(1): [java]
+[T 21:56:29 28112] Initializing tracer.
+[T 21:56:29 28112] Initializing tags.
+[T 21:56:29 28112] ID set to D9044CA0000064C0_0000000000000001 (parent BC1557C800005ABC_0000000000000001)
+[T 21:56:29 28112] Allocated ID 8B2D727A00006DD0_0000000000000001 (parent D9044CA0000064C0_0000000000000001)
+[T 21:56:29 28112] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (21788) ====
+[T 21:56:29 28112] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 21:56:29 28112] Executing the following tracer actions:
+[T 21:56:29 28112] Tracer actions:
+[T 21:56:29 28112] pre_invocations(0)
+[T 21:56:29 28112] post_invocations(0)
+[T 21:56:29 28112] trace_languages(1): [java]
+[T 21:56:29 21788] Initializing tracer.
+[T 21:56:29 21788] Initializing tags.
+[T 21:56:29 21788] ID set to 8B2D727A00006DD0_0000000000000001 (parent D9044CA0000064C0_0000000000000001)
+[T 21:56:29 21788] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:56:29 21788] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:56:29 21788] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 21:56:29 28112] Allocated ID EF6AFE7E00006DD0_0000000000000001 (parent D9044CA0000064C0_0000000000000001)
+[T 21:56:29 28112] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (8100) ====
+[T 21:56:29 28112] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 21:56:29 28112] Executing the following tracer actions:
+[T 21:56:29 28112] Tracer actions:
+[T 21:56:29 28112] pre_invocations(0)
+[T 21:56:29 28112] post_invocations(0)
+[T 21:56:29 28112] trace_languages(1): [java]
+[T 21:56:29 8100] Initializing tracer.
+[T 21:56:29 8100] Initializing tags.
+[T 21:56:29 8100] ID set to EF6AFE7E00006DD0_0000000000000001 (parent D9044CA0000064C0_0000000000000001)
+[T 21:56:29 8100] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:56:29 8100] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:56:30 8100] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 21:58:20 8100] Allocated ID 72D856CD00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:58:20 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (11140) ====
+[T 21:58:20 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 21:58:20 8100] Executing the following tracer actions:
+[T 21:58:20 8100] Tracer actions:
+[T 21:58:20 8100] pre_invocations(0)
+[T 21:58:20 8100] post_invocations(0)
+[T 21:58:20 8100] trace_languages(1): [java]
+[T 21:58:20 11140] Initializing tracer.
+[T 21:58:20 11140] Initializing tags.
+[T 21:58:20 11140] ID set to 72D856CD00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:58:21 11140] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:58:21 11140] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:58:21 11140] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 21:58:30 8100] Allocated ID 3FABA33100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:58:30 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28832) ====
+[T 21:58:30 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 21:58:30 8100] Executing the following tracer actions:
+[T 21:58:30 8100] Tracer actions:
+[T 21:58:30 8100] pre_invocations(0)
+[T 21:58:30 8100] post_invocations(0)
+[T 21:58:30 8100] trace_languages(1): [java]
+[T 21:58:30 28832] Initializing tracer.
+[T 21:58:30 28832] Initializing tags.
+[T 21:58:30 28832] ID set to 3FABA33100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:58:30 28832] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:58:30 28832] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:58:30 28832] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 21:58:40 8100] Allocated ID 9A593DE100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:58:40 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (15480) ====
+[T 21:58:40 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 21:58:40 8100] Executing the following tracer actions:
+[T 21:58:40 8100] Tracer actions:
+[T 21:58:40 8100] pre_invocations(0)
+[T 21:58:40 8100] post_invocations(0)
+[T 21:58:40 8100] trace_languages(1): [java]
+[T 21:58:40 15480] Initializing tracer.
+[T 21:58:40 15480] Initializing tags.
+[T 21:58:40 15480] ID set to 9A593DE100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:58:40 15480] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:58:40 15480] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:58:40 15480] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 21:59:04 8100] Allocated ID 27B2FFFC00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:59:04 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (27808) ====
+[T 21:59:04 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 21:59:04 8100] Executing the following tracer actions:
+[T 21:59:04 8100] Tracer actions:
+[T 21:59:04 8100] pre_invocations(0)
+[T 21:59:04 8100] post_invocations(0)
+[T 21:59:04 8100] trace_languages(1): [java]
+[T 21:59:04 27808] Initializing tracer.
+[T 21:59:04 27808] Initializing tags.
+[T 21:59:04 27808] ID set to 27B2FFFC00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:59:04 27808] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:59:04 27808] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:59:05 27808] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 21:59:29 8100] Allocated ID 20A22EB300001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:59:29 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (21296) ====
+[T 21:59:29 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 21:59:29 8100] Executing the following tracer actions:
+[T 21:59:29 8100] Tracer actions:
+[T 21:59:29 8100] pre_invocations(0)
+[T 21:59:29 8100] post_invocations(0)
+[T 21:59:29 8100] trace_languages(1): [java]
+[T 21:59:29 21296] Initializing tracer.
+[T 21:59:29 21296] Initializing tags.
+[T 21:59:29 21296] ID set to 20A22EB300001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:59:29 21296] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:59:29 21296] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:59:30 21296] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 21:59:54 8100] Allocated ID A3366DAF00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:59:54 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (21200) ====
+[T 21:59:54 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 21:59:54 8100] Executing the following tracer actions:
+[T 21:59:54 8100] Tracer actions:
+[T 21:59:54 8100] pre_invocations(0)
+[T 21:59:54 8100] post_invocations(0)
+[T 21:59:54 8100] trace_languages(1): [java]
+[T 21:59:54 21200] Initializing tracer.
+[T 21:59:54 21200] Initializing tags.
+[T 21:59:54 21200] ID set to A3366DAF00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 21:59:54 21200] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 21:59:54 21200] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 21:59:54 21200] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:00:03 8100] Allocated ID AFFA3F8B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:00:03 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (8672) ====
+[T 22:00:03 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:00:03 8100] Executing the following tracer actions:
+[T 22:00:03 8100] Tracer actions:
+[T 22:00:03 8100] pre_invocations(0)
+[T 22:00:03 8100] post_invocations(0)
+[T 22:00:03 8100] trace_languages(1): [java]
+[T 22:00:03 8672] Initializing tracer.
+[T 22:00:03 8672] Initializing tags.
+[T 22:00:03 8672] ID set to AFFA3F8B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:00:03 8672] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:00:03 8672] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:00:03 8672] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:00:41 8100] Allocated ID CB7461B000001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:00:41 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (1380) ====
+[T 22:00:41 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:00:41 8100] Executing the following tracer actions:
+[T 22:00:41 8100] Tracer actions:
+[T 22:00:41 8100] pre_invocations(0)
+[T 22:00:41 8100] post_invocations(0)
+[T 22:00:41 8100] trace_languages(1): [java]
+[T 22:00:41 1380] Initializing tracer.
+[T 22:00:41 1380] Initializing tags.
+[T 22:00:41 1380] ID set to CB7461B000001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:00:41 1380] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:00:41 1380] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:00:42 1380] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:01:55 8100] Allocated ID 0E6EAED700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:01:55 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (2760) ====
+[T 22:01:55 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:01:55 8100] Executing the following tracer actions:
+[T 22:01:55 8100] Tracer actions:
+[T 22:01:55 8100] pre_invocations(0)
+[T 22:01:55 8100] post_invocations(0)
+[T 22:01:55 8100] trace_languages(1): [java]
+[T 22:01:55 2760] Initializing tracer.
+[T 22:01:55 2760] Initializing tags.
+[T 22:01:55 2760] ID set to 0E6EAED700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:01:55 2760] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:01:55 2760] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:01:56 2760] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:02:23 8100] Allocated ID F379656900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:02:23 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (26096) ====
+[T 22:02:23 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:02:23 8100] Executing the following tracer actions:
+[T 22:02:23 8100] Tracer actions:
+[T 22:02:23 8100] pre_invocations(0)
+[T 22:02:23 8100] post_invocations(0)
+[T 22:02:23 8100] trace_languages(1): [java]
+[T 22:02:23 26096] Initializing tracer.
+[T 22:02:23 26096] Initializing tags.
+[T 22:02:23 26096] ID set to F379656900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:02:23 26096] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:02:23 26096] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:02:23 26096] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:03:21 8100] Allocated ID 378ECE6D00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:03:21 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (6292) ====
+[T 22:03:21 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:03:21 8100] Executing the following tracer actions:
+[T 22:03:21 8100] Tracer actions:
+[T 22:03:21 8100] pre_invocations(0)
+[T 22:03:21 8100] post_invocations(0)
+[T 22:03:21 8100] trace_languages(1): [java]
+[T 22:03:21 6292] Initializing tracer.
+[T 22:03:21 6292] Initializing tags.
+[T 22:03:21 6292] ID set to 378ECE6D00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:03:21 6292] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:03:21 6292] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:03:21 6292] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:03:49 8100] Allocated ID F117DD5B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:03:49 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (1956) ====
+[T 22:03:49 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:03:49 8100] Executing the following tracer actions:
+[T 22:03:49 8100] Tracer actions:
+[T 22:03:49 8100] pre_invocations(0)
+[T 22:03:49 8100] post_invocations(0)
+[T 22:03:49 8100] trace_languages(1): [java]
+[T 22:03:49 1956] Initializing tracer.
+[T 22:03:49 1956] Initializing tags.
+[T 22:03:49 1956] ID set to F117DD5B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:03:49 1956] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:03:49 1956] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:03:50 1956] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:04:14 8100] Allocated ID 0B90D9F800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:04:14 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (26812) ====
+[T 22:04:14 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:04:14 8100] Executing the following tracer actions:
+[T 22:04:14 8100] Tracer actions:
+[T 22:04:14 8100] pre_invocations(0)
+[T 22:04:14 8100] post_invocations(0)
+[T 22:04:14 8100] trace_languages(1): [java]
+[T 22:04:14 26812] Initializing tracer.
+[T 22:04:14 26812] Initializing tags.
+[T 22:04:14 26812] ID set to 0B90D9F800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:04:14 26812] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:04:14 26812] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:04:14 26812] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:04:29 8100] Allocated ID 4D49FF4200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:04:29 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (4248) ====
+[T 22:04:29 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:04:29 8100] Executing the following tracer actions:
+[T 22:04:29 8100] Tracer actions:
+[T 22:04:29 8100] pre_invocations(0)
+[T 22:04:29 8100] post_invocations(0)
+[T 22:04:29 8100] trace_languages(1): [java]
+[T 22:04:29 4248] Initializing tracer.
+[T 22:04:29 4248] Initializing tags.
+[T 22:04:29 4248] ID set to 4D49FF4200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:04:30 4248] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:04:30 4248] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:04:30 4248] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:04:41 8100] Allocated ID 1F8F31F700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:04:41 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (26100) ====
+[T 22:04:41 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:04:41 8100] Executing the following tracer actions:
+[T 22:04:41 8100] Tracer actions:
+[T 22:04:41 8100] pre_invocations(0)
+[T 22:04:41 8100] post_invocations(0)
+[T 22:04:41 8100] trace_languages(1): [java]
+[T 22:04:41 26100] Initializing tracer.
+[T 22:04:41 26100] Initializing tags.
+[T 22:04:41 26100] ID set to 1F8F31F700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:04:41 26100] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:04:41 26100] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:04:41 26100] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:05:14 8100] Allocated ID 8F1FBDDB00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:05:14 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (20688) ====
+[T 22:05:14 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:05:14 8100] Executing the following tracer actions:
+[T 22:05:14 8100] Tracer actions:
+[T 22:05:14 8100] pre_invocations(0)
+[T 22:05:14 8100] post_invocations(0)
+[T 22:05:14 8100] trace_languages(1): [java]
+[T 22:05:14 20688] Initializing tracer.
+[T 22:05:14 20688] Initializing tags.
+[T 22:05:14 20688] ID set to 8F1FBDDB00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:05:14 20688] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:05:14 20688] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:05:14 20688] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:06:25 8100] Allocated ID 91526F8200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:06:25 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (21816) ====
+[T 22:06:25 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:06:25 8100] Executing the following tracer actions:
+[T 22:06:25 8100] Tracer actions:
+[T 22:06:25 8100] pre_invocations(0)
+[T 22:06:25 8100] post_invocations(0)
+[T 22:06:25 8100] trace_languages(1): [java]
+[T 22:06:25 21816] Initializing tracer.
+[T 22:06:25 21816] Initializing tags.
+[T 22:06:25 21816] ID set to 91526F8200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:06:25 21816] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:06:25 21816] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:06:25 21816] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:06:42 8100] Allocated ID 0942BFB400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:06:42 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (4416) ====
+[T 22:06:42 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:06:42 8100] Executing the following tracer actions:
+[T 22:06:42 8100] Tracer actions:
+[T 22:06:42 8100] pre_invocations(0)
+[T 22:06:42 8100] post_invocations(0)
+[T 22:06:42 8100] trace_languages(1): [java]
+[T 22:06:42 4416] Initializing tracer.
+[T 22:06:42 4416] Initializing tags.
+[T 22:06:42 4416] ID set to 0942BFB400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:06:42 4416] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:06:42 4416] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:06:43 4416] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:07:06 8100] Allocated ID 412ED26100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:07:06 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28488) ====
+[T 22:07:06 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:07:06 8100] Executing the following tracer actions:
+[T 22:07:06 8100] Tracer actions:
+[T 22:07:06 8100] pre_invocations(0)
+[T 22:07:06 8100] post_invocations(0)
+[T 22:07:06 8100] trace_languages(1): [java]
+[T 22:07:06 28488] Initializing tracer.
+[T 22:07:06 28488] Initializing tags.
+[T 22:07:06 28488] ID set to 412ED26100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:07:06 28488] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:07:06 28488] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:07:07 28488] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:07:26 8100] Allocated ID 02419EAA00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:07:26 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (20064) ====
+[T 22:07:26 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:07:26 8100] Executing the following tracer actions:
+[T 22:07:26 8100] Tracer actions:
+[T 22:07:26 8100] pre_invocations(0)
+[T 22:07:26 8100] post_invocations(0)
+[T 22:07:26 8100] trace_languages(1): [java]
+[T 22:07:26 20064] Initializing tracer.
+[T 22:07:26 20064] Initializing tags.
+[T 22:07:26 20064] ID set to 02419EAA00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:07:27 20064] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:07:27 20064] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:07:27 20064] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:07:40 8100] Allocated ID 852A25BF00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:07:40 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (19476) ====
+[T 22:07:40 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:07:40 8100] Executing the following tracer actions:
+[T 22:07:40 8100] Tracer actions:
+[T 22:07:40 8100] pre_invocations(0)
+[T 22:07:40 8100] post_invocations(0)
+[T 22:07:40 8100] trace_languages(1): [java]
+[T 22:07:40 19476] Initializing tracer.
+[T 22:07:40 19476] Initializing tags.
+[T 22:07:40 19476] ID set to 852A25BF00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:07:40 19476] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:07:40 19476] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:07:41 19476] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:07:56 8100] Allocated ID 51109CF000001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:07:56 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (23820) ====
+[T 22:07:56 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:07:56 8100] Executing the following tracer actions:
+[T 22:07:56 8100] Tracer actions:
+[T 22:07:56 8100] pre_invocations(0)
+[T 22:07:56 8100] post_invocations(0)
+[T 22:07:56 8100] trace_languages(1): [java]
+[T 22:07:56 23820] Initializing tracer.
+[T 22:07:56 23820] Initializing tags.
+[T 22:07:56 23820] ID set to 51109CF000001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:07:56 23820] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:07:56 23820] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:07:56 23820] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:08:04 8100] Allocated ID ACE9CBA200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:04 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (25828) ====
+[T 22:08:04 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:08:04 8100] Executing the following tracer actions:
+[T 22:08:04 8100] Tracer actions:
+[T 22:08:04 8100] pre_invocations(0)
+[T 22:08:04 8100] post_invocations(0)
+[T 22:08:04 8100] trace_languages(1): [java]
+[T 22:08:04 25828] Initializing tracer.
+[T 22:08:04 25828] Initializing tags.
+[T 22:08:04 25828] ID set to ACE9CBA200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:04 25828] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:08:04 25828] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:08:04 25828] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:08:27 8100] Allocated ID D062B15800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:27 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (26400) ====
+[T 22:08:27 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:08:27 8100] Executing the following tracer actions:
+[T 22:08:27 8100] Tracer actions:
+[T 22:08:27 8100] pre_invocations(0)
+[T 22:08:27 8100] post_invocations(0)
+[T 22:08:27 8100] trace_languages(1): [java]
+[T 22:08:27 26400] Initializing tracer.
+[T 22:08:27 26400] Initializing tags.
+[T 22:08:27 26400] ID set to D062B15800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:27 26400] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:08:27 26400] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:08:27 26400] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:08:31 8100] Allocated ID B9300F8800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:31 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (9972) ====
+[T 22:08:31 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:08:31 8100] Executing the following tracer actions:
+[T 22:08:31 8100] Tracer actions:
+[T 22:08:31 8100] pre_invocations(0)
+[T 22:08:31 8100] post_invocations(0)
+[T 22:08:31 8100] trace_languages(1): [java]
+[T 22:08:31 9972] Initializing tracer.
+[T 22:08:31 9972] Initializing tags.
+[T 22:08:31 9972] ID set to B9300F8800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:31 9972] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:08:31 9972] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:08:31 9972] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:08:39 8100] Allocated ID 60662E5200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:39 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28980) ====
+[T 22:08:39 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:08:39 8100] Executing the following tracer actions:
+[T 22:08:39 8100] Tracer actions:
+[T 22:08:39 8100] pre_invocations(0)
+[T 22:08:39 8100] post_invocations(0)
+[T 22:08:39 8100] trace_languages(1): [java]
+[T 22:08:39 28980] Initializing tracer.
+[T 22:08:39 28980] Initializing tags.
+[T 22:08:39 28980] ID set to 60662E5200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:39 28980] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:08:39 28980] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:08:39 28980] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:08:47 8100] Allocated ID B9E51A4A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:47 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (11560) ====
+[T 22:08:47 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:08:47 8100] Executing the following tracer actions:
+[T 22:08:47 8100] Tracer actions:
+[T 22:08:47 8100] pre_invocations(0)
+[T 22:08:47 8100] post_invocations(0)
+[T 22:08:47 8100] trace_languages(1): [java]
+[T 22:08:47 11560] Initializing tracer.
+[T 22:08:47 11560] Initializing tags.
+[T 22:08:47 11560] ID set to B9E51A4A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:47 11560] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:08:47 11560] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:08:47 11560] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:08:57 8100] Allocated ID 61D8C02500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:57 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28924) ====
+[T 22:08:57 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:08:57 8100] Executing the following tracer actions:
+[T 22:08:57 8100] Tracer actions:
+[T 22:08:57 8100] pre_invocations(0)
+[T 22:08:57 8100] post_invocations(0)
+[T 22:08:57 8100] trace_languages(1): [java]
+[T 22:08:57 28924] Initializing tracer.
+[T 22:08:57 28924] Initializing tags.
+[T 22:08:57 28924] ID set to 61D8C02500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:08:57 28924] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:08:57 28924] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:08:57 28924] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:09:06 8100] Allocated ID A50114F800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:06 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (4724) ====
+[T 22:09:06 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:09:06 8100] Executing the following tracer actions:
+[T 22:09:06 8100] Tracer actions:
+[T 22:09:06 8100] pre_invocations(0)
+[T 22:09:06 8100] post_invocations(0)
+[T 22:09:06 8100] trace_languages(1): [java]
+[T 22:09:06 4724] Initializing tracer.
+[T 22:09:06 4724] Initializing tags.
+[T 22:09:06 4724] ID set to A50114F800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:07 4724] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:09:07 4724] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:09:07 4724] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:09:15 8100] Allocated ID B0A9D13500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:15 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (23564) ====
+[T 22:09:15 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:09:15 8100] Executing the following tracer actions:
+[T 22:09:15 8100] Tracer actions:
+[T 22:09:15 8100] pre_invocations(0)
+[T 22:09:15 8100] post_invocations(0)
+[T 22:09:15 8100] trace_languages(1): [java]
+[T 22:09:15 23564] Initializing tracer.
+[T 22:09:15 23564] Initializing tags.
+[T 22:09:15 23564] ID set to B0A9D13500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:15 23564] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:09:15 23564] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:09:15 23564] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:09:24 8100] Allocated ID 11F05B3800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:24 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (11604) ====
+[T 22:09:24 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:09:24 8100] Executing the following tracer actions:
+[T 22:09:24 8100] Tracer actions:
+[T 22:09:24 8100] pre_invocations(0)
+[T 22:09:24 8100] post_invocations(0)
+[T 22:09:24 8100] trace_languages(1): [java]
+[T 22:09:24 11604] Initializing tracer.
+[T 22:09:24 11604] Initializing tags.
+[T 22:09:24 11604] ID set to 11F05B3800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:24 11604] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:09:24 11604] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:09:24 11604] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:09:34 8100] Allocated ID A960453900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:34 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (4848) ====
+[T 22:09:34 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:09:34 8100] Executing the following tracer actions:
+[T 22:09:34 8100] Tracer actions:
+[T 22:09:34 8100] pre_invocations(0)
+[T 22:09:34 8100] post_invocations(0)
+[T 22:09:34 8100] trace_languages(1): [java]
+[T 22:09:34 4848] Initializing tracer.
+[T 22:09:34 4848] Initializing tags.
+[T 22:09:34 4848] ID set to A960453900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:34 4848] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:09:34 4848] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:09:34 4848] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:09:44 8100] Allocated ID D104D9F400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:44 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (25072) ====
+[T 22:09:44 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:09:44 8100] Executing the following tracer actions:
+[T 22:09:44 8100] Tracer actions:
+[T 22:09:44 8100] pre_invocations(0)
+[T 22:09:44 8100] post_invocations(0)
+[T 22:09:44 8100] trace_languages(1): [java]
+[T 22:09:44 25072] Initializing tracer.
+[T 22:09:44 25072] Initializing tags.
+[T 22:09:44 25072] ID set to D104D9F400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:44 25072] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:09:44 25072] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:09:44 25072] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:09:50 8100] Allocated ID 18910A0600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:50 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (21328) ====
+[T 22:09:50 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:09:50 8100] Executing the following tracer actions:
+[T 22:09:50 8100] Tracer actions:
+[T 22:09:50 8100] pre_invocations(0)
+[T 22:09:50 8100] post_invocations(0)
+[T 22:09:50 8100] trace_languages(1): [java]
+[T 22:09:50 21328] Initializing tracer.
+[T 22:09:50 21328] Initializing tags.
+[T 22:09:50 21328] ID set to 18910A0600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:50 21328] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:09:50 21328] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:09:50 21328] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:09:57 8100] Allocated ID F0AFC83C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:57 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (25836) ====
+[T 22:09:57 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:09:57 8100] Executing the following tracer actions:
+[T 22:09:57 8100] Tracer actions:
+[T 22:09:57 8100] pre_invocations(0)
+[T 22:09:57 8100] post_invocations(0)
+[T 22:09:57 8100] trace_languages(1): [java]
+[T 22:09:57 25836] Initializing tracer.
+[T 22:09:57 25836] Initializing tags.
+[T 22:09:57 25836] ID set to F0AFC83C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:09:57 25836] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:09:57 25836] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:09:57 25836] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:10:04 8100] Allocated ID 8C53540900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:04 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (22748) ====
+[T 22:10:04 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:10:04 8100] Executing the following tracer actions:
+[T 22:10:04 8100] Tracer actions:
+[T 22:10:04 8100] pre_invocations(0)
+[T 22:10:04 8100] post_invocations(0)
+[T 22:10:04 8100] trace_languages(1): [java]
+[T 22:10:04 22748] Initializing tracer.
+[T 22:10:04 22748] Initializing tags.
+[T 22:10:04 22748] ID set to 8C53540900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:04 22748] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:10:04 22748] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:10:05 22748] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:10:15 8100] Allocated ID 1D1F70E800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:15 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (27320) ====
+[T 22:10:15 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:10:15 8100] Executing the following tracer actions:
+[T 22:10:15 8100] Tracer actions:
+[T 22:10:15 8100] pre_invocations(0)
+[T 22:10:15 8100] post_invocations(0)
+[T 22:10:15 8100] trace_languages(1): [java]
+[T 22:10:15 27320] Initializing tracer.
+[T 22:10:15 27320] Initializing tags.
+[T 22:10:15 27320] ID set to 1D1F70E800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:15 27320] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:10:15 27320] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:10:15 27320] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:10:20 8100] Allocated ID E831F09300001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:20 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (26108) ====
+[T 22:10:20 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:10:20 8100] Executing the following tracer actions:
+[T 22:10:20 8100] Tracer actions:
+[T 22:10:20 8100] pre_invocations(0)
+[T 22:10:20 8100] post_invocations(0)
+[T 22:10:20 8100] trace_languages(1): [java]
+[T 22:10:20 26108] Initializing tracer.
+[T 22:10:20 26108] Initializing tags.
+[T 22:10:20 26108] ID set to E831F09300001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:20 26108] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:10:20 26108] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:10:21 26108] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:10:24 8100] Allocated ID 98CB2DCC00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:24 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (9720) ====
+[T 22:10:24 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:10:24 8100] Executing the following tracer actions:
+[T 22:10:24 8100] Tracer actions:
+[T 22:10:24 8100] pre_invocations(0)
+[T 22:10:24 8100] post_invocations(0)
+[T 22:10:24 8100] trace_languages(1): [java]
+[T 22:10:24 9720] Initializing tracer.
+[T 22:10:24 9720] Initializing tags.
+[T 22:10:24 9720] ID set to 98CB2DCC00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:24 9720] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:10:24 9720] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:10:25 9720] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:10:32 8100] Allocated ID C1AD632600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:32 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (21328) ====
+[T 22:10:32 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:10:32 8100] Executing the following tracer actions:
+[T 22:10:32 8100] Tracer actions:
+[T 22:10:32 8100] pre_invocations(0)
+[T 22:10:32 8100] post_invocations(0)
+[T 22:10:32 8100] trace_languages(1): [java]
+[T 22:10:32 21328] Initializing tracer.
+[T 22:10:32 21328] Initializing tags.
+[T 22:10:32 21328] ID set to C1AD632600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:32 21328] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:10:32 21328] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:10:32 21328] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:10:36 8100] Allocated ID B4DF904A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:36 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28464) ====
+[T 22:10:36 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:10:36 8100] Executing the following tracer actions:
+[T 22:10:36 8100] Tracer actions:
+[T 22:10:36 8100] pre_invocations(0)
+[T 22:10:36 8100] post_invocations(0)
+[T 22:10:36 8100] trace_languages(1): [java]
+[T 22:10:36 28464] Initializing tracer.
+[T 22:10:36 28464] Initializing tags.
+[T 22:10:36 28464] ID set to B4DF904A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:36 28464] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:10:36 28464] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:10:36 28464] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:10:45 8100] Allocated ID 3250DECE00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:45 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (20060) ====
+[T 22:10:45 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:10:45 8100] Executing the following tracer actions:
+[T 22:10:45 8100] Tracer actions:
+[T 22:10:45 8100] pre_invocations(0)
+[T 22:10:45 8100] post_invocations(0)
+[T 22:10:45 8100] trace_languages(1): [java]
+[T 22:10:45 20060] Initializing tracer.
+[T 22:10:45 20060] Initializing tags.
+[T 22:10:45 20060] ID set to 3250DECE00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:45 20060] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:10:45 20060] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:10:46 20060] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:10:56 8100] Allocated ID 4699FC6700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:56 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (26840) ====
+[T 22:10:56 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:10:56 8100] Executing the following tracer actions:
+[T 22:10:56 8100] Tracer actions:
+[T 22:10:56 8100] pre_invocations(0)
+[T 22:10:56 8100] post_invocations(0)
+[T 22:10:56 8100] trace_languages(1): [java]
+[T 22:10:56 26840] Initializing tracer.
+[T 22:10:56 26840] Initializing tags.
+[T 22:10:56 26840] ID set to 4699FC6700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:10:56 26840] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:10:56 26840] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:10:57 26840] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:11:02 8100] Allocated ID AB1DB7B700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:02 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (24328) ====
+[T 22:11:02 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:11:02 8100] Executing the following tracer actions:
+[T 22:11:02 8100] Tracer actions:
+[T 22:11:02 8100] pre_invocations(0)
+[T 22:11:02 8100] post_invocations(0)
+[T 22:11:02 8100] trace_languages(1): [java]
+[T 22:11:02 24328] Initializing tracer.
+[T 22:11:02 24328] Initializing tags.
+[T 22:11:02 24328] ID set to AB1DB7B700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:02 24328] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:11:02 24328] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:11:02 24328] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:11:07 8100] Allocated ID 41556A6B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:07 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (23864) ====
+[T 22:11:07 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:11:07 8100] Executing the following tracer actions:
+[T 22:11:07 8100] Tracer actions:
+[T 22:11:07 8100] pre_invocations(0)
+[T 22:11:07 8100] post_invocations(0)
+[T 22:11:07 8100] trace_languages(1): [java]
+[T 22:11:07 23864] Initializing tracer.
+[T 22:11:07 23864] Initializing tags.
+[T 22:11:07 23864] ID set to 41556A6B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:07 23864] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:11:07 23864] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:11:07 23864] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:11:15 8100] Allocated ID 6AFA8DC700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:15 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (14904) ====
+[T 22:11:15 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:11:15 8100] Executing the following tracer actions:
+[T 22:11:15 8100] Tracer actions:
+[T 22:11:15 8100] pre_invocations(0)
+[T 22:11:15 8100] post_invocations(0)
+[T 22:11:15 8100] trace_languages(1): [java]
+[T 22:11:15 14904] Initializing tracer.
+[T 22:11:15 14904] Initializing tags.
+[T 22:11:15 14904] ID set to 6AFA8DC700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:15 14904] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:11:15 14904] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:11:15 14904] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:11:20 8100] Allocated ID 7D3F427100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:20 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28048) ====
+[T 22:11:20 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:11:20 8100] Executing the following tracer actions:
+[T 22:11:20 8100] Tracer actions:
+[T 22:11:20 8100] pre_invocations(0)
+[T 22:11:20 8100] post_invocations(0)
+[T 22:11:20 8100] trace_languages(1): [java]
+[T 22:11:20 28048] Initializing tracer.
+[T 22:11:20 28048] Initializing tags.
+[T 22:11:20 28048] ID set to 7D3F427100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:20 28048] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:11:20 28048] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:11:20 28048] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:11:24 8100] Allocated ID 0595601800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:24 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (27672) ====
+[T 22:11:24 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:11:24 8100] Executing the following tracer actions:
+[T 22:11:24 8100] Tracer actions:
+[T 22:11:24 8100] pre_invocations(0)
+[T 22:11:24 8100] post_invocations(0)
+[T 22:11:24 8100] trace_languages(1): [java]
+[T 22:11:24 27672] Initializing tracer.
+[T 22:11:24 27672] Initializing tags.
+[T 22:11:24 27672] ID set to 0595601800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:24 27672] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:11:24 27672] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:11:24 27672] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:11:33 8100] Allocated ID 4782AB5E00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:33 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (5592) ====
+[T 22:11:33 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:11:33 8100] Executing the following tracer actions:
+[T 22:11:33 8100] Tracer actions:
+[T 22:11:33 8100] pre_invocations(0)
+[T 22:11:33 8100] post_invocations(0)
+[T 22:11:33 8100] trace_languages(1): [java]
+[T 22:11:33 5592] Initializing tracer.
+[T 22:11:33 5592] Initializing tags.
+[T 22:11:33 5592] ID set to 4782AB5E00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:33 5592] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:11:33 5592] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:11:33 5592] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:11:42 8100] Allocated ID 66DFC8EA00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:42 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (5400) ====
+[T 22:11:42 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:11:42 8100] Executing the following tracer actions:
+[T 22:11:42 8100] Tracer actions:
+[T 22:11:42 8100] pre_invocations(0)
+[T 22:11:42 8100] post_invocations(0)
+[T 22:11:42 8100] trace_languages(1): [java]
+[T 22:11:42 5400] Initializing tracer.
+[T 22:11:42 5400] Initializing tags.
+[T 22:11:42 5400] ID set to 66DFC8EA00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:42 5400] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:11:42 5400] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:11:43 5400] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:11:52 8100] Allocated ID 0E621DB900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:52 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (17668) ====
+[T 22:11:52 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:11:52 8100] Executing the following tracer actions:
+[T 22:11:52 8100] Tracer actions:
+[T 22:11:52 8100] pre_invocations(0)
+[T 22:11:52 8100] post_invocations(0)
+[T 22:11:52 8100] trace_languages(1): [java]
+[T 22:11:52 17668] Initializing tracer.
+[T 22:11:52 17668] Initializing tags.
+[T 22:11:52 17668] ID set to 0E621DB900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:11:52 17668] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:11:52 17668] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:11:52 17668] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:12:02 8100] Allocated ID AFA5E6E600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:02 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (4848) ====
+[T 22:12:02 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:12:02 8100] Executing the following tracer actions:
+[T 22:12:02 8100] Tracer actions:
+[T 22:12:02 8100] pre_invocations(0)
+[T 22:12:02 8100] post_invocations(0)
+[T 22:12:02 8100] trace_languages(1): [java]
+[T 22:12:02 4848] Initializing tracer.
+[T 22:12:02 4848] Initializing tags.
+[T 22:12:02 4848] ID set to AFA5E6E600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:02 4848] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:12:02 4848] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:12:03 4848] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:12:08 8100] Allocated ID 76C9FB9B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:08 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (25304) ====
+[T 22:12:08 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:12:08 8100] Executing the following tracer actions:
+[T 22:12:08 8100] Tracer actions:
+[T 22:12:08 8100] pre_invocations(0)
+[T 22:12:08 8100] post_invocations(0)
+[T 22:12:08 8100] trace_languages(1): [java]
+[T 22:12:08 25304] Initializing tracer.
+[T 22:12:08 25304] Initializing tags.
+[T 22:12:08 25304] ID set to 76C9FB9B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:08 25304] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:12:08 25304] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:12:08 25304] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:12:13 8100] Allocated ID 4FF69BC400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:13 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (26784) ====
+[T 22:12:13 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:12:13 8100] Executing the following tracer actions:
+[T 22:12:13 8100] Tracer actions:
+[T 22:12:13 8100] pre_invocations(0)
+[T 22:12:13 8100] post_invocations(0)
+[T 22:12:13 8100] trace_languages(1): [java]
+[T 22:12:13 26784] Initializing tracer.
+[T 22:12:13 26784] Initializing tags.
+[T 22:12:13 26784] ID set to 4FF69BC400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:13 26784] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:12:13 26784] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:12:13 26784] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:12:18 8100] Allocated ID 731DA26600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:18 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (5304) ====
+[T 22:12:18 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:12:18 8100] Executing the following tracer actions:
+[T 22:12:18 8100] Tracer actions:
+[T 22:12:18 8100] pre_invocations(0)
+[T 22:12:18 8100] post_invocations(0)
+[T 22:12:18 8100] trace_languages(1): [java]
+[T 22:12:18 5304] Initializing tracer.
+[T 22:12:18 5304] Initializing tags.
+[T 22:12:18 5304] ID set to 731DA26600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:18 5304] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:12:18 5304] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:12:18 5304] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:12:23 8100] Allocated ID 6334666D00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:23 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (20716) ====
+[T 22:12:23 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:12:23 8100] Executing the following tracer actions:
+[T 22:12:23 8100] Tracer actions:
+[T 22:12:23 8100] pre_invocations(0)
+[T 22:12:23 8100] post_invocations(0)
+[T 22:12:23 8100] trace_languages(1): [java]
+[T 22:12:23 20716] Initializing tracer.
+[T 22:12:23 20716] Initializing tags.
+[T 22:12:23 20716] ID set to 6334666D00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:24 20716] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:12:24 20716] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:12:24 20716] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:12:32 8100] Allocated ID B061E32B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:32 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (24708) ====
+[T 22:12:32 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:12:32 8100] Executing the following tracer actions:
+[T 22:12:32 8100] Tracer actions:
+[T 22:12:32 8100] pre_invocations(0)
+[T 22:12:32 8100] post_invocations(0)
+[T 22:12:32 8100] trace_languages(1): [java]
+[T 22:12:32 24708] Initializing tracer.
+[T 22:12:32 24708] Initializing tags.
+[T 22:12:32 24708] ID set to B061E32B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:32 24708] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:12:32 24708] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:12:33 24708] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:12:39 8100] Allocated ID 8719856900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:39 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (21128) ====
+[T 22:12:39 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:12:39 8100] Executing the following tracer actions:
+[T 22:12:39 8100] Tracer actions:
+[T 22:12:39 8100] pre_invocations(0)
+[T 22:12:39 8100] post_invocations(0)
+[T 22:12:39 8100] trace_languages(1): [java]
+[T 22:12:39 21128] Initializing tracer.
+[T 22:12:39 21128] Initializing tags.
+[T 22:12:39 21128] ID set to 8719856900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:39 21128] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:12:39 21128] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:12:40 21128] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:12:46 8100] Allocated ID 02EF0B1400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:46 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (25160) ====
+[T 22:12:46 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:12:46 8100] Executing the following tracer actions:
+[T 22:12:46 8100] Tracer actions:
+[T 22:12:46 8100] pre_invocations(0)
+[T 22:12:46 8100] post_invocations(0)
+[T 22:12:46 8100] trace_languages(1): [java]
+[T 22:12:46 25160] Initializing tracer.
+[T 22:12:46 25160] Initializing tags.
+[T 22:12:46 25160] ID set to 02EF0B1400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:46 25160] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:12:46 25160] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:12:47 25160] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:12:56 8100] Allocated ID A758BF7500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:56 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (8672) ====
+[T 22:12:56 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:12:56 8100] Executing the following tracer actions:
+[T 22:12:56 8100] Tracer actions:
+[T 22:12:56 8100] pre_invocations(0)
+[T 22:12:56 8100] post_invocations(0)
+[T 22:12:56 8100] trace_languages(1): [java]
+[T 22:12:56 8672] Initializing tracer.
+[T 22:12:56 8672] Initializing tags.
+[T 22:12:56 8672] ID set to A758BF7500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:12:56 8672] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:12:56 8672] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:12:56 8672] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:13:02 8100] Allocated ID 52A82C2200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:02 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (11652) ====
+[T 22:13:02 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:13:02 8100] Executing the following tracer actions:
+[T 22:13:02 8100] Tracer actions:
+[T 22:13:02 8100] pre_invocations(0)
+[T 22:13:02 8100] post_invocations(0)
+[T 22:13:02 8100] trace_languages(1): [java]
+[T 22:13:02 11652] Initializing tracer.
+[T 22:13:02 11652] Initializing tags.
+[T 22:13:02 11652] ID set to 52A82C2200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:02 11652] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:13:02 11652] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:13:03 11652] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:13:08 8100] Allocated ID 749E17E100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:08 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (18864) ====
+[T 22:13:08 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:13:08 8100] Executing the following tracer actions:
+[T 22:13:08 8100] Tracer actions:
+[T 22:13:08 8100] pre_invocations(0)
+[T 22:13:08 8100] post_invocations(0)
+[T 22:13:08 8100] trace_languages(1): [java]
+[T 22:13:08 18864] Initializing tracer.
+[T 22:13:08 18864] Initializing tags.
+[T 22:13:08 18864] ID set to 749E17E100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:08 18864] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:13:08 18864] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:13:09 18864] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:13:15 8100] Allocated ID 5DEEBA2200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:15 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (25908) ====
+[T 22:13:15 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:13:15 8100] Executing the following tracer actions:
+[T 22:13:15 8100] Tracer actions:
+[T 22:13:15 8100] pre_invocations(0)
+[T 22:13:15 8100] post_invocations(0)
+[T 22:13:15 8100] trace_languages(1): [java]
+[T 22:13:15 25908] Initializing tracer.
+[T 22:13:15 25908] Initializing tags.
+[T 22:13:15 25908] ID set to 5DEEBA2200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:15 25908] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:13:15 25908] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:13:16 25908] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:13:21 8100] Allocated ID A77D1F5D00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:21 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (25160) ====
+[T 22:13:21 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:13:21 8100] Executing the following tracer actions:
+[T 22:13:21 8100] Tracer actions:
+[T 22:13:21 8100] pre_invocations(0)
+[T 22:13:21 8100] post_invocations(0)
+[T 22:13:21 8100] trace_languages(1): [java]
+[T 22:13:21 25160] Initializing tracer.
+[T 22:13:21 25160] Initializing tags.
+[T 22:13:21 25160] ID set to A77D1F5D00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:21 25160] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:13:21 25160] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:13:21 25160] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:13:31 8100] Allocated ID 8D53B08D00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:31 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (21544) ====
+[T 22:13:31 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:13:31 8100] Executing the following tracer actions:
+[T 22:13:31 8100] Tracer actions:
+[T 22:13:31 8100] pre_invocations(0)
+[T 22:13:31 8100] post_invocations(0)
+[T 22:13:31 8100] trace_languages(1): [java]
+[T 22:13:31 21544] Initializing tracer.
+[T 22:13:31 21544] Initializing tags.
+[T 22:13:31 21544] ID set to 8D53B08D00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:31 21544] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:13:31 21544] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:13:31 21544] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:13:36 8100] Allocated ID ADE9037000001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:36 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (13168) ====
+[T 22:13:36 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:13:36 8100] Executing the following tracer actions:
+[T 22:13:36 8100] Tracer actions:
+[T 22:13:36 8100] pre_invocations(0)
+[T 22:13:36 8100] post_invocations(0)
+[T 22:13:36 8100] trace_languages(1): [java]
+[T 22:13:36 13168] Initializing tracer.
+[T 22:13:36 13168] Initializing tags.
+[T 22:13:36 13168] ID set to ADE9037000001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:36 13168] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:13:36 13168] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:13:37 13168] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:13:43 8100] Allocated ID 1097EE8400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:43 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (29296) ====
+[T 22:13:43 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:13:43 8100] Executing the following tracer actions:
+[T 22:13:43 8100] Tracer actions:
+[T 22:13:43 8100] pre_invocations(0)
+[T 22:13:43 8100] post_invocations(0)
+[T 22:13:43 8100] trace_languages(1): [java]
+[T 22:13:43 29296] Initializing tracer.
+[T 22:13:43 29296] Initializing tags.
+[T 22:13:43 29296] ID set to 1097EE8400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:43 29296] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:13:43 29296] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:13:43 29296] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:13:52 8100] Allocated ID 077AC27700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:52 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (11916) ====
+[T 22:13:52 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:13:52 8100] Executing the following tracer actions:
+[T 22:13:52 8100] Tracer actions:
+[T 22:13:52 8100] pre_invocations(0)
+[T 22:13:52 8100] post_invocations(0)
+[T 22:13:52 8100] trace_languages(1): [java]
+[T 22:13:52 11916] Initializing tracer.
+[T 22:13:52 11916] Initializing tags.
+[T 22:13:52 11916] ID set to 077AC27700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:13:52 11916] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:13:52 11916] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:13:52 11916] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:14:01 8100] Allocated ID B5D1287C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:01 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (27012) ====
+[T 22:14:01 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:14:01 8100] Executing the following tracer actions:
+[T 22:14:01 8100] Tracer actions:
+[T 22:14:01 8100] pre_invocations(0)
+[T 22:14:01 8100] post_invocations(0)
+[T 22:14:01 8100] trace_languages(1): [java]
+[T 22:14:01 27012] Initializing tracer.
+[T 22:14:01 27012] Initializing tags.
+[T 22:14:01 27012] ID set to B5D1287C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:01 27012] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:14:01 27012] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:14:01 27012] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:14:08 8100] Allocated ID FD82E43900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:08 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (7152) ====
+[T 22:14:08 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:14:08 8100] Executing the following tracer actions:
+[T 22:14:08 8100] Tracer actions:
+[T 22:14:08 8100] pre_invocations(0)
+[T 22:14:08 8100] post_invocations(0)
+[T 22:14:08 8100] trace_languages(1): [java]
+[T 22:14:08 7152] Initializing tracer.
+[T 22:14:08 7152] Initializing tags.
+[T 22:14:08 7152] ID set to FD82E43900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:08 7152] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:14:08 7152] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:14:08 7152] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:14:16 8100] Allocated ID DB6B503E00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:16 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (26368) ====
+[T 22:14:16 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:14:16 8100] Executing the following tracer actions:
+[T 22:14:16 8100] Tracer actions:
+[T 22:14:16 8100] pre_invocations(0)
+[T 22:14:16 8100] post_invocations(0)
+[T 22:14:16 8100] trace_languages(1): [java]
+[T 22:14:16 26368] Initializing tracer.
+[T 22:14:16 26368] Initializing tags.
+[T 22:14:16 26368] ID set to DB6B503E00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:16 26368] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:14:16 26368] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:14:16 26368] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:14:22 8100] Allocated ID 7F67727C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:22 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (29184) ====
+[T 22:14:22 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:14:22 8100] Executing the following tracer actions:
+[T 22:14:22 8100] Tracer actions:
+[T 22:14:22 8100] pre_invocations(0)
+[T 22:14:22 8100] post_invocations(0)
+[T 22:14:22 8100] trace_languages(1): [java]
+[T 22:14:22 29184] Initializing tracer.
+[T 22:14:22 29184] Initializing tags.
+[T 22:14:22 29184] ID set to 7F67727C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:22 29184] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:14:22 29184] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:14:23 29184] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:14:31 8100] Allocated ID D842D1A100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:31 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (24200) ====
+[T 22:14:31 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:14:31 8100] Executing the following tracer actions:
+[T 22:14:31 8100] Tracer actions:
+[T 22:14:31 8100] pre_invocations(0)
+[T 22:14:31 8100] post_invocations(0)
+[T 22:14:31 8100] trace_languages(1): [java]
+[T 22:14:31 24200] Initializing tracer.
+[T 22:14:31 24200] Initializing tags.
+[T 22:14:31 24200] ID set to D842D1A100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:32 24200] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:14:32 24200] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:14:32 24200] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:14:36 8100] Allocated ID 96AFEACD00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:36 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (14980) ====
+[T 22:14:36 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:14:36 8100] Executing the following tracer actions:
+[T 22:14:36 8100] Tracer actions:
+[T 22:14:36 8100] pre_invocations(0)
+[T 22:14:36 8100] post_invocations(0)
+[T 22:14:36 8100] trace_languages(1): [java]
+[T 22:14:37 14980] Initializing tracer.
+[T 22:14:37 14980] Initializing tags.
+[T 22:14:37 14980] ID set to 96AFEACD00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:37 14980] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:14:37 14980] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:14:37 14980] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:14:42 8100] Allocated ID D0526E7700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:42 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (7740) ====
+[T 22:14:42 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:14:42 8100] Executing the following tracer actions:
+[T 22:14:42 8100] Tracer actions:
+[T 22:14:42 8100] pre_invocations(0)
+[T 22:14:42 8100] post_invocations(0)
+[T 22:14:42 8100] trace_languages(1): [java]
+[T 22:14:42 7740] Initializing tracer.
+[T 22:14:42 7740] Initializing tags.
+[T 22:14:42 7740] ID set to D0526E7700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:42 7740] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:14:42 7740] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:14:42 7740] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:14:50 8100] Allocated ID FAACD11C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:50 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (4168) ====
+[T 22:14:50 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:14:50 8100] Executing the following tracer actions:
+[T 22:14:50 8100] Tracer actions:
+[T 22:14:50 8100] pre_invocations(0)
+[T 22:14:50 8100] post_invocations(0)
+[T 22:14:50 8100] trace_languages(1): [java]
+[T 22:14:50 4168] Initializing tracer.
+[T 22:14:50 4168] Initializing tags.
+[T 22:14:50 4168] ID set to FAACD11C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:50 4168] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:14:50 4168] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:14:50 4168] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:14:55 8100] Allocated ID 1301D70000001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:55 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (4524) ====
+[T 22:14:55 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:14:55 8100] Executing the following tracer actions:
+[T 22:14:55 8100] Tracer actions:
+[T 22:14:55 8100] pre_invocations(0)
+[T 22:14:55 8100] post_invocations(0)
+[T 22:14:55 8100] trace_languages(1): [java]
+[T 22:14:55 4524] Initializing tracer.
+[T 22:14:55 4524] Initializing tags.
+[T 22:14:55 4524] ID set to 1301D70000001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:14:55 4524] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:14:55 4524] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:14:55 4524] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:15:00 8100] Allocated ID 4DA94B7400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:00 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (16040) ====
+[T 22:15:00 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:15:00 8100] Executing the following tracer actions:
+[T 22:15:00 8100] Tracer actions:
+[T 22:15:00 8100] pre_invocations(0)
+[T 22:15:00 8100] post_invocations(0)
+[T 22:15:00 8100] trace_languages(1): [java]
+[T 22:15:00 16040] Initializing tracer.
+[T 22:15:00 16040] Initializing tags.
+[T 22:15:00 16040] ID set to 4DA94B7400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:00 16040] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:15:00 16040] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:15:00 16040] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:15:04 8100] Allocated ID B61AB7C100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:04 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (8604) ====
+[T 22:15:04 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:15:04 8100] Executing the following tracer actions:
+[T 22:15:04 8100] Tracer actions:
+[T 22:15:04 8100] pre_invocations(0)
+[T 22:15:04 8100] post_invocations(0)
+[T 22:15:04 8100] trace_languages(1): [java]
+[T 22:15:04 8604] Initializing tracer.
+[T 22:15:04 8604] Initializing tags.
+[T 22:15:04 8604] ID set to B61AB7C100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:04 8604] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:15:04 8604] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:15:05 8604] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:15:09 8100] Allocated ID 58113A1D00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:09 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (24884) ====
+[T 22:15:09 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:15:09 8100] Executing the following tracer actions:
+[T 22:15:09 8100] Tracer actions:
+[T 22:15:09 8100] pre_invocations(0)
+[T 22:15:09 8100] post_invocations(0)
+[T 22:15:09 8100] trace_languages(1): [java]
+[T 22:15:09 24884] Initializing tracer.
+[T 22:15:09 24884] Initializing tags.
+[T 22:15:09 24884] ID set to 58113A1D00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:09 24884] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:15:09 24884] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:15:09 24884] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:15:18 8100] Allocated ID CCE9884F00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:18 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (20024) ====
+[T 22:15:18 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:15:18 8100] Executing the following tracer actions:
+[T 22:15:18 8100] Tracer actions:
+[T 22:15:18 8100] pre_invocations(0)
+[T 22:15:18 8100] post_invocations(0)
+[T 22:15:18 8100] trace_languages(1): [java]
+[T 22:15:18 20024] Initializing tracer.
+[T 22:15:18 20024] Initializing tags.
+[T 22:15:18 20024] ID set to CCE9884F00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:18 20024] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:15:18 20024] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:15:18 20024] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:15:27 8100] Allocated ID F3D55A6F00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:27 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (24788) ====
+[T 22:15:27 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:15:27 8100] Executing the following tracer actions:
+[T 22:15:27 8100] Tracer actions:
+[T 22:15:27 8100] pre_invocations(0)
+[T 22:15:27 8100] post_invocations(0)
+[T 22:15:27 8100] trace_languages(1): [java]
+[T 22:15:27 24788] Initializing tracer.
+[T 22:15:27 24788] Initializing tags.
+[T 22:15:27 24788] ID set to F3D55A6F00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:27 24788] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:15:27 24788] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:15:27 24788] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:15:36 8100] Allocated ID 79B253DB00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:36 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (20448) ====
+[T 22:15:36 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:15:36 8100] Executing the following tracer actions:
+[T 22:15:36 8100] Tracer actions:
+[T 22:15:36 8100] pre_invocations(0)
+[T 22:15:36 8100] post_invocations(0)
+[T 22:15:36 8100] trace_languages(1): [java]
+[T 22:15:36 20448] Initializing tracer.
+[T 22:15:36 20448] Initializing tags.
+[T 22:15:36 20448] ID set to 79B253DB00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:36 20448] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:15:36 20448] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:15:36 20448] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:15:48 8100] Allocated ID 5DB30B2F00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:48 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (29692) ====
+[T 22:15:48 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:15:48 8100] Executing the following tracer actions:
+[T 22:15:48 8100] Tracer actions:
+[T 22:15:48 8100] pre_invocations(0)
+[T 22:15:48 8100] post_invocations(0)
+[T 22:15:48 8100] trace_languages(1): [java]
+[T 22:15:48 29692] Initializing tracer.
+[T 22:15:48 29692] Initializing tags.
+[T 22:15:48 29692] ID set to 5DB30B2F00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:15:48 29692] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:15:48 29692] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:15:48 29692] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:16:01 8100] Allocated ID F7BA899500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:01 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (27204) ====
+[T 22:16:01 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:16:01 8100] Executing the following tracer actions:
+[T 22:16:01 8100] Tracer actions:
+[T 22:16:01 8100] pre_invocations(0)
+[T 22:16:01 8100] post_invocations(0)
+[T 22:16:01 8100] trace_languages(1): [java]
+[T 22:16:01 27204] Initializing tracer.
+[T 22:16:01 27204] Initializing tags.
+[T 22:16:01 27204] ID set to F7BA899500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:01 27204] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:16:01 27204] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:16:02 27204] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:16:08 8100] Allocated ID B5C15E4700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:08 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (5332) ====
+[T 22:16:08 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:16:08 8100] Executing the following tracer actions:
+[T 22:16:08 8100] Tracer actions:
+[T 22:16:08 8100] pre_invocations(0)
+[T 22:16:08 8100] post_invocations(0)
+[T 22:16:08 8100] trace_languages(1): [java]
+[T 22:16:08 5332] Initializing tracer.
+[T 22:16:08 5332] Initializing tags.
+[T 22:16:08 5332] ID set to B5C15E4700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:08 5332] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:16:08 5332] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:16:08 5332] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:16:22 8100] Allocated ID C75AA12F00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:22 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (25752) ====
+[T 22:16:22 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:16:22 8100] Executing the following tracer actions:
+[T 22:16:22 8100] Tracer actions:
+[T 22:16:22 8100] pre_invocations(0)
+[T 22:16:22 8100] post_invocations(0)
+[T 22:16:22 8100] trace_languages(1): [java]
+[T 22:16:22 25752] Initializing tracer.
+[T 22:16:22 25752] Initializing tags.
+[T 22:16:22 25752] ID set to C75AA12F00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:22 25752] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:16:22 25752] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:16:23 25752] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:16:26 8100] Allocated ID EDA906D900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:26 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28116) ====
+[T 22:16:26 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:16:26 8100] Executing the following tracer actions:
+[T 22:16:26 8100] Tracer actions:
+[T 22:16:26 8100] pre_invocations(0)
+[T 22:16:26 8100] post_invocations(0)
+[T 22:16:26 8100] trace_languages(1): [java]
+[T 22:16:26 28116] Initializing tracer.
+[T 22:16:26 28116] Initializing tags.
+[T 22:16:26 28116] ID set to EDA906D900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:27 28116] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:16:27 28116] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:16:27 28116] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:16:30 8100] Allocated ID 7E690C7200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:30 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (23460) ====
+[T 22:16:30 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:16:30 8100] Executing the following tracer actions:
+[T 22:16:30 8100] Tracer actions:
+[T 22:16:30 8100] pre_invocations(0)
+[T 22:16:30 8100] post_invocations(0)
+[T 22:16:30 8100] trace_languages(1): [java]
+[T 22:16:30 23460] Initializing tracer.
+[T 22:16:30 23460] Initializing tags.
+[T 22:16:30 23460] ID set to 7E690C7200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:30 23460] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:16:30 23460] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:16:30 23460] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:16:40 8100] Allocated ID 9CC8677A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:40 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (25344) ====
+[T 22:16:40 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:16:40 8100] Executing the following tracer actions:
+[T 22:16:40 8100] Tracer actions:
+[T 22:16:40 8100] pre_invocations(0)
+[T 22:16:40 8100] post_invocations(0)
+[T 22:16:40 8100] trace_languages(1): [java]
+[T 22:16:40 25344] Initializing tracer.
+[T 22:16:40 25344] Initializing tags.
+[T 22:16:40 25344] ID set to 9CC8677A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:40 25344] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:16:40 25344] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:16:40 25344] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:16:43 8100] Allocated ID 4CDC655800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:43 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (7240) ====
+[T 22:16:43 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:16:43 8100] Executing the following tracer actions:
+[T 22:16:43 8100] Tracer actions:
+[T 22:16:43 8100] pre_invocations(0)
+[T 22:16:43 8100] post_invocations(0)
+[T 22:16:43 8100] trace_languages(1): [java]
+[T 22:16:43 7240] Initializing tracer.
+[T 22:16:43 7240] Initializing tags.
+[T 22:16:43 7240] ID set to 4CDC655800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:43 7240] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:16:43 7240] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:16:44 7240] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:16:52 8100] Allocated ID DE10E71A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:52 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (10876) ====
+[T 22:16:52 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:16:52 8100] Executing the following tracer actions:
+[T 22:16:52 8100] Tracer actions:
+[T 22:16:52 8100] pre_invocations(0)
+[T 22:16:52 8100] post_invocations(0)
+[T 22:16:52 8100] trace_languages(1): [java]
+[T 22:16:52 10876] Initializing tracer.
+[T 22:16:52 10876] Initializing tags.
+[T 22:16:52 10876] ID set to DE10E71A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:16:52 10876] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:16:52 10876] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:16:52 10876] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:18:33 8100] Allocated ID 9B011C1300001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:18:33 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (4644) ====
+[T 22:18:33 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:18:33 8100] Executing the following tracer actions:
+[T 22:18:33 8100] Tracer actions:
+[T 22:18:33 8100] pre_invocations(0)
+[T 22:18:33 8100] post_invocations(0)
+[T 22:18:33 8100] trace_languages(1): [java]
+[T 22:18:33 4644] Initializing tracer.
+[T 22:18:33 4644] Initializing tags.
+[T 22:18:33 4644] ID set to 9B011C1300001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:18:33 4644] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:18:33 4644] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:18:34 4644] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:18:39 8100] Allocated ID A5DAB97500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:18:39 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (4384) ====
+[T 22:18:39 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:18:39 8100] Executing the following tracer actions:
+[T 22:18:39 8100] Tracer actions:
+[T 22:18:39 8100] pre_invocations(0)
+[T 22:18:39 8100] post_invocations(0)
+[T 22:18:39 8100] trace_languages(1): [java]
+[T 22:18:39 4384] Initializing tracer.
+[T 22:18:39 4384] Initializing tags.
+[T 22:18:39 4384] ID set to A5DAB97500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:18:40 4384] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:18:40 4384] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:18:40 4384] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:18:47 8100] Allocated ID 94C1830B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:18:47 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28168) ====
+[T 22:18:47 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:18:47 8100] Executing the following tracer actions:
+[T 22:18:47 8100] Tracer actions:
+[T 22:18:47 8100] pre_invocations(0)
+[T 22:18:47 8100] post_invocations(0)
+[T 22:18:47 8100] trace_languages(1): [java]
+[T 22:18:47 28168] Initializing tracer.
+[T 22:18:47 28168] Initializing tags.
+[T 22:18:47 28168] ID set to 94C1830B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:18:47 28168] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:18:47 28168] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:18:48 28168] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:18:55 8100] Allocated ID 399F05D200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:18:56 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (9224) ====
+[T 22:18:56 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:18:56 8100] Executing the following tracer actions:
+[T 22:18:56 8100] Tracer actions:
+[T 22:18:56 8100] pre_invocations(0)
+[T 22:18:56 8100] post_invocations(0)
+[T 22:18:56 8100] trace_languages(1): [java]
+[T 22:18:56 9224] Initializing tracer.
+[T 22:18:56 9224] Initializing tags.
+[T 22:18:56 9224] ID set to 399F05D200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:18:56 9224] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:18:56 9224] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:18:56 9224] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:19:01 8100] Allocated ID 8E8B0A9700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:01 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (6292) ====
+[T 22:19:01 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:19:01 8100] Executing the following tracer actions:
+[T 22:19:01 8100] Tracer actions:
+[T 22:19:01 8100] pre_invocations(0)
+[T 22:19:01 8100] post_invocations(0)
+[T 22:19:01 8100] trace_languages(1): [java]
+[T 22:19:01 6292] Initializing tracer.
+[T 22:19:01 6292] Initializing tags.
+[T 22:19:01 6292] ID set to 8E8B0A9700001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:01 6292] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:19:01 6292] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:19:02 6292] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:19:09 8100] Allocated ID 5F120D3C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:09 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (29204) ====
+[T 22:19:09 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:19:09 8100] Executing the following tracer actions:
+[T 22:19:09 8100] Tracer actions:
+[T 22:19:09 8100] pre_invocations(0)
+[T 22:19:09 8100] post_invocations(0)
+[T 22:19:09 8100] trace_languages(1): [java]
+[T 22:19:09 29204] Initializing tracer.
+[T 22:19:09 29204] Initializing tags.
+[T 22:19:09 29204] ID set to 5F120D3C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:09 29204] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:19:09 29204] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:19:09 29204] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:19:14 8100] Allocated ID ECC9DAE900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:14 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (27092) ====
+[T 22:19:14 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:19:14 8100] Executing the following tracer actions:
+[T 22:19:14 8100] Tracer actions:
+[T 22:19:14 8100] pre_invocations(0)
+[T 22:19:14 8100] post_invocations(0)
+[T 22:19:14 8100] trace_languages(1): [java]
+[T 22:19:14 27092] Initializing tracer.
+[T 22:19:14 27092] Initializing tags.
+[T 22:19:14 27092] ID set to ECC9DAE900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:15 27092] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:19:15 27092] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:19:15 27092] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:19:23 8100] Allocated ID 52CDD80B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:23 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28448) ====
+[T 22:19:23 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:19:23 8100] Executing the following tracer actions:
+[T 22:19:23 8100] Tracer actions:
+[T 22:19:23 8100] pre_invocations(0)
+[T 22:19:23 8100] post_invocations(0)
+[T 22:19:23 8100] trace_languages(1): [java]
+[T 22:19:23 28448] Initializing tracer.
+[T 22:19:23 28448] Initializing tags.
+[T 22:19:23 28448] ID set to 52CDD80B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:24 28448] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:19:24 28448] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:19:24 28448] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:19:27 8100] Allocated ID A5F8C66C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:27 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (22332) ====
+[T 22:19:27 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:19:27 8100] Executing the following tracer actions:
+[T 22:19:27 8100] Tracer actions:
+[T 22:19:27 8100] pre_invocations(0)
+[T 22:19:27 8100] post_invocations(0)
+[T 22:19:27 8100] trace_languages(1): [java]
+[T 22:19:27 22332] Initializing tracer.
+[T 22:19:27 22332] Initializing tags.
+[T 22:19:27 22332] ID set to A5F8C66C00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:27 22332] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:19:27 22332] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:19:27 22332] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:19:32 8100] Allocated ID 503D4FFD00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:32 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (8456) ====
+[T 22:19:32 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:19:32 8100] Executing the following tracer actions:
+[T 22:19:32 8100] Tracer actions:
+[T 22:19:32 8100] pre_invocations(0)
+[T 22:19:32 8100] post_invocations(0)
+[T 22:19:32 8100] trace_languages(1): [java]
+[T 22:19:32 8456] Initializing tracer.
+[T 22:19:32 8456] Initializing tags.
+[T 22:19:32 8456] ID set to 503D4FFD00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:32 8456] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:19:32 8456] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:19:32 8456] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:19:42 8100] Allocated ID FD10695A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:42 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (22392) ====
+[T 22:19:42 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:19:42 8100] Executing the following tracer actions:
+[T 22:19:42 8100] Tracer actions:
+[T 22:19:42 8100] pre_invocations(0)
+[T 22:19:42 8100] post_invocations(0)
+[T 22:19:42 8100] trace_languages(1): [java]
+[T 22:19:42 22392] Initializing tracer.
+[T 22:19:42 22392] Initializing tags.
+[T 22:19:42 22392] ID set to FD10695A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:42 22392] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:19:42 22392] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:19:42 22392] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:19:49 8100] Allocated ID E657495600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:49 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (27128) ====
+[T 22:19:49 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:19:49 8100] Executing the following tracer actions:
+[T 22:19:49 8100] Tracer actions:
+[T 22:19:49 8100] pre_invocations(0)
+[T 22:19:49 8100] post_invocations(0)
+[T 22:19:49 8100] trace_languages(1): [java]
+[T 22:19:49 27128] Initializing tracer.
+[T 22:19:49 27128] Initializing tags.
+[T 22:19:49 27128] ID set to E657495600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:49 27128] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:19:49 27128] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:19:49 27128] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:19:57 8100] Allocated ID 6EC5585A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:57 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (9576) ====
+[T 22:19:57 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:19:57 8100] Executing the following tracer actions:
+[T 22:19:57 8100] Tracer actions:
+[T 22:19:57 8100] pre_invocations(0)
+[T 22:19:57 8100] post_invocations(0)
+[T 22:19:57 8100] trace_languages(1): [java]
+[T 22:19:57 9576] Initializing tracer.
+[T 22:19:57 9576] Initializing tags.
+[T 22:19:57 9576] ID set to 6EC5585A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:19:57 9576] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:19:57 9576] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:19:57 9576] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:20:03 8100] Allocated ID 8D4C9ECB00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:20:03 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (9288) ====
+[T 22:20:03 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:20:03 8100] Executing the following tracer actions:
+[T 22:20:03 8100] Tracer actions:
+[T 22:20:03 8100] pre_invocations(0)
+[T 22:20:03 8100] post_invocations(0)
+[T 22:20:03 8100] trace_languages(1): [java]
+[T 22:20:03 9288] Initializing tracer.
+[T 22:20:03 9288] Initializing tags.
+[T 22:20:03 9288] ID set to 8D4C9ECB00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:20:03 9288] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:20:03 9288] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:20:04 9288] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:20:10 8100] Allocated ID 3AACD86600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:20:10 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (25760) ====
+[T 22:20:10 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:20:10 8100] Executing the following tracer actions:
+[T 22:20:10 8100] Tracer actions:
+[T 22:20:10 8100] pre_invocations(0)
+[T 22:20:10 8100] post_invocations(0)
+[T 22:20:10 8100] trace_languages(1): [java]
+[T 22:20:10 25760] Initializing tracer.
+[T 22:20:10 25760] Initializing tags.
+[T 22:20:10 25760] ID set to 3AACD86600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:20:10 25760] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:20:10 25760] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:20:10 25760] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:20:30 8100] Allocated ID C4B5358400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:20:30 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (21080) ====
+[T 22:20:30 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:20:30 8100] Executing the following tracer actions:
+[T 22:20:30 8100] Tracer actions:
+[T 22:20:30 8100] pre_invocations(0)
+[T 22:20:30 8100] post_invocations(0)
+[T 22:20:30 8100] trace_languages(1): [java]
+[T 22:20:30 21080] Initializing tracer.
+[T 22:20:30 21080] Initializing tags.
+[T 22:20:30 21080] ID set to C4B5358400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:20:30 21080] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:20:30 21080] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:20:30 21080] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:20:38 8100] Allocated ID 33C922FC00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:20:38 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (5656) ====
+[T 22:20:38 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:20:38 8100] Executing the following tracer actions:
+[T 22:20:38 8100] Tracer actions:
+[T 22:20:38 8100] pre_invocations(0)
+[T 22:20:38 8100] post_invocations(0)
+[T 22:20:38 8100] trace_languages(1): [java]
+[T 22:20:38 5656] Initializing tracer.
+[T 22:20:38 5656] Initializing tags.
+[T 22:20:38 5656] ID set to 33C922FC00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:20:39 5656] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:20:39 5656] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:20:39 5656] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:21:37 8100] Allocated ID 26BE451B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:21:37 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (29300) ====
+[T 22:21:37 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:21:37 8100] Executing the following tracer actions:
+[T 22:21:37 8100] Tracer actions:
+[T 22:21:37 8100] pre_invocations(0)
+[T 22:21:37 8100] post_invocations(0)
+[T 22:21:37 8100] trace_languages(1): [java]
+[T 22:21:37 29300] Initializing tracer.
+[T 22:21:37 29300] Initializing tags.
+[T 22:21:37 29300] ID set to 26BE451B00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:21:37 29300] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:21:37 29300] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:21:37 29300] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:22:09 8100] Allocated ID 0909B03900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:09 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (13580) ====
+[T 22:22:09 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:22:09 8100] Executing the following tracer actions:
+[T 22:22:09 8100] Tracer actions:
+[T 22:22:09 8100] pre_invocations(0)
+[T 22:22:09 8100] post_invocations(0)
+[T 22:22:09 8100] trace_languages(1): [java]
+[T 22:22:09 13580] Initializing tracer.
+[T 22:22:09 13580] Initializing tags.
+[T 22:22:09 13580] ID set to 0909B03900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:09 13580] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:22:09 13580] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:22:10 13580] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:22:18 8100] Allocated ID 19FC01D400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:18 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (29480) ====
+[T 22:22:18 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:22:18 8100] Executing the following tracer actions:
+[T 22:22:18 8100] Tracer actions:
+[T 22:22:18 8100] pre_invocations(0)
+[T 22:22:18 8100] post_invocations(0)
+[T 22:22:18 8100] trace_languages(1): [java]
+[T 22:22:18 29480] Initializing tracer.
+[T 22:22:18 29480] Initializing tags.
+[T 22:22:18 29480] ID set to 19FC01D400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:18 29480] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:22:18 29480] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:22:18 29480] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:22:27 8100] Allocated ID 2039074F00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:27 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28516) ====
+[T 22:22:27 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:22:27 8100] Executing the following tracer actions:
+[T 22:22:27 8100] Tracer actions:
+[T 22:22:27 8100] pre_invocations(0)
+[T 22:22:27 8100] post_invocations(0)
+[T 22:22:27 8100] trace_languages(1): [java]
+[T 22:22:27 28516] Initializing tracer.
+[T 22:22:27 28516] Initializing tags.
+[T 22:22:27 28516] ID set to 2039074F00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:27 28516] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:22:27 28516] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:22:27 28516] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:22:36 8100] Allocated ID 7686CEF100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:36 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (5380) ====
+[T 22:22:36 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:22:36 8100] Executing the following tracer actions:
+[T 22:22:36 8100] Tracer actions:
+[T 22:22:36 8100] pre_invocations(0)
+[T 22:22:36 8100] post_invocations(0)
+[T 22:22:36 8100] trace_languages(1): [java]
+[T 22:22:37 5380] Initializing tracer.
+[T 22:22:37 5380] Initializing tags.
+[T 22:22:37 5380] ID set to 7686CEF100001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:37 5380] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:22:37 5380] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:22:37 5380] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:22:41 8100] Allocated ID 3073EE0A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:41 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (6888) ====
+[T 22:22:41 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:22:41 8100] Executing the following tracer actions:
+[T 22:22:41 8100] Tracer actions:
+[T 22:22:41 8100] pre_invocations(0)
+[T 22:22:41 8100] post_invocations(0)
+[T 22:22:41 8100] trace_languages(1): [java]
+[T 22:22:41 6888] Initializing tracer.
+[T 22:22:41 6888] Initializing tags.
+[T 22:22:41 6888] ID set to 3073EE0A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:41 6888] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:22:41 6888] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:22:41 6888] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:22:48 8100] Allocated ID 61E3342A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:48 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28328) ====
+[T 22:22:48 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:22:48 8100] Executing the following tracer actions:
+[T 22:22:48 8100] Tracer actions:
+[T 22:22:48 8100] pre_invocations(0)
+[T 22:22:48 8100] post_invocations(0)
+[T 22:22:48 8100] trace_languages(1): [java]
+[T 22:22:48 28328] Initializing tracer.
+[T 22:22:48 28328] Initializing tags.
+[T 22:22:48 28328] ID set to 61E3342A00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:48 28328] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:22:48 28328] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:22:49 28328] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:22:54 8100] Allocated ID B81134A500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:54 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28396) ====
+[T 22:22:54 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:22:54 8100] Executing the following tracer actions:
+[T 22:22:54 8100] Tracer actions:
+[T 22:22:54 8100] pre_invocations(0)
+[T 22:22:54 8100] post_invocations(0)
+[T 22:22:54 8100] trace_languages(1): [java]
+[T 22:22:54 28396] Initializing tracer.
+[T 22:22:54 28396] Initializing tags.
+[T 22:22:54 28396] ID set to B81134A500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:22:54 28396] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:22:54 28396] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:22:55 28396] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:23:00 8100] Allocated ID 949ABD3E00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:00 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (4652) ====
+[T 22:23:00 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:23:00 8100] Executing the following tracer actions:
+[T 22:23:00 8100] Tracer actions:
+[T 22:23:00 8100] pre_invocations(0)
+[T 22:23:00 8100] post_invocations(0)
+[T 22:23:00 8100] trace_languages(1): [java]
+[T 22:23:00 4652] Initializing tracer.
+[T 22:23:00 4652] Initializing tags.
+[T 22:23:00 4652] ID set to 949ABD3E00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:00 4652] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:23:00 4652] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:23:00 4652] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:23:08 8100] Allocated ID 2B10B0EF00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:08 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (5816) ====
+[T 22:23:08 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:23:08 8100] Executing the following tracer actions:
+[T 22:23:08 8100] Tracer actions:
+[T 22:23:08 8100] pre_invocations(0)
+[T 22:23:08 8100] post_invocations(0)
+[T 22:23:08 8100] trace_languages(1): [java]
+[T 22:23:08 5816] Initializing tracer.
+[T 22:23:08 5816] Initializing tags.
+[T 22:23:08 5816] ID set to 2B10B0EF00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:08 5816] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:23:08 5816] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:23:08 5816] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:23:14 8100] Allocated ID E770F4B600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:14 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (9444) ====
+[T 22:23:14 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:23:14 8100] Executing the following tracer actions:
+[T 22:23:14 8100] Tracer actions:
+[T 22:23:14 8100] pre_invocations(0)
+[T 22:23:14 8100] post_invocations(0)
+[T 22:23:14 8100] trace_languages(1): [java]
+[T 22:23:14 9444] Initializing tracer.
+[T 22:23:14 9444] Initializing tags.
+[T 22:23:14 9444] ID set to E770F4B600001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:14 9444] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:23:14 9444] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:23:14 9444] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:23:24 8100] Allocated ID 698D75FE00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:24 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (24428) ====
+[T 22:23:24 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:23:24 8100] Executing the following tracer actions:
+[T 22:23:24 8100] Tracer actions:
+[T 22:23:24 8100] pre_invocations(0)
+[T 22:23:24 8100] post_invocations(0)
+[T 22:23:24 8100] trace_languages(1): [java]
+[T 22:23:24 24428] Initializing tracer.
+[T 22:23:24 24428] Initializing tags.
+[T 22:23:24 24428] ID set to 698D75FE00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:24 24428] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:23:24 24428] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:23:24 24428] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:23:30 8100] Allocated ID C412E8ED00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:30 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (5544) ====
+[T 22:23:30 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:23:30 8100] Executing the following tracer actions:
+[T 22:23:30 8100] Tracer actions:
+[T 22:23:30 8100] pre_invocations(0)
+[T 22:23:30 8100] post_invocations(0)
+[T 22:23:30 8100] trace_languages(1): [java]
+[T 22:23:30 5544] Initializing tracer.
+[T 22:23:30 5544] Initializing tags.
+[T 22:23:30 5544] ID set to C412E8ED00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:30 5544] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:23:30 5544] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:23:30 5544] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:23:37 8100] Allocated ID 9EA2451900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:37 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28048) ====
+[T 22:23:37 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:23:37 8100] Executing the following tracer actions:
+[T 22:23:37 8100] Tracer actions:
+[T 22:23:37 8100] pre_invocations(0)
+[T 22:23:37 8100] post_invocations(0)
+[T 22:23:37 8100] trace_languages(1): [java]
+[T 22:23:37 28048] Initializing tracer.
+[T 22:23:37 28048] Initializing tags.
+[T 22:23:37 28048] ID set to 9EA2451900001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:37 28048] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:23:37 28048] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:23:38 28048] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:23:46 8100] Allocated ID A75620F500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:46 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (7144) ====
+[T 22:23:46 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:23:46 8100] Executing the following tracer actions:
+[T 22:23:46 8100] Tracer actions:
+[T 22:23:46 8100] pre_invocations(0)
+[T 22:23:46 8100] post_invocations(0)
+[T 22:23:46 8100] trace_languages(1): [java]
+[T 22:23:46 7144] Initializing tracer.
+[T 22:23:46 7144] Initializing tags.
+[T 22:23:46 7144] ID set to A75620F500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:46 7144] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:23:46 7144] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:23:47 7144] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:23:53 8100] Allocated ID 04702D0200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:53 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28736) ====
+[T 22:23:53 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:23:53 8100] Executing the following tracer actions:
+[T 22:23:53 8100] Tracer actions:
+[T 22:23:53 8100] pre_invocations(0)
+[T 22:23:53 8100] post_invocations(0)
+[T 22:23:53 8100] trace_languages(1): [java]
+[T 22:23:53 28736] Initializing tracer.
+[T 22:23:53 28736] Initializing tags.
+[T 22:23:53 28736] ID set to 04702D0200001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:23:53 28736] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:23:53 28736] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:23:54 28736] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:24:00 8100] Allocated ID 9D5413A400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:00 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (28496) ====
+[T 22:24:00 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:24:00 8100] Executing the following tracer actions:
+[T 22:24:00 8100] Tracer actions:
+[T 22:24:00 8100] pre_invocations(0)
+[T 22:24:00 8100] post_invocations(0)
+[T 22:24:00 8100] trace_languages(1): [java]
+[T 22:24:00 28496] Initializing tracer.
+[T 22:24:00 28496] Initializing tags.
+[T 22:24:00 28496] ID set to 9D5413A400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:01 28496] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:24:01 28496] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:24:01 28496] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:24:08 8100] Allocated ID 455F2AA400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:08 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (24036) ====
+[T 22:24:08 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:24:08 8100] Executing the following tracer actions:
+[T 22:24:08 8100] Tracer actions:
+[T 22:24:08 8100] pre_invocations(0)
+[T 22:24:08 8100] post_invocations(0)
+[T 22:24:08 8100] trace_languages(1): [java]
+[T 22:24:08 24036] Initializing tracer.
+[T 22:24:08 24036] Initializing tags.
+[T 22:24:08 24036] ID set to 455F2AA400001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:08 24036] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:24:08 24036] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:24:08 24036] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:24:14 8100] Allocated ID 005FB9EA00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:14 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (27240) ====
+[T 22:24:14 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:24:14 8100] Executing the following tracer actions:
+[T 22:24:14 8100] Tracer actions:
+[T 22:24:14 8100] pre_invocations(0)
+[T 22:24:14 8100] post_invocations(0)
+[T 22:24:14 8100] trace_languages(1): [java]
+[T 22:24:14 27240] Initializing tracer.
+[T 22:24:14 27240] Initializing tags.
+[T 22:24:14 27240] ID set to 005FB9EA00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:14 27240] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:24:14 27240] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:24:14 27240] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:24:25 8100] Allocated ID 3C37A3E800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:25 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (10184) ====
+[T 22:24:25 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:24:25 8100] Executing the following tracer actions:
+[T 22:24:25 8100] Tracer actions:
+[T 22:24:25 8100] pre_invocations(0)
+[T 22:24:25 8100] post_invocations(0)
+[T 22:24:25 8100] trace_languages(1): [java]
+[T 22:24:25 10184] Initializing tracer.
+[T 22:24:25 10184] Initializing tags.
+[T 22:24:25 10184] ID set to 3C37A3E800001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:25 10184] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:24:25 10184] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:24:25 10184] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:24:34 8100] Allocated ID C59C0CFF00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:34 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (26288) ====
+[T 22:24:34 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:24:34 8100] Executing the following tracer actions:
+[T 22:24:34 8100] Tracer actions:
+[T 22:24:34 8100] pre_invocations(0)
+[T 22:24:34 8100] post_invocations(0)
+[T 22:24:34 8100] trace_languages(1): [java]
+[T 22:24:34 26288] Initializing tracer.
+[T 22:24:34 26288] Initializing tags.
+[T 22:24:34 26288] ID set to C59C0CFF00001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:34 26288] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:24:34 26288] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:24:34 26288] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 22:24:42 8100] Allocated ID 57776E2500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:42 8100] ==== Candidate to intercept: C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin\java.exe (27684) ====
+[T 22:24:42 8100] Lua: === Intercepted call to c:\program files\eclipse adoptium\jdk-17.0.16.8-hotspot\bin\java.exe ===
+[T 22:24:42 8100] Executing the following tracer actions:
+[T 22:24:42 8100] Tracer actions:
+[T 22:24:42 8100] pre_invocations(0)
+[T 22:24:42 8100] post_invocations(0)
+[T 22:24:42 8100] trace_languages(1): [java]
+[T 22:24:42 27684] Initializing tracer.
+[T 22:24:42 27684] Initializing tags.
+[T 22:24:42 27684] ID set to 57776E2500001FA4_0000000000000001 (parent EF6AFE7E00006DD0_0000000000000001)
+[T 22:24:42 27684] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 22:24:42 27684] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 22:24:43 27684] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).

@@ -1,0 +1,163 @@
+[2025-10-20 03:29:05] [javac-extractor-27808] Starting extraction for:
+                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 17 --javac-args @@@C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\log4j-codeql-db\log\ext\javac-2.args
+                                              user.dir=C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2
+[2025-10-20 03:29:05] [javac-extractor-27808] Compilation name C:/Sidd all in one/Unsafe/Lab6/CodeQL-Databases/log4j-codeql-db/trap/java/diagnostics/diagnostic-2.trap.gz
+[2025-10-20 03:29:05] [javac-extractor-27808] [WARN] Appending source destination directory C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\target\generated-sources\annotations to sourcepath
+[2025-10-20 03:29:09] [javac-extractor-27808] Annotation processor class 'lombok.launch.AnnotationProcessorHider$AnnotationProcessor' initialized.
+[2025-10-20 03:29:10] [javac-extractor-27808] Annotation processor class 'lombok.launch.AnnotationProcessorHider$ClaimingProcessor' initialized.
+[2025-10-20 03:29:11] [javac-extractor-27808] 148 files will be passed to the attrib/flow phase
+[2025-10-20 03:29:11] [javac-extractor-27808] Processing JAR file: C:/Users/Siddhesh/.m2/repository/org/osgi/org.osgi.annotation.bundle/2.0.0/org.osgi.annotation.bundle-2.0.0.jar
+[2025-10-20 03:29:11] [javac-extractor-27808] Processing JAR file: C:/Users/Siddhesh/.m2/repository/org/osgi/org.osgi.annotation.versioning/1.1.2/org.osgi.annotation.versioning-1.1.2.jar
+[2025-10-20 03:29:11] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\BridgeAware.java
+[2025-10-20 03:29:11] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\CloseableThreadContext.java
+[2025-10-20 03:29:12] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\EventLogger.java
+[2025-10-20 03:29:12] [javac-extractor-27808] Processing JAR file: C:/Users/Siddhesh/.m2/repository/com/google/errorprone/error_prone_annotations/2.38.0/error_prone_annotations-2.38.0.jar
+[2025-10-20 03:29:12] [javac-extractor-27808] Processing JAR file: C:/Users/Siddhesh/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[2025-10-20 03:29:12] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\Marker.java
+[2025-10-20 03:29:12] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\ExtendedLogger.java
+[2025-10-20 03:29:12] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\Logger.java
+[2025-10-20 03:29:13] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\StructuredDataMessage.java
+[2025-10-20 03:29:13] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\MapMessage.java
+[2025-10-20 03:29:13] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\MultiFormatStringBuilderFormattable.java
+[2025-10-20 03:29:13] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\MultiformatMessage.java
+[2025-10-20 03:29:13] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\Message.java
+[2025-10-20 03:29:13] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\StringBuilderFormattable.java
+[2025-10-20 03:29:13] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\PerformanceSensitive.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\AsynchronouslyFormattable.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\StringBuilders.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\Strings.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\Level.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\InternalApi.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\StandardLevel.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\StructuredDataId.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\IndexedStringMap.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\IndexedReadOnlyStringMap.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\ReadOnlyStringMap.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\StringMap.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\BiConsumer.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\TriConsumer.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\MessageSupplier.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\Supplier.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\MessageFactory.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\FlowMessageFactory.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\EntryMessage.java
+[2025-10-20 03:29:14] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\FlowMessage.java
+[2025-10-20 03:29:15] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\LogBuilder.java
+[2025-10-20 03:29:15] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ExitMessage.java
+[2025-10-20 03:29:15] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\LogManager.java
+[2025-10-20 03:29:15] [javac-extractor-27808] Processing JAR file: C:/Users/Siddhesh/.m2/repository/com/github/spotbugs/spotbugs-annotations/4.8.6/spotbugs-annotations-4.8.6.jar
+[2025-10-20 03:29:15] [javac-extractor-27808] Processing JAR file: C:/Users/Siddhesh/.m2/repository/biz/aQute/bnd/biz.aQute.bnd.annotation/7.1.0/biz.aQute.bnd.annotation-7.1.0.jar
+[2025-10-20 03:29:15] [javac-extractor-27808] Processing JAR file: C:/Users/Siddhesh/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[2025-10-20 03:29:15] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\LoggerContextFactory.java
+[2025-10-20 03:29:15] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\LoggerContext.java
+[2025-10-20 03:29:15] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\LoggerRegistry.java
+[2025-10-20 03:29:15] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\LoggingException.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\MarkerManager.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\ThreadContext.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\ThreadContextStack.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\ThreadContextMap.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\ReadOnlyThreadContextMap.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\internal\DefaultLogBuilder.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\internal\LogManagerStatus.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\internal\map\UnmodifiableArrayBackedMap.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\AbstractMessageFactory.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\MessageFactory2.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\Chars.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\BasicThreadInformation.java
+[2025-10-20 03:29:16] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ThreadInformation.java
+[2025-10-20 03:29:17] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\Clearable.java
+[2025-10-20 03:29:17] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\DefaultFlowMessageFactory.java
+[2025-10-20 03:29:17] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\FormattedMessage.java
+[2025-10-20 03:29:17] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\FormattedMessageFactory.java
+[2025-10-20 03:29:17] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\LocalizedMessage.java
+[2025-10-20 03:29:17] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\LoggerNameAwareMessage.java
+[2025-10-20 03:29:17] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\status\StatusLogger.java
+[2025-10-20 03:29:18] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\AbstractLogger.java
+[2025-10-20 03:29:18] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\LocationAwareLogger.java
+[2025-10-20 03:29:18] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\status\StatusConsoleListener.java
+[2025-10-20 03:29:18] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\status\StatusListener.java
+[2025-10-20 03:29:18] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\status\StatusData.java
+[2025-10-20 03:29:18] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\LocalizedMessageFactory.java
+[2025-10-20 03:29:18] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\MapMessageJsonFormatter.java
+[2025-10-20 03:29:18] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\MessageCollectionMessage.java
+[2025-10-20 03:29:18] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\MessageFormatMessage.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\MessageFormatMessageFactory.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ObjectArrayMessage.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ObjectMessage.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ParameterConsumer.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ParameterFormatter.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ParameterVisitable.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ParameterizedMessage.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ParameterizedMessageFactory.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ParameterizedNoReferenceMessageFactory.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ReusableMessage.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ReusableMessageFactory.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ReusableParameterizedMessage.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ReusableSimpleMessage.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ReusableObjectMessage.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\SimpleMessage.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\SimpleMessageFactory.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\StringFormattedMessage.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\StringFormatterMessageFactory.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\StringMapMessage.java
+[2025-10-20 03:29:19] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\StructuredDataCollectionMessage.java
+[2025-10-20 03:29:20] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ThreadDumpMessage.java
+[2025-10-20 03:29:20] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\Lazy.java
+[2025-10-20 03:29:20] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\TimestampMessage.java
+[2025-10-20 03:29:20] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\simple\SimpleLogger.java
+[2025-10-20 03:29:20] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\PropertiesUtil.java
+[2025-10-20 03:29:20] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\PropertySource.java
+[2025-10-20 03:29:20] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\simple\SimpleLoggerContext.java
+[2025-10-20 03:29:20] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\simple\SimpleLoggerContextFactory.java
+[2025-10-20 03:29:20] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\simple\internal\SimpleProvider.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\Provider.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\AbstractLoggerAdapter.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\LoggerAdapter.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\LoggerContextShutdownAware.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\CleanableThreadContextMap.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\ThreadContextMap2.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\CopyOnWrite.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\DefaultThreadContextMap.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\DefaultThreadContextStack.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\MutableThreadContextStack.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\ExtendedLoggerWrapper.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\LoggerContextKey.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\LoggerContextShutdownEnabled.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\MessageFactory2Adapter.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\NoOpThreadContextMap.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\ObjectThreadContextMap.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\Terminable.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\ThreadContextMapFactory.java
+[2025-10-20 03:29:21] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\Activator.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing JAR file: C:/Users/Siddhesh/.m2/repository/org/osgi/org.osgi.core/6.0.0/org.osgi.core-6.0.0.jar
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\Base64Util.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\Cast.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\Constants.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\EnglishEnums.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\EnvironmentPropertySource.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\internal\SerializationUtil.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\FilteredObjectInputStream.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\InternalException.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\LambdaUtil.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\LazyBoolean.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\LazyUtil.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\LoaderUtil.java
+[2025-10-20 03:29:22] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\OsgiServiceLocator.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\PrivateSecurityManagerStackTraceUtil.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\ProcessIdUtil.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\PropertiesPropertySource.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\PropertyFilePropertySource.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\ProviderActivator.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\ProviderUtil.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\ServiceLoaderUtil.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\SortedArrayStringMap.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\StackLocator.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\StackLocatorUtil.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\SystemPropertiesPropertySource.java
+[2025-10-20 03:29:23] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\Timer.java
+[2025-10-20 03:29:24] [javac-extractor-27808] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\Unbox.java
+[2025-10-20 03:29:24] [javac-extractor-27808] Javac init time: 5.5s
+[2025-10-20 03:29:24] [javac-extractor-27808] Javac attr time: 1.9s
+[2025-10-20 03:29:24] [javac-extractor-27808] Extractor time: 10.6s
+[2025-10-20 03:29:24] [javac-extractor-27808] Other time: 0.5s
+[2025-10-20 03:29:24] [javac-extractor-27808] Total time: 18.6s

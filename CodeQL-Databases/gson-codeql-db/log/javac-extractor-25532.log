@@ -1,0 +1,93 @@
+[2025-10-20 03:10:44] [javac-extractor-25532] Starting extraction for:
+                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 21 --javac-args @@@C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db\log\ext\javac.args
+                                              user.dir=C:\Sidd all in one\Unsafe\Lab6\Repos\gson
+[2025-10-20 03:10:44] [javac-extractor-25532] Compilation name C:/Sidd all in one/Unsafe/Lab6/CodeQL-Databases/gson-codeql-db/trap/java/diagnostics/diagnostic.trap.gz
+[2025-10-20 03:10:44] [javac-extractor-25532] [WARN] Appending source destination directory C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\target\generated-sources\annotations to sourcepath
+[2025-10-20 03:10:46] [javac-extractor-25532] Annotation processor class 'lombok.launch.AnnotationProcessorHider$AnnotationProcessor' initialized.
+[2025-10-20 03:10:47] [javac-extractor-25532] Annotation processor class 'lombok.launch.AnnotationProcessorHider$ClaimingProcessor' initialized.
+[2025-10-20 03:10:47] [javac-extractor-25532] 84 files will be passed to the attrib/flow phase
+[2025-10-20 03:10:47] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\ExclusionStrategy.java
+[2025-10-20 03:10:51] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\FieldAttributes.java
+[2025-10-20 03:10:51] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\FieldNamingPolicy.java
+[2025-10-20 03:10:51] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\FieldNamingStrategy.java
+[2025-10-20 03:10:51] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\FormattingStyle.java
+[2025-10-20 03:10:51] [javac-extractor-25532] Processing JAR file: C:/Users/Siddhesh/.m2/repository/com/google/errorprone/error_prone_annotations/2.42.0/error_prone_annotations-2.42.0.jar
+[2025-10-20 03:10:51] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\Gson.java
+[2025-10-20 03:10:52] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\Strictness.java
+[2025-10-20 03:10:52] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\ToNumberStrategy.java
+[2025-10-20 03:10:52] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\reflect\TypeToken.java
+[2025-10-20 03:10:52] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\TypeAdapter.java
+[2025-10-20 03:10:52] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\ReflectionAccessFilter.java
+[2025-10-20 03:10:53] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\ConstructorConstructor.java
+[2025-10-20 03:10:53] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\JsonAdapterAnnotationTypeAdapterFactory.java
+[2025-10-20 03:10:53] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\TypeAdapterFactory.java
+[2025-10-20 03:10:53] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\Excluder.java
+[2025-10-20 03:10:53] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\InstanceCreator.java
+[2025-10-20 03:10:53] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\LongSerializationPolicy.java
+[2025-10-20 03:10:53] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\GsonBuilder.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonElement.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonIOException.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonParseException.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\stream\JsonScope.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\stream\JsonWriter.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\stream\JsonReader.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonSyntaxException.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\stream\JsonToken.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\stream\MalformedJsonException.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonObject.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonArray.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonPrimitive.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonNull.java
+[2025-10-20 03:10:54] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\LinkedTreeMap.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\annotations\Since.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\annotations\Until.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\annotations\JsonAdapter.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\ObjectConstructor.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\SerializationDelegatingTypeAdapter.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonDeserializationContext.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonDeserializer.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonParser.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonSerializationContext.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonSerializer.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\JsonStreamParser.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\ToNumberPolicy.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\annotations\Expose.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\annotations\SerializedName.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\GsonTypes.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\JavaVersion.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\JsonReaderInternalAccess.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\LazilyParsedNumber.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\NonNullElementWrapperList.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\NumberLimits.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\PreJava9DateFormatProvider.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\Primitives.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\ReflectionAccessFilterHelper.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\Streams.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\TroubleshootingGuide.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\UnsafeAllocator.java
+[2025-10-20 03:10:55] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\ArrayTypeAdapter.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\CollectionTypeAdapterFactory.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\DefaultDateTypeAdapter.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\EnumTypeAdapter.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\JsonElementTypeAdapter.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\JsonTreeReader.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\JsonTreeWriter.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\MapTypeAdapterFactory.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\NumberTypeAdapter.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\ObjectTypeAdapter.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\ReflectiveTypeAdapterFactory.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\TreeTypeAdapter.java
+[2025-10-20 03:10:56] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\TypeAdapterRuntimeTypeWrapper.java
+[2025-10-20 03:10:57] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\TypeAdapters.java
+[2025-10-20 03:10:57] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\bind\util\ISO8601Utils.java
+[2025-10-20 03:10:57] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\reflect\ReflectionHelper.java
+[2025-10-20 03:10:57] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\sql\SqlDateTypeAdapter.java
+[2025-10-20 03:10:57] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\sql\SqlTimeTypeAdapter.java
+[2025-10-20 03:10:57] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\sql\SqlTimestampTypeAdapter.java
+[2025-10-20 03:10:57] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\src\main\java\com\google\gson\internal\sql\SqlTypesSupport.java
+[2025-10-20 03:10:57] [javac-extractor-25532] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\gson\gson\target\generated-sources\java-templates\com\google\gson\internal\GsonBuildConfig.java
+[2025-10-20 03:10:57] [javac-extractor-25532] Javac init time: 3.0s
+[2025-10-20 03:10:57] [javac-extractor-25532] Javac attr time: 1.0s
+[2025-10-20 03:10:57] [javac-extractor-25532] Extractor time: 8.9s
+[2025-10-20 03:10:57] [javac-extractor-25532] Other time: 0.4s
+[2025-10-20 03:10:57] [javac-extractor-25532] Total time: 13.4s

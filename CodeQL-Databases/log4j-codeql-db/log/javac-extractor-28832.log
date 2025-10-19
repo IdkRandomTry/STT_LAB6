@@ -1,0 +1,21 @@
+[2025-10-20 03:28:30] [javac-extractor-28832] Starting extraction for:
+                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 17 --javac-args @@@C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\log4j-codeql-db\log\ext\javac-1.args
+                                              user.dir=C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2
+[2025-10-20 03:28:30] [javac-extractor-28832] Compilation name C:/Sidd all in one/Unsafe/Lab6/CodeQL-Databases/log4j-codeql-db/trap/java/diagnostics/diagnostic-1.trap.gz
+[2025-10-20 03:28:30] [javac-extractor-28832] [WARN] Appending source destination directory C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\target\generated-test-sources\test-annotations to sourcepath
+[2025-10-20 03:28:32] [javac-extractor-28832] Annotation processor class 'lombok.launch.AnnotationProcessorHider$AnnotationProcessor' initialized.
+[2025-10-20 03:28:33] [javac-extractor-28832] Annotation processor class 'lombok.launch.AnnotationProcessorHider$ClaimingProcessor' initialized.
+[2025-10-20 03:28:33] [javac-extractor-28832] 2 files will be passed to the attrib/flow phase
+[2025-10-20 03:28:33] [javac-extractor-28832] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\test\java\org\apache\logging\log4j\util\java9\ProcessIdUtilTest.java
+[2025-10-20 03:28:33] [javac-extractor-28832] [WARN] Not rewriting trap file for C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\log4j-codeql-db\trap\java\classes\org\apache\logging\log4j\util\ProcessIdUtil.members\ProcessIdUtil.members#53.0-1760911100873-java.trap.gz as C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\log4j-codeql-db\trap\java\classes\org\apache\logging\log4j\util\ProcessIdUtil.members\ProcessIdUtil.members#0.0-1760887949128-java.trap.gz exists
+[2025-10-20 03:28:33] [javac-extractor-28832] Processing JAR file: C:/Users/Siddhesh/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.13.3/junit-jupiter-api-5.13.3.jar
+[2025-10-20 03:28:33] [javac-extractor-28832] Processing JAR file: C:/Users/Siddhesh/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[2025-10-20 03:28:33] [javac-extractor-28832] Processing JAR file: C:/Users/Siddhesh/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar
+[2025-10-20 03:28:33] [javac-extractor-28832] Processing JAR file: C:/Users/Siddhesh/.m2/repository/org/junit/platform/junit-platform-commons/1.13.3/junit-platform-commons-1.13.3.jar
+[2025-10-20 03:28:33] [javac-extractor-28832] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\test\java\org\apache\logging\log4j\util\java9\StackLocatorTest.java
+[2025-10-20 03:28:33] [javac-extractor-28832] [WARN] Not rewriting trap file for C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\log4j-codeql-db\trap\java\classes\org\apache\logging\log4j\util\StackLocator.members\StackLocator.members#53.0-1760911100886-java.trap.gz as C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\log4j-codeql-db\trap\java\classes\org\apache\logging\log4j\util\StackLocator.members\StackLocator.members#0.0-1760887949130-java.trap.gz exists
+[2025-10-20 03:28:33] [javac-extractor-28832] Javac init time: 2.1s
+[2025-10-20 03:28:33] [javac-extractor-28832] Javac attr time: 0.1s
+[2025-10-20 03:28:33] [javac-extractor-28832] Extractor time: 0.7s
+[2025-10-20 03:28:33] [javac-extractor-28832] Other time: 0.3s
+[2025-10-20 03:28:33] [javac-extractor-28832] Total time: 3.2s

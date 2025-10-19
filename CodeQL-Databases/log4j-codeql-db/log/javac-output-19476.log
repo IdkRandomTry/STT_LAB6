@@ -1,0 +1,143 @@
+[2025-10-20 03:37:42] [javac-output-19476] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:37:42] [javac-output-19476] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:37:42] [javac-output-19476] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:37:45] [javac-output-19476] warning: [processing] No processor claimed any of these annotations: org.junitpioneer.jupiter.WritesSystemProperty,org.junit.jupiter.api.BeforeEach,org.apache.logging.log4j.core.test.junit.LoggerContextSource,org.apache.logging.log4j.test.junit.UsingStatusListener,org.apache.logging.log4j.core.config.plugins.Plugin,org.junit.jupiter.api.Test,org.junit.jupiter.api.AfterAll,org.apache.logging.log4j.test.junit.SetTestProperty,org.junit.jupiter.params.ParameterizedTest,org.junit.jupiter.api.AfterEach,org.apache.logging.log4j.test.junit.UsingThreadContextStack,org.junit.jupiter.api.BeforeAll,org.junit.jupiter.api.io.TempDir,org.junit.jupiter.params.provider.ArgumentsSource,org.apache.logging.log4j.core.test.junit.Named,org.junit.jupiter.params.provider.MethodSource
+[2025-10-20 03:37:46] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\CategoryTest.java:85: warning: [deprecation] exists(String) in Category has been deprecated
+[2025-10-20 03:37:46] [javac-output-19476]         assertNull(Category.exists("Does not exist for sure"));
+[2025-10-20 03:37:46] [javac-output-19476]                            ^
+[2025-10-20 03:37:47] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\CategoryTest.java:374: warning: [unchecked] unchecked method invocation: method list in class Collections is applied to given types
+[2025-10-20 03:37:47] [javac-output-19476]             final List<Appender> rootAppenders = Collections.list(rootLogger.getAllAppenders());
+[2025-10-20 03:37:47] [javac-output-19476]                                                                  ^
+[2025-10-20 03:37:47] [javac-output-19476]   required: Enumeration<T>
+[2025-10-20 03:37:47] [javac-output-19476]   found:    Enumeration
+[2025-10-20 03:37:47] [javac-output-19476]   where T is a type-variable:
+[2025-10-20 03:37:47] [javac-output-19476]     T extends Object declared in method <T>list(Enumeration<T>)
+[2025-10-20 03:37:47] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\CategoryTest.java:374: warning: [unchecked] unchecked conversion
+[2025-10-20 03:37:47] [javac-output-19476]             final List<Appender> rootAppenders = Collections.list(rootLogger.getAllAppenders());
+[2025-10-20 03:37:47] [javac-output-19476]                                                                                             ^
+[2025-10-20 03:37:47] [javac-output-19476]   required: Enumeration<T>
+[2025-10-20 03:37:47] [javac-output-19476]   found:    Enumeration
+[2025-10-20 03:37:47] [javac-output-19476]   where T is a type-variable:
+[2025-10-20 03:37:47] [javac-output-19476]     T extends Object declared in method <T>list(Enumeration<T>)
+[2025-10-20 03:37:47] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\CategoryTest.java:374: warning: [unchecked] unchecked conversion
+[2025-10-20 03:37:47] [javac-output-19476]             final List<Appender> rootAppenders = Collections.list(rootLogger.getAllAppenders());
+[2025-10-20 03:37:47] [javac-output-19476]                                                                  ^
+[2025-10-20 03:37:47] [javac-output-19476]   required: List<Appender>
+[2025-10-20 03:37:47] [javac-output-19476]   found:    ArrayList
+[2025-10-20 03:37:47] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\CategoryTest.java:395: warning: [unchecked] unchecked method invocation: method list in class Collections is applied to given types
+[2025-10-20 03:37:47] [javac-output-19476]             final List<Appender> appenders = Collections.list(logger.getAllAppenders());
+[2025-10-20 03:37:47] [javac-output-19476]                                                              ^
+[2025-10-20 03:37:47] [javac-output-19476]   required: Enumeration<T>
+[2025-10-20 03:37:47] [javac-output-19476]   found:    Enumeration
+[2025-10-20 03:37:47] [javac-output-19476]   where T is a type-variable:
+[2025-10-20 03:37:47] [javac-output-19476]     T extends Object declared in method <T>list(Enumeration<T>)
+[2025-10-20 03:37:47] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\CategoryTest.java:395: warning: [unchecked] unchecked conversion
+[2025-10-20 03:37:47] [javac-output-19476]             final List<Appender> appenders = Collections.list(logger.getAllAppenders());
+[2025-10-20 03:37:47] [javac-output-19476]                                                                                     ^
+[2025-10-20 03:37:47] [javac-output-19476]   required: Enumeration<T>
+[2025-10-20 03:37:47] [javac-output-19476]   found:    Enumeration
+[2025-10-20 03:37:47] [javac-output-19476]   where T is a type-variable:
+[2025-10-20 03:37:47] [javac-output-19476]     T extends Object declared in method <T>list(Enumeration<T>)
+[2025-10-20 03:37:47] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\CategoryTest.java:395: warning: [unchecked] unchecked conversion
+[2025-10-20 03:37:47] [javac-output-19476]             final List<Appender> appenders = Collections.list(logger.getAllAppenders());
+[2025-10-20 03:37:47] [javac-output-19476]                                                              ^
+[2025-10-20 03:37:47] [javac-output-19476]   required: List<Appender>
+[2025-10-20 03:37:47] [javac-output-19476]   found:    ArrayList
+[2025-10-20 03:37:47] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\CategoryTest.java:402: warning: [unchecked] unchecked conversion
+[2025-10-20 03:37:47] [javac-output-19476]             final Enumeration<Appender> childAppenders = childLogger.getAllAppenders();
+[2025-10-20 03:37:47] [javac-output-19476]                                                                                     ^
+[2025-10-20 03:37:47] [javac-output-19476]   required: Enumeration<Appender>
+[2025-10-20 03:37:47] [javac-output-19476]   found:    Enumeration
+[2025-10-20 03:37:47] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\CategoryTest.java:415: warning: [unchecked] getAllAppenders() in Category implements getAllAppenders() in AppenderAttachable
+[2025-10-20 03:37:47] [javac-output-19476]     private static class MockCategory extends Logger {
+[2025-10-20 03:37:47] [javac-output-19476]                          ^
+[2025-10-20 03:37:47] [javac-output-19476]   return type requires unchecked conversion from Enumeration to Enumeration<Appender>
+[2025-10-20 03:37:48] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\LogManagerTest.java:35: warning: [unchecked] unchecked cast
+[2025-10-20 03:37:48] [javac-output-19476]         return Collections.list((Enumeration<Logger>) LogManager.getCurrentLoggers()).stream()
+[2025-10-20 03:37:48] [javac-output-19476]                                                                                   ^
+[2025-10-20 03:37:48] [javac-output-19476]   required: Enumeration<Logger>
+[2025-10-20 03:37:48] [javac-output-19476]   found:    Enumeration
+[2025-10-20 03:37:48] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\LoggerJira3410Test.java:51: warning: [unchecked] unchecked method invocation: constructor <init> in class SortedArrayStringMap is applied to given types
+[2025-10-20 03:37:48] [javac-output-19476]             logger.debug(new SortedArrayStringMap((Map) map));
+[2025-10-20 03:37:48] [javac-output-19476]                          ^
+[2025-10-20 03:37:48] [javac-output-19476]   required: Map<String,?>
+[2025-10-20 03:37:48] [javac-output-19476]   found:    Map
+[2025-10-20 03:37:48] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\LoggerJira3410Test.java:51: warning: [unchecked] unchecked conversion
+[2025-10-20 03:37:48] [javac-output-19476]             logger.debug(new SortedArrayStringMap((Map) map));
+[2025-10-20 03:37:48] [javac-output-19476]                                                   ^
+[2025-10-20 03:37:48] [javac-output-19476]   required: Map<String,?>
+[2025-10-20 03:37:48] [javac-output-19476]   found:    Map
+[2025-10-20 03:37:49] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\LoggerTest.java:102: warning: [dangling-doc-comments] documentation comment is not attached to any declaration
+[2025-10-20 03:37:49] [javac-output-19476]     /**
+[2025-10-20 03:37:49] [javac-output-19476]     ^
+[2025-10-20 03:37:49] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\LoggerTest.java:89: warning: [dangling-doc-comments] documentation comment is not attached to any declaration
+[2025-10-20 03:37:49] [javac-output-19476]     /**
+[2025-10-20 03:37:49] [javac-output-19476]     ^
+[2025-10-20 03:37:49] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\LoggerTest.java:417: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:37:49] [javac-output-19476]         assertEquals("Message 1", event.getMessage().getFormat());
+[2025-10-20 03:37:49] [javac-output-19476]                                                     ^
+[2025-10-20 03:37:49] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\LoggerTest.java:541: warning: [deprecation] getAllPossiblePriorities() in Priority has been deprecated
+[2025-10-20 03:37:49] [javac-output-19476]         for (final Priority level : Level.getAllPossiblePriorities()) {
+[2025-10-20 03:37:49] [javac-output-19476]                                          ^
+[2025-10-20 03:37:49] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\PropertyConfiguratorTest.java:279: warning: [deprecation] DEFAULT_CONFIGURATION_FILE in LogManager has been deprecated
+[2025-10-20 03:37:49] [javac-output-19476]             zos.putNextEntry(new ZipEntry(LogManager.DEFAULT_CONFIGURATION_FILE));
+[2025-10-20 03:37:49] [javac-output-19476]                                                     ^
+[2025-10-20 03:37:49] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\PropertyConfiguratorTest.java:283: warning: [deprecation] DEFAULT_CONFIGURATION_FILE in LogManager has been deprecated
+[2025-10-20 03:37:49] [javac-output-19476]         final URL url = new URL("jar:" + file.toURI().toURL() + "!/" + LogManager.DEFAULT_CONFIGURATION_FILE);
+[2025-10-20 03:37:49] [javac-output-19476]                                                                                  ^
+[2025-10-20 03:37:50] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\builders\Log4j2ListAppenderBuilder.java:42: warning: [rawtypes] found raw type: AbstractBuilder
+[2025-10-20 03:37:50] [javac-output-19476] public class Log4j2ListAppenderBuilder extends AbstractBuilder implements AppenderBuilder {
+[2025-10-20 03:37:50] [javac-output-19476]                                                ^
+[2025-10-20 03:37:50] [javac-output-19476]   missing type arguments for generic class AbstractBuilder<T>
+[2025-10-20 03:37:50] [javac-output-19476]   where T is a type-variable:
+[2025-10-20 03:37:50] [javac-output-19476]     T extends Object declared in class AbstractBuilder
+[2025-10-20 03:37:50] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\builders\Log4j2ListAppenderBuilder.java:42: warning: [rawtypes] found raw type: AppenderBuilder
+[2025-10-20 03:37:50] [javac-output-19476] public class Log4j2ListAppenderBuilder extends AbstractBuilder implements AppenderBuilder {
+[2025-10-20 03:37:50] [javac-output-19476]                                                                           ^
+[2025-10-20 03:37:50] [javac-output-19476]   missing type arguments for generic class AppenderBuilder<T>
+[2025-10-20 03:37:50] [javac-output-19476]   where T is a type-variable:
+[2025-10-20 03:37:50] [javac-output-19476]     T extends Appender declared in interface AppenderBuilder
+[2025-10-20 03:37:50] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\builders\filter\LevelRangeFilterBuilderTest.java:145: warning: [deprecation] provideArguments(ExtensionContext) in ArgumentsProvider has been deprecated
+[2025-10-20 03:37:50] [javac-output-19476]         public Stream<? extends Arguments> provideArguments(final ExtensionContext extensionContext) {
+[2025-10-20 03:37:50] [javac-output-19476]                                            ^
+[2025-10-20 03:37:52] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\config\PropertiesConfigurationTest.java:121: warning: [deprecation] addPackage(String) in PluginManager has been deprecated
+[2025-10-20 03:37:52] [javac-output-19476]         PluginManager.addPackage("org.apache.log4j.builders.filter");
+[2025-10-20 03:37:52] [javac-output-19476]                      ^
+[2025-10-20 03:37:52] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\config\PropertiesConfigurationTest.java:204: warning: [try] auto-closeable resource loggerContext is never referenced in body of corresponding try statement
+[2025-10-20 03:37:52] [javac-output-19476]         try (final LoggerContext loggerContext =
+[2025-10-20 03:37:52] [javac-output-19476]                                  ^
+[2025-10-20 03:37:52] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\config\PropertiesReconfigurationTest.java:102: warning: [try] auto-closeable resource context is never referenced in body of corresponding try statement
+[2025-10-20 03:37:52] [javac-output-19476]         try (final LoggerContext context = TestConfigurator.configure(file.toString())) {
+[2025-10-20 03:37:52] [javac-output-19476]                                  ^
+[2025-10-20 03:37:53] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\helpers\DateLayoutTest.java:85: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+[2025-10-20 03:37:53] [javac-output-19476]     public void testDateFormatOption() {
+[2025-10-20 03:37:53] [javac-output-19476]                 ^
+[2025-10-20 03:37:53] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\helpers\DateLayoutTest.java:94: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+[2025-10-20 03:37:53] [javac-output-19476]     public void testTimeZoneOption() {
+[2025-10-20 03:37:53] [javac-output-19476]                 ^
+[2025-10-20 03:37:53] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\helpers\DateLayoutTest.java:104: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+[2025-10-20 03:37:53] [javac-output-19476]     public void testGetOptionStrings() {
+[2025-10-20 03:37:53] [javac-output-19476]                 ^
+[2025-10-20 03:37:53] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\helpers\DateLayoutTest.java:114: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+[2025-10-20 03:37:53] [javac-output-19476]     public void testSetOptionDateFormat() {
+[2025-10-20 03:37:53] [javac-output-19476]                 ^
+[2025-10-20 03:37:53] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\helpers\DateLayoutTest.java:125: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+[2025-10-20 03:37:53] [javac-output-19476]     public void testSetOptionTimeZone() {
+[2025-10-20 03:37:53] [javac-output-19476]                 ^
+[2025-10-20 03:37:53] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\helpers\DateLayoutTest.java:229: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+[2025-10-20 03:37:53] [javac-output-19476]     public void testISO8601Format() {
+[2025-10-20 03:37:53] [javac-output-19476]                 ^
+[2025-10-20 03:37:53] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\helpers\DateLayoutTest.java:243: warning: [dep-ann] deprecated item is not annotated with @Deprecated
+[2025-10-20 03:37:53] [javac-output-19476]     public void testDateTimeFormat() {
+[2025-10-20 03:37:53] [javac-output-19476]                 ^
+[2025-10-20 03:37:53] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\helpers\UtilLoggingLevelTest.java:43: warning: [unchecked] unchecked call to <R>map(Function<? super T,? extends R>) as a member of the raw type Stream
+[2025-10-20 03:37:53] [javac-output-19476]                 .map(level -> Arguments.of(level.toString() + "#" + UtilLoggingLevel.class.getName(), level));
+[2025-10-20 03:37:53] [javac-output-19476]                     ^
+[2025-10-20 03:37:53] [javac-output-19476]   where R,T are type-variables:
+[2025-10-20 03:37:53] [javac-output-19476]     R extends Object declared in method <R>map(Function<? super T,? extends R>)
+[2025-10-20 03:37:53] [javac-output-19476]     T extends Object declared in interface Stream
+[2025-10-20 03:37:53] [javac-output-19476] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\test\java\org\apache\log4j\helpers\UtilLoggingLevelTest.java:43: warning: [unchecked] unchecked conversion
+[2025-10-20 03:37:53] [javac-output-19476]                 .map(level -> Arguments.of(level.toString() + "#" + UtilLoggingLevel.class.getName(), level));
+[2025-10-20 03:37:53] [javac-output-19476]                     ^
+[2025-10-20 03:37:53] [javac-output-19476]   required: Stream<Arguments>
+[2025-10-20 03:37:53] [javac-output-19476]   found:    Stream

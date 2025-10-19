@@ -1,0 +1,16 @@
+[2025-10-20 03:44:51] [javac-output-4168] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:44:51] [javac-output-4168] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:44:51] [javac-output-4168] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:44:53] [javac-output-4168] warning: [processing] No processor claimed any of these annotations: org.osgi.annotation.versioning.Version,org.apache.logging.log4j.core.config.plugins.PluginElement,org.osgi.annotation.bundle.Export,org.apache.logging.log4j.core.config.plugins.PluginBuilderFactory,aQute.bnd.annotation.jpms.Open,org.apache.logging.log4j.core.config.plugins.Plugin,org.apache.logging.log4j.core.config.plugins.PluginBuilderAttribute
+[2025-10-20 03:44:53] [javac-output-4168] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jdbc-dbcp2\src\main\java\org\apache\logging\log4j\core\appender\db\jdbc\PoolableConnectionFactoryConfig.java:66: warning: [deprecation] getDefaultQueryTimeout() in PoolableConnectionFactory has been deprecated
+[2025-10-20 03:44:53] [javac-output-4168]         private Integer defaultQueryTimeoutSeconds = DEFAULT.getDefaultQueryTimeout();
+[2025-10-20 03:44:53] [javac-output-4168]                                                             ^
+[2025-10-20 03:44:53] [javac-output-4168] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jdbc-dbcp2\src\main\java\org\apache\logging\log4j\core\appender\db\jdbc\PoolableConnectionFactoryConfig.java:279: warning: [deprecation] setDefaultQueryTimeout(Integer) in PoolableConnectionFactory has been deprecated
+[2025-10-20 03:44:53] [javac-output-4168]             poolableConnectionFactory.setDefaultQueryTimeout(defaultQueryTimeoutSeconds);
+[2025-10-20 03:44:53] [javac-output-4168]                                      ^
+[2025-10-20 03:44:53] [javac-output-4168] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jdbc-dbcp2\src\main\java\org\apache\logging\log4j\core\appender\db\jdbc\PoolableConnectionFactoryConfig.java:285: warning: [deprecation] setMaxConnLifetimeMillis(long) in PoolableConnectionFactory has been deprecated
+[2025-10-20 03:44:53] [javac-output-4168]             poolableConnectionFactory.setMaxConnLifetimeMillis(maxConnLifetimeMillis);
+[2025-10-20 03:44:53] [javac-output-4168]                                      ^
+[2025-10-20 03:44:53] [javac-output-4168] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jdbc-dbcp2\src\main\java\org\apache\logging\log4j\core\appender\db\jdbc\PoolableConnectionFactoryConfig.java:290: warning: [deprecation] setValidationQueryTimeout(int) in PoolableConnectionFactory has been deprecated
+[2025-10-20 03:44:53] [javac-output-4168]             poolableConnectionFactory.setValidationQueryTimeout(validationQueryTimeoutSeconds);
+[2025-10-20 03:44:53] [javac-output-4168]                                      ^

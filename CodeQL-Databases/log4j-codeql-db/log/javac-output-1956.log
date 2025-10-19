@@ -1,0 +1,129 @@
+[2025-10-20 03:33:51] [javac-output-1956] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:33:51] [javac-output-1956] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:33:51] [javac-output-1956] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:33:55] [javac-output-1956] warning: unknown enum constant ElementType.MODULE
+[2025-10-20 03:33:55] [javac-output-1956] warning: [processing] No processor claimed any of these annotations: org.junit.jupiter.api.BeforeEach,org.apache.logging.log4j.test.junit.SetTestProperty.SetTestProperties,org.junit.jupiter.params.provider.CsvSource,org.junitpioneer.jupiter.SetSystemProperty.SetSystemProperties,org.junitpioneer.jupiter.ReadsSystemProperty,org.junit.BeforeClass,org.apache.logging.log4j.test.junit.StatusLoggerLevel,org.junit.runner.RunWith,org.junit.runners.Parameterized.Parameters,org.apache.logging.log4j.test.junit.UsingStatusListener,org.junitpioneer.jupiter.SetSystemProperty,org.apache.logging.log4j.test.junit.UsingThreadContextMap,org.apache.logging.log4j.test.junit.SetTestProperty,org.junit.jupiter.api.AfterAll,org.apache.logging.log4j.test.junit.UsingTestProperties,org.junit.jupiter.api.extension.ExtendWith,org.junit.jupiter.api.BeforeAll,org.junit.jupiter.api.extension.RegisterExtension,org.junit.jupiter.api.condition.EnabledIfSystemProperty,org.junit.jupiter.api.Tag,org.junit.jupiter.params.provider.MethodSource,org.junit.jupiter.params.provider.ValueSource,org.junit.jupiter.api.parallel.ResourceLocks,org.junit.Test,org.junit.jupiter.api.parallel.ResourceLock,org.junitpioneer.jupiter.Issue,org.apache.logging.log4j.test.junit.TempLoggingDir,org.junit.jupiter.api.Test,org.junit.jupiter.api.AfterEach,org.apache.logging.log4j.test.junit.UsingThreadContextStack,org.junit.jupiter.params.ParameterizedTest,org.junit.Rule,org.apache.logging.log4j.test.junit.UsingAnyThreadContext,edu.umd.cs.findbugs.annotations.Nullable,org.junit.jupiter.api.parallel.Execution,org.junit.jupiter.api.condition.EnabledOnJre
+[2025-10-20 03:33:56] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\AbstractLoggerTest.java:901: warning: [deprecation] getStatusData() in StatusLogger has been deprecated
+[2025-10-20 03:33:56] [javac-output-1956]         final List<StatusData> statusDatalist = StatusLogger.getLogger().getStatusData();
+[2025-10-20 03:33:56] [javac-output-1956]                                                                         ^
+[2025-10-20 03:33:56] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\AbstractLoggerTest.java:919: warning: [deprecation] getStatusData() in StatusLogger has been deprecated
+[2025-10-20 03:33:56] [javac-output-1956]         final List<StatusData> statusDatalist = StatusLogger.getLogger().getStatusData();
+[2025-10-20 03:33:56] [javac-output-1956]                                                                         ^
+[2025-10-20 03:33:56] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\AbstractLoggerTest.java:943: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:33:56] [javac-output-1956]         public String getFormat() {
+[2025-10-20 03:33:56] [javac-output-1956]                       ^
+[2025-10-20 03:33:56] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\AbstractLoggerTest.java:928: warning: [serial] serializable class TestMessage has no definition of serialVersionUID
+[2025-10-20 03:33:56] [javac-output-1956]     private static final class TestMessage implements Message {
+[2025-10-20 03:33:56] [javac-output-1956]                                ^
+[2025-10-20 03:33:56] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\AbstractLoggerTest.java:929: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:33:56] [javac-output-1956]         private final FormattedMessageSupplier formattedMessageSupplier;
+[2025-10-20 03:33:56] [javac-output-1956]                                                ^
+[2025-10-20 03:33:56] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\AbstractLoggerTest.java:966: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:33:56] [javac-output-1956]         private LogEvent currentEvent;
+[2025-10-20 03:33:56] [javac-output-1956]                          ^
+[2025-10-20 03:33:57] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\CloseableThreadContextTest.java:261: warning: [try] auto-closeable resource ctc3 is never referenced in body of corresponding try statement
+[2025-10-20 03:33:57] [javac-output-1956]                 try (final CloseableThreadContext.Instance ctc3 = CloseableThreadContext.put("inner", "one")) {
+[2025-10-20 03:33:57] [javac-output-1956]                                                            ^
+[2025-10-20 03:33:57] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\CloseableThreadContextTest.java:258: warning: [try] auto-closeable resource ctc2 is never referenced in body of corresponding try statement
+[2025-10-20 03:33:57] [javac-output-1956]             try (final CloseableThreadContext.Instance ctc2 = CloseableThreadContext.put("outer", "two")) {
+[2025-10-20 03:33:57] [javac-output-1956]                                                        ^
+[2025-10-20 03:33:57] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\CloseableThreadContextTest.java:257: warning: [try] auto-closeable resource ctc1 is never referenced in body of corresponding try statement
+[2025-10-20 03:33:57] [javac-output-1956]         try (final CloseableThreadContext.Instance ctc1 = CloseableThreadContext.put("outer", "one")) {
+[2025-10-20 03:33:57] [javac-output-1956]                                                    ^
+[2025-10-20 03:33:57] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\CloseableThreadContextTest.java:293: warning: [try] auto-closeable resource ctc3 is never referenced in body of corresponding try statement
+[2025-10-20 03:33:57] [javac-output-1956]                 try (final CloseableThreadContext.Instance ctc3 = CloseableThreadContext.put("inner", "one")) {
+[2025-10-20 03:33:57] [javac-output-1956]                                                            ^
+[2025-10-20 03:33:57] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\CloseableThreadContextTest.java:290: warning: [try] auto-closeable resource ctc2 is never referenced in body of corresponding try statement
+[2025-10-20 03:33:57] [javac-output-1956]             try (final CloseableThreadContext.Instance ctc2 = CloseableThreadContext.put("outer", "two")) {
+[2025-10-20 03:33:57] [javac-output-1956]                                                        ^
+[2025-10-20 03:33:57] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\CloseableThreadContextTest.java:289: warning: [try] auto-closeable resource ctc1 is never referenced in body of corresponding try statement
+[2025-10-20 03:33:57] [javac-output-1956]         try (final CloseableThreadContext.Instance ctc1 = CloseableThreadContext.put("outer", "one")) {
+[2025-10-20 03:33:57] [javac-output-1956]                                                    ^
+[2025-10-20 03:33:58] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\EventLoggerTest.java:49: warning: [deprecation] EventLogger in org.apache.logging.log4j has been deprecated
+[2025-10-20 03:33:58] [javac-output-1956]         EventLogger.logEvent(msg);
+[2025-10-20 03:33:58] [javac-output-1956]         ^
+[2025-10-20 03:33:58] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\LambdaLoggerTest.java:62: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:33:58] [javac-output-1956]         final List<LambdaLoggerTest.LogEvent> list = new ArrayList<>();
+[2025-10-20 03:33:58] [javac-output-1956]                                               ^
+[2025-10-20 03:33:58] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\LambdaLoggerTest.java:274: warning: [rawtypes] found raw type: Supplier
+[2025-10-20 03:33:58] [javac-output-1956]     final Supplier[] supplierArray1 = new Supplier[] {supplier};
+[2025-10-20 03:33:58] [javac-output-1956]           ^
+[2025-10-20 03:33:58] [javac-output-1956]   missing type arguments for generic class Supplier<T>
+[2025-10-20 03:33:58] [javac-output-1956]   where T is a type-variable:
+[2025-10-20 03:33:58] [javac-output-1956]     T extends Object declared in interface Supplier
+[2025-10-20 03:33:58] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\LambdaLoggerTest.java:274: warning: [rawtypes] found raw type: Supplier
+[2025-10-20 03:33:58] [javac-output-1956]     final Supplier[] supplierArray1 = new Supplier[] {supplier};
+[2025-10-20 03:33:58] [javac-output-1956]                                           ^
+[2025-10-20 03:33:58] [javac-output-1956]   missing type arguments for generic class Supplier<T>
+[2025-10-20 03:33:58] [javac-output-1956]   where T is a type-variable:
+[2025-10-20 03:33:58] [javac-output-1956]     T extends Object declared in interface Supplier
+[2025-10-20 03:33:58] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\LambdaLoggerTest.java:275: warning: [rawtypes] found raw type: Supplier
+[2025-10-20 03:33:58] [javac-output-1956]     final Supplier[] supplierArray2 = new Supplier[] {supplier, supplier2};
+[2025-10-20 03:33:58] [javac-output-1956]           ^
+[2025-10-20 03:33:58] [javac-output-1956]   missing type arguments for generic class Supplier<T>
+[2025-10-20 03:33:58] [javac-output-1956]   where T is a type-variable:
+[2025-10-20 03:33:58] [javac-output-1956]     T extends Object declared in interface Supplier
+[2025-10-20 03:33:58] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\LambdaLoggerTest.java:275: warning: [rawtypes] found raw type: Supplier
+[2025-10-20 03:33:58] [javac-output-1956]     final Supplier[] supplierArray2 = new Supplier[] {supplier, supplier2};
+[2025-10-20 03:33:58] [javac-output-1956]                                           ^
+[2025-10-20 03:33:58] [javac-output-1956]   missing type arguments for generic class Supplier<T>
+[2025-10-20 03:33:58] [javac-output-1956]   where T is a type-variable:
+[2025-10-20 03:33:58] [javac-output-1956]     T extends Object declared in interface Supplier
+[2025-10-20 03:34:00] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\LoggerTest.java:93: warning: [deprecation] entry() in AbstractLogger has been deprecated
+[2025-10-20 03:34:00] [javac-output-1956]         logger.entry();
+[2025-10-20 03:34:00] [javac-output-1956]               ^
+[2025-10-20 03:34:00] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\LoggerTest.java:94: warning: [deprecation] exit() in AbstractLogger has been deprecated
+[2025-10-20 03:34:00] [javac-output-1956]         logger.exit();
+[2025-10-20 03:34:00] [javac-output-1956]               ^
+[2025-10-20 03:34:01] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\TraceLoggingTest.java:57: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:34:01] [javac-output-1956]     private LogEvent currentEvent;
+[2025-10-20 03:34:01] [javac-output-1956]                      ^
+[2025-10-20 03:34:02] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\message\JsonMessage.java:52: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:34:02] [javac-output-1956]     public String getFormat() {
+[2025-10-20 03:34:02] [javac-output-1956]                   ^
+[2025-10-20 03:34:02] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\message\JsonMessage.java:30: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:34:02] [javac-output-1956]     private final Object object;
+[2025-10-20 03:34:02] [javac-output-1956]                          ^
+[2025-10-20 03:34:03] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\message\MapMessageTest.java:306: warning: [deprecation] Time(int,int,int) in Time has been deprecated
+[2025-10-20 03:34:03] [javac-output-1956]         final Time time = new Time(12, 5, 5);
+[2025-10-20 03:34:03] [javac-output-1956]                           ^
+[2025-10-20 03:34:03] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\message\ObjectMessageTest.java:89: warning: [overrides] Class NonSerializable overrides equals, but neither it nor any superclass overrides hashCode method
+[2025-10-20 03:34:03] [javac-output-1956]         class NonSerializable {
+[2025-10-20 03:34:03] [javac-output-1956]               ^
+[2025-10-20 03:34:04] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\message\ParameterizedMessageTest.java:164: warning: [overrides] Class NonSerializable overrides equals, but neither it nor any superclass overrides hashCode method
+[2025-10-20 03:34:04] [javac-output-1956]         class NonSerializable {
+[2025-10-20 03:34:04] [javac-output-1956]               ^
+[2025-10-20 03:34:06] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\spi\DefaultThreadContextStackTest.java:67: warning: [deprecation] DefaultThreadContextStack(boolean) in DefaultThreadContextStack has been deprecated
+[2025-10-20 03:34:06] [javac-output-1956]         final DefaultThreadContextStack stack = new DefaultThreadContextStack(false);
+[2025-10-20 03:34:06] [javac-output-1956]                                                 ^
+[2025-10-20 03:34:06] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\spi\DefaultThreadContextStackTest.java:74: warning: [deprecation] DefaultThreadContextStack(boolean) in DefaultThreadContextStack has been deprecated
+[2025-10-20 03:34:06] [javac-output-1956]         final DefaultThreadContextStack stack = new DefaultThreadContextStack(true);
+[2025-10-20 03:34:06] [javac-output-1956]                                                 ^
+[2025-10-20 03:34:06] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\spi\DefaultThreadContextStackTest.java:102: warning: [deprecation] DefaultThreadContextStack(boolean) in DefaultThreadContextStack has been deprecated
+[2025-10-20 03:34:06] [javac-output-1956]         final DefaultThreadContextStack stack = new DefaultThreadContextStack(false);
+[2025-10-20 03:34:06] [javac-output-1956]                                                 ^
+[2025-10-20 03:34:06] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\spi\DefaultThreadContextStackTest.java:114: warning: [deprecation] DefaultThreadContextStack(boolean) in DefaultThreadContextStack has been deprecated
+[2025-10-20 03:34:06] [javac-output-1956]         final DefaultThreadContextStack stack = new DefaultThreadContextStack(true);
+[2025-10-20 03:34:06] [javac-output-1956]                                                 ^
+[2025-10-20 03:34:06] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\spi\DefaultThreadContextStackTest.java:125: warning: [deprecation] DefaultThreadContextStack(boolean) in DefaultThreadContextStack has been deprecated
+[2025-10-20 03:34:06] [javac-output-1956]         final DefaultThreadContextStack stack = new DefaultThreadContextStack(true);
+[2025-10-20 03:34:06] [javac-output-1956]                                                 ^
+[2025-10-20 03:34:06] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\spi\DefaultThreadContextStackTest.java:158: warning: [deprecation] DefaultThreadContextStack(boolean) in DefaultThreadContextStack has been deprecated
+[2025-10-20 03:34:06] [javac-output-1956]         final DefaultThreadContextStack stack = new DefaultThreadContextStack(true);
+[2025-10-20 03:34:06] [javac-output-1956]                                                 ^
+[2025-10-20 03:34:06] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\spi\DefaultThreadContextStackTest.java:219: warning: [deprecation] DefaultThreadContextStack(boolean) in DefaultThreadContextStack has been deprecated
+[2025-10-20 03:34:06] [javac-output-1956]         final DefaultThreadContextStack stack = new DefaultThreadContextStack(true);
+[2025-10-20 03:34:06] [javac-output-1956]                                                 ^
+[2025-10-20 03:34:06] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\spi\DefaultThreadContextStackTest.java:330: warning: [deprecation] DefaultThreadContextStack(boolean) in DefaultThreadContextStack has been deprecated
+[2025-10-20 03:34:06] [javac-output-1956]         final DefaultThreadContextStack stack = new DefaultThreadContextStack(true);
+[2025-10-20 03:34:06] [javac-output-1956]                                                 ^
+[2025-10-20 03:34:10] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\util\SortedArrayStringMapTest.java:71: warning: [unchecked] unchecked method invocation: constructor <init> in class SortedArrayStringMap is applied to given types
+[2025-10-20 03:34:10] [javac-output-1956]         final SortedArrayStringMap sMap = new SortedArrayStringMap((Map) map);
+[2025-10-20 03:34:10] [javac-output-1956]                                           ^
+[2025-10-20 03:34:10] [javac-output-1956]   required: Map<String,?>
+[2025-10-20 03:34:10] [javac-output-1956]   found:    Map
+[2025-10-20 03:34:10] [javac-output-1956] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\test\java\org\apache\logging\log4j\util\SortedArrayStringMapTest.java:71: warning: [unchecked] unchecked conversion
+[2025-10-20 03:34:10] [javac-output-1956]         final SortedArrayStringMap sMap = new SortedArrayStringMap((Map) map);
+[2025-10-20 03:34:10] [javac-output-1956]                                                                    ^
+[2025-10-20 03:34:10] [javac-output-1956]   required: Map<String,?>
+[2025-10-20 03:34:10] [javac-output-1956]   found:    Map

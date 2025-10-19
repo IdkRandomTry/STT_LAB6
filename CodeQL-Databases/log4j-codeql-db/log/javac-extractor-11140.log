@@ -1,0 +1,30 @@
+[2025-10-20 03:28:21] [javac-extractor-11140] Starting extraction for:
+                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 17 --javac-args @@@C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\log4j-codeql-db\log\ext\javac.args
+                                              user.dir=C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2
+[2025-10-20 03:28:21] [javac-extractor-11140] Compilation name C:/Sidd all in one/Unsafe/Lab6/CodeQL-Databases/log4j-codeql-db/trap/java/diagnostics/diagnostic.trap.gz
+[2025-10-20 03:28:21] [javac-extractor-11140] [WARN] Appending source destination directory C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\target\generated-sources\annotations to sourcepath
+[2025-10-20 03:28:23] [javac-extractor-11140] Annotation processor class 'lombok.launch.AnnotationProcessorHider$AnnotationProcessor' initialized.
+[2025-10-20 03:28:23] [javac-extractor-11140] Annotation processor class 'lombok.launch.AnnotationProcessorHider$ClaimingProcessor' initialized.
+[2025-10-20 03:28:23] [javac-extractor-11140] 16 files will be passed to the attrib/flow phase
+[2025-10-20 03:28:23] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\Dummy.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing module java.base
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\message\Dummy.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\message\ThreadDumpMessage.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\simple\Dummy.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\spi\Provider.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\status\Dummy.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\util\Base64Util.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\util\EnvironmentPropertySource.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\util\PropertySource.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\util\LoaderUtil.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\util\PrivateSecurityManagerStackTraceUtil.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\util\ProcessIdUtil.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\util\StackLocator.java
+[2025-10-20 03:28:27] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\util\SystemPropertiesPropertySource.java
+[2025-10-20 03:28:28] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\util\internal\SerializationUtil.java
+[2025-10-20 03:28:28] [javac-extractor-11140] Processing file C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-java9\src\main\java\org\apache\logging\log4j\util\internal\DefaultObjectInputFilter.java
+[2025-10-20 03:28:28] [javac-extractor-11140] Javac init time: 1.6s
+[2025-10-20 03:28:28] [javac-extractor-11140] Javac attr time: 0.2s
+[2025-10-20 03:28:28] [javac-extractor-11140] Extractor time: 4.3s
+[2025-10-20 03:28:28] [javac-extractor-11140] Other time: 0.3s
+[2025-10-20 03:28:28] [javac-extractor-11140] Total time: 6.4s

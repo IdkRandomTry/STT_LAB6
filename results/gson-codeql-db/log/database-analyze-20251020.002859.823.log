@@ -1,0 +1,20 @@
+[2025-10-20 00:28:59] This is codeql database analyze results\gson-codeql-db Tools\codeql-queries\codeql-queries\java\ql\src\Security\CWE --format=sarif-latest --output=results\gson-codeql.sarif --rerun
+[2025-10-20 00:28:59] Log file was started late.
+[2025-10-20 00:28:59] [PROGRESS] database analyze> Running queries.
+[2025-10-20 00:28:59] Running plumbing command: codeql database run-queries --evaluator-log-level=5 --warnings=show --qlconfig-file=C:\Sidd all in one\Unsafe\Lab6\qlconfig.yml --dynamic-join-order-mode=none --rerun -- C:\Sidd all in one\Unsafe\Lab6\results\gson-codeql-db Tools\codeql-queries\codeql-queries\java\ql\src\Security\CWE
+[2025-10-20 00:28:59] Exception caught at top level: Database at C:\Sidd all in one\Unsafe\Lab6\results\gson-codeql-db needs to be finalized before running queries; please run codeql database finalize
+                      com.semmle.cli2.database.RunQueriesCommand.executeSubcommand(RunQueriesCommand.java:251)
+                      com.semmle.cli2.picocli.SubcommandCommon.lambda$executeSubcommandWithMessages$5(SubcommandCommon.java:892)
+                      com.semmle.cli2.picocli.SubcommandCommon.withCompilationMessages(SubcommandCommon.java:444)
+                      com.semmle.cli2.picocli.SubcommandCommon.executeSubcommandWithMessages(SubcommandCommon.java:890)
+                      com.semmle.cli2.picocli.PlumbingRunner.run(PlumbingRunner.java:119)
+                      com.semmle.cli2.picocli.SubcommandCommon.runPlumbingInProcess(SubcommandCommon.java:201)
+                      com.semmle.cli2.database.AnalyzeCommand.executeSubcommand(AnalyzeCommand.java:169)
+                      com.semmle.cli2.picocli.SubcommandCommon.lambda$executeSubcommandWithMessages$5(SubcommandCommon.java:892)
+                      com.semmle.cli2.picocli.SubcommandCommon.withCompilationMessages(SubcommandCommon.java:444)
+                      com.semmle.cli2.picocli.SubcommandCommon.executeSubcommandWithMessages(SubcommandCommon.java:890)
+                      com.semmle.cli2.picocli.SubcommandCommon.toplevelMain(SubcommandCommon.java:777)
+                      com.semmle.cli2.picocli.SubcommandCommon.call(SubcommandCommon.java:757)
+                      com.semmle.cli2.picocli.SubcommandMaker.runMain(SubcommandMaker.java:238)
+                      com.semmle.cli2.picocli.SubcommandMaker.runMain(SubcommandMaker.java:259)
+                      com.semmle.cli2.CodeQL.main(CodeQL.java:113)

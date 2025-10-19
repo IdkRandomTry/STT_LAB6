@@ -1,0 +1,30 @@
+-d
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\target\classes
+-classpath
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\target\classes;C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\core\target\classes;C:\Users\Siddhesh\.m2\repository\org\jcommander\jcommander\1.85\jcommander-1.85.jar;
+-sourcepath
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java;
+-s
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\target\generated-sources\annotations
+-g
+-target
+1.8
+-source
+1.8
+-encoding
+UTF-8
+-Xlint:all
+-Xlint:-serial
+-XDuseUnsharedTable=true
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\BufferedImageLuminanceSource.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\CommandLineEncoder.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\CommandLineRunner.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\DecodeWorker.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\DecoderConfig.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\EncoderConfig.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\GUIRunner.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\HtmlAssetTranslator.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\ImageReader.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\MatrixToImageConfig.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\MatrixToImageWriter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\javase\src\main\java\com\google\zxing\client\j2se\StringsResourceTranslator.java

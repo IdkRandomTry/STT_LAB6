@@ -1,0 +1,140 @@
+[2025-10-20 03:33:22] [javac-output-6292] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:33:22] [javac-output-6292] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:33:22] [javac-output-6292] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusListenerExtension.java:32: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\TempLoggingDirectory.java:36: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\ThreadContextInitializer.java:24: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] warning: [processing] No processor claimed any of these annotations: org.junitpioneer.jupiter.ReadsSystemProperty,org.osgi.annotation.bundle.Export,org.junitpioneer.jupiter.ReadsEnvironmentVariable,org.junit.runner.RunWith,org.junit.Test,org.junit.jupiter.api.parallel.ResourceLock,org.osgi.annotation.versioning.Version,org.osgi.annotation.versioning.ProviderType,org.junit.jupiter.api.extension.ExtendWith,org.junit.jupiter.api.parallel.Execution,edu.umd.cs.findbugs.annotations.SuppressFBWarnings
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusListenerExtension.java:32: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\TempLoggingDirectory.java:36: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\ThreadContextInitializer.java:24: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusListenerExtension.java:32: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\TempLoggingDirectory.java:36: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\ThreadContextInitializer.java:24: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusListenerExtension.java:32: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\TempLoggingDirectory.java:36: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\ThreadContextInitializer.java:24: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusListenerExtension.java:32: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\TempLoggingDirectory.java:36: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:25] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\ThreadContextInitializer.java:24: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:25] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:33:25] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:27] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\TestLogger.java:49: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:33:27] [javac-output-6292]     private final List<String> list = new ArrayList<>();
+[2025-10-20 03:33:27] [javac-output-6292]                                ^
+[2025-10-20 03:33:30] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusListenerExtension.java:112: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:30] [javac-output-6292]     private static class ListStatusListenerHolder implements CloseableResource {
+[2025-10-20 03:33:30] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:30] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusListenerExtension.java:112: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:30] [javac-output-6292]     private static class ListStatusListenerHolder implements CloseableResource {
+[2025-10-20 03:33:30] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:30] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusListenerExtension.java:112: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:30] [javac-output-6292]     private static class ListStatusListenerHolder implements CloseableResource {
+[2025-10-20 03:33:30] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:30] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusListenerExtension.java:112: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:30] [javac-output-6292]     private static class ListStatusListenerHolder implements CloseableResource {
+[2025-10-20 03:33:30] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:30] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusListenerExtension.java:112: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:30] [javac-output-6292]     private static class ListStatusListenerHolder implements CloseableResource {
+[2025-10-20 03:33:30] [javac-output-6292]                                                              ^
+[2025-10-20 03:33:30] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusLoggerLevelExtension.java:37: warning: [deprecation] setLevel(Level) in StatusLogger has been deprecated
+[2025-10-20 03:33:30] [javac-output-6292]         logger.setLevel(Level.valueOf(annotation.value()));
+[2025-10-20 03:33:30] [javac-output-6292]               ^
+[2025-10-20 03:33:30] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\StatusLoggerLevelExtension.java:42: warning: [deprecation] setLevel(Level) in StatusLogger has been deprecated
+[2025-10-20 03:33:30] [javac-output-6292]         StatusLogger.getLogger().setLevel(getStore(context).get(KEY, Level.class));
+[2025-10-20 03:33:30] [javac-output-6292]                                 ^
+[2025-10-20 03:33:31] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\TempLoggingDirectory.java:176: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:31] [javac-output-6292]     private static class PathHolder implements CloseableResource {
+[2025-10-20 03:33:31] [javac-output-6292]                                                ^
+[2025-10-20 03:33:31] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\TempLoggingDirectory.java:176: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:31] [javac-output-6292]     private static class PathHolder implements CloseableResource {
+[2025-10-20 03:33:31] [javac-output-6292]                                                ^
+[2025-10-20 03:33:31] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\TempLoggingDirectory.java:176: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:31] [javac-output-6292]     private static class PathHolder implements CloseableResource {
+[2025-10-20 03:33:31] [javac-output-6292]                                                ^
+[2025-10-20 03:33:31] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\TempLoggingDirectory.java:176: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:31] [javac-output-6292]     private static class PathHolder implements CloseableResource {
+[2025-10-20 03:33:31] [javac-output-6292]                                                ^
+[2025-10-20 03:33:31] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\TempLoggingDirectory.java:176: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:31] [javac-output-6292]     private static class PathHolder implements CloseableResource {
+[2025-10-20 03:33:31] [javac-output-6292]                                                ^
+[2025-10-20 03:33:32] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\ThreadContextInitializer.java:50: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:32] [javac-output-6292]                 new CloseableResource() {
+[2025-10-20 03:33:32] [javac-output-6292]                     ^
+[2025-10-20 03:33:32] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\ThreadContextMapExtension.java:25: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:32] [javac-output-6292]     private static final class ThreadContextMapStore implements ExtensionContext.Store.CloseableResource {
+[2025-10-20 03:33:32] [javac-output-6292]                                                                                       ^
+[2025-10-20 03:33:32] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\ThreadContextMapExtension.java:25: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:32] [javac-output-6292]     private static final class ThreadContextMapStore implements ExtensionContext.Store.CloseableResource {
+[2025-10-20 03:33:32] [javac-output-6292]                                                                                       ^
+[2025-10-20 03:33:32] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\ThreadContextMapExtension.java:25: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:32] [javac-output-6292]     private static final class ThreadContextMapStore implements ExtensionContext.Store.CloseableResource {
+[2025-10-20 03:33:32] [javac-output-6292]                                                                                       ^
+[2025-10-20 03:33:32] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\ThreadContextMapExtension.java:25: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:32] [javac-output-6292]     private static final class ThreadContextMapStore implements ExtensionContext.Store.CloseableResource {
+[2025-10-20 03:33:32] [javac-output-6292]                                                                                       ^
+[2025-10-20 03:33:32] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api-test\src\main\java\org\apache\logging\log4j\test\junit\ThreadContextMapExtension.java:25: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:33:32] [javac-output-6292]     private static final class ThreadContextMapStore implements ExtensionContext.Store.CloseableResource {
+[2025-10-20 03:33:32] [javac-output-6292]                                                                                       ^
+[2025-10-20 03:49:02] [javac-output-6292] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:49:03] [javac-output-6292] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:49:03] [javac-output-6292] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:49:05] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-mongodb4\src\test\java\org\apache\logging\log4j\mongodb4\MongoDb4Resolver.java:27: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:49:05] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:49:05] [javac-output-6292]                                                              ^
+[2025-10-20 03:49:05] [javac-output-6292] warning: [processing] No processor claimed any of these annotations: org.junit.jupiter.api.Test,org.junit.jupiter.api.extension.Extensions,org.apache.logging.log4j.core.test.junit.LoggerContextSource,org.apache.logging.log4j.test.junit.UsingStatusListener,org.apache.logging.log4j.mongodb4.UsingMongoDb4
+[2025-10-20 03:49:05] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-mongodb4\src\test\java\org\apache\logging\log4j\mongodb4\MongoDb4Resolver.java:27: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:49:05] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:49:05] [javac-output-6292]                                                              ^
+[2025-10-20 03:49:05] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-mongodb4\src\test\java\org\apache\logging\log4j\mongodb4\MongoDb4Resolver.java:27: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:49:05] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:49:05] [javac-output-6292]                                                              ^
+[2025-10-20 03:49:05] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-mongodb4\src\test\java\org\apache\logging\log4j\mongodb4\MongoDb4Resolver.java:27: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:49:05] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:49:05] [javac-output-6292]                                                              ^
+[2025-10-20 03:49:05] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-mongodb4\src\test\java\org\apache\logging\log4j\mongodb4\MongoDb4Resolver.java:27: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:49:05] [javac-output-6292] import org.junit.jupiter.api.extension.ExtensionContext.Store.CloseableResource;
+[2025-10-20 03:49:05] [javac-output-6292]                                                              ^
+[2025-10-20 03:49:08] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-mongodb4\src\test\java\org\apache\logging\log4j\mongodb4\MongoDb4Resolver.java:49: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:49:08] [javac-output-6292]     private static final class MongoClientHolder implements CloseableResource, Supplier<MongoClient> {
+[2025-10-20 03:49:08] [javac-output-6292]                                                             ^
+[2025-10-20 03:49:08] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-mongodb4\src\test\java\org\apache\logging\log4j\mongodb4\MongoDb4Resolver.java:49: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:49:08] [javac-output-6292]     private static final class MongoClientHolder implements CloseableResource, Supplier<MongoClient> {
+[2025-10-20 03:49:08] [javac-output-6292]                                                             ^
+[2025-10-20 03:49:08] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-mongodb4\src\test\java\org\apache\logging\log4j\mongodb4\MongoDb4Resolver.java:49: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:49:08] [javac-output-6292]     private static final class MongoClientHolder implements CloseableResource, Supplier<MongoClient> {
+[2025-10-20 03:49:08] [javac-output-6292]                                                             ^
+[2025-10-20 03:49:08] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-mongodb4\src\test\java\org\apache\logging\log4j\mongodb4\MongoDb4Resolver.java:49: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:49:08] [javac-output-6292]     private static final class MongoClientHolder implements CloseableResource, Supplier<MongoClient> {
+[2025-10-20 03:49:08] [javac-output-6292]                                                             ^
+[2025-10-20 03:49:08] [javac-output-6292] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-mongodb4\src\test\java\org\apache\logging\log4j\mongodb4\MongoDb4Resolver.java:49: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:49:08] [javac-output-6292]     private static final class MongoClientHolder implements CloseableResource, Supplier<MongoClient> {
+[2025-10-20 03:49:08] [javac-output-6292]                                                             ^

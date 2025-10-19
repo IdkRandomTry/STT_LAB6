@@ -1,0 +1,13 @@
+[2025-10-20 03:36:25] [javac-extractor-21816] Starting extraction for:
+                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 17 --javac-args @@@C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\log4j-codeql-db\log\ext\javac-11.args
+                                              user.dir=C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2
+[2025-10-20 03:36:25] [javac-extractor-21816] Compilation name C:/Sidd all in one/Unsafe/Lab6/CodeQL-Databases/log4j-codeql-db/trap/java/diagnostics/diagnostic-11.trap.gz
+[2025-10-20 03:36:25] [javac-extractor-21816] [WARN] Appending source destination directory C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-test\target\generated-test-sources\test-annotations to sourcepath
+[2025-10-20 03:36:34] [javac-extractor-21816] Annotation processor class 'lombok.launch.AnnotationProcessorHider$AnnotationProcessor' initialized.
+[2025-10-20 03:36:36] [javac-extractor-21816] Annotation processor class 'lombok.launch.AnnotationProcessorHider$ClaimingProcessor' initialized.
+[2025-10-20 03:36:37] [javac-extractor-21816] 0 files will be passed to the attrib/flow phase
+[2025-10-20 03:36:37] [javac-extractor-21816] Javac init time: 11.8s
+[2025-10-20 03:36:37] [javac-extractor-21816] Javac attr time: 0.0s
+[2025-10-20 03:36:37] [javac-extractor-21816] Extractor time: 0.0s
+[2025-10-20 03:36:37] [javac-extractor-21816] Other time: 0.5s
+[2025-10-20 03:36:37] [javac-extractor-21816] Total time: 12.3s

@@ -1,0 +1,46 @@
+---
+sourceLocationPrefix: C:\Sidd all in one\Unsafe\Lab6\Repos\zxing
+baselineLinesOfCode: 48095
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: java
+inProgress:
+  primaryLanguage: java
+  installedExtractors:
+    actions:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/actions
+    cpp:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/cpp
+    csharp:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/csharp
+    csv:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/csv
+    go:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/go
+    html:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/html
+    java:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/java
+    javascript:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/javascript
+    properties:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/properties
+    python:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/python
+    ruby:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/ruby
+    rust:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/rust
+    swift:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/swift
+    xml:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/xml
+    yaml:
+     - C:/Sidd all in one/Unsafe/Lab6/Tools/codeql/yaml
+creationMetadata:
+  sha: 71b49acc53d311efc570a22cfdd694ba3dd95bc3
+  cliVersion: 2.23.3
+  creationTime: 2025-10-19T20:57:32.001473900Z
+overlayBaseDatabase: false
+overlayDatabase: false
+finalised: false

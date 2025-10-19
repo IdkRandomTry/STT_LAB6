@@ -1,0 +1,13 @@
+[2025-10-20 03:12:14] [javac-extractor-14020] Starting extraction for:
+                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 21 --javac-args @@@C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db\log\ext\javac-2.args
+                                              user.dir=C:\Sidd all in one\Unsafe\Lab6\Repos\gson
+[2025-10-20 03:12:14] [javac-extractor-14020] Compilation name C:/Sidd all in one/Unsafe/Lab6/CodeQL-Databases/gson-codeql-db/trap/java/diagnostics/diagnostic-2.trap.gz
+[2025-10-20 03:12:14] [javac-extractor-14020] [WARN] Appending source destination directory C:\Sidd all in one\Unsafe\Lab6\Repos\gson\test-jpms\target\generated-sources\annotations to sourcepath
+[2025-10-20 03:12:16] [javac-extractor-14020] Annotation processor class 'lombok.launch.AnnotationProcessorHider$AnnotationProcessor' initialized.
+[2025-10-20 03:12:16] [javac-extractor-14020] Annotation processor class 'lombok.launch.AnnotationProcessorHider$ClaimingProcessor' initialized.
+[2025-10-20 03:12:16] [javac-extractor-14020] 1 files will be passed to the attrib/flow phase
+[2025-10-20 03:12:16] [javac-extractor-14020] Javac init time: 1.8s
+[2025-10-20 03:12:16] [javac-extractor-14020] Javac attr time: 0.0s
+[2025-10-20 03:12:16] [javac-extractor-14020] Extractor time: 0.0s
+[2025-10-20 03:12:16] [javac-extractor-14020] Other time: 0.3s
+[2025-10-20 03:12:16] [javac-extractor-14020] Total time: 2.1s

@@ -1,0 +1,1 @@
+[2025-10-20 03:12:39] [javac-output-28240] warning: [processing] No processor claimed any of these annotations: com.google.gson.annotations.JsonAdapter,com.google.gson.annotations.Since,com.google.gson.annotations.SerializedName,com.google.gson.annotations.Until,com.google.gson.annotations.Expose

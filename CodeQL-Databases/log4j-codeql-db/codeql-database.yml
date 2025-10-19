@@ -1,0 +1,13 @@
+---
+sourceLocationPrefix: C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2
+baselineLinesOfCode: 210707
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: java
+creationMetadata:
+  sha: 1758179ef0206e78b6b61b7ac45d3e237685e360
+  cliVersion: 2.23.3
+  creationTime: 2025-10-19T21:56:28.744704600Z
+overlayDatabase: false
+overlayBaseDatabase: false
+finalised: true

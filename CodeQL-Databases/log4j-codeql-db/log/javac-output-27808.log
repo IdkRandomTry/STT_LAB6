@@ -1,0 +1,119 @@
+[2025-10-20 03:29:06] [javac-output-27808] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:29:06] [javac-output-27808] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:29:06] [javac-output-27808] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:29:10] [javac-output-27808] warning: unknown enum constant ElementType.MODULE
+[2025-10-20 03:29:10] [javac-output-27808] warning: unknown enum constant ElementType.MODULE
+[2025-10-20 03:29:10] [javac-output-27808] warning: [processing] No processor claimed any of these annotations: com.google.errorprone.annotations.InlineMe,org.apache.logging.log4j.message.AsynchronouslyFormattable,org.osgi.annotation.bundle.Export,org.jspecify.annotations.NullMarked,org.apache.logging.log4j.util.PerformanceSensitive,org.osgi.annotation.bundle.Headers,org.osgi.annotation.versioning.Version,org.apache.logging.log4j.util.InternalApi,aQute.bnd.annotation.spi.ServiceConsumer,aQute.bnd.annotation.spi.ServiceProvider,edu.umd.cs.findbugs.annotations.Nullable,edu.umd.cs.findbugs.annotations.SuppressFBWarnings
+[2025-10-20 03:29:13] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\MapMessage.java:157: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:13] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:13] [javac-output-27808]                   ^
+[2025-10-20 03:29:16] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\ThreadContext.java:153: warning: [serial] serializable class NoOpThreadContextStack has no definition of serialVersionUID
+[2025-10-20 03:29:16] [javac-output-27808]     private static final class NoOpThreadContextStack extends EmptyThreadContextStack {
+[2025-10-20 03:29:16] [javac-output-27808]                                ^
+[2025-10-20 03:29:16] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\internal\map\UnmodifiableArrayBackedMap.java:432: warning: [overloads] <V>forEach(org.apache.logging.log4j.util.BiConsumer<String,? super V>) in UnmodifiableArrayBackedMap is potentially ambiguous with forEach(java.util.function.BiConsumer<? super String,? super String>) in UnmodifiableArrayBackedMap
+[2025-10-20 03:29:16] [javac-output-27808]     public <V> void forEach(final org.apache.logging.log4j.util.BiConsumer<String, ? super V> action) {
+[2025-10-20 03:29:16] [javac-output-27808]                     ^
+[2025-10-20 03:29:16] [javac-output-27808]   where V is a type-variable:
+[2025-10-20 03:29:16] [javac-output-27808]     V extends Object declared in method <V>forEach(org.apache.logging.log4j.util.BiConsumer<String,? super V>)
+[2025-10-20 03:29:16] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\internal\map\UnmodifiableArrayBackedMap.java:79: warning: [serial] non-transient instance field of a serializable class declared with an array having a non-serializable base component type Object
+[2025-10-20 03:29:16] [javac-output-27808]             return (String) backingArray[getArrayIndexForKey(index)];
+[2025-10-20 03:29:16] [javac-output-27808]                             ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\DefaultFlowMessageFactory.java:80: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:17] [javac-output-27808]         public String getFormat() {
+[2025-10-20 03:29:17] [javac-output-27808]                       ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\DefaultFlowMessageFactory.java:82: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:17] [javac-output-27808]                 return text + " " + message.getFormat();
+[2025-10-20 03:29:17] [javac-output-27808]                                            ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\DefaultFlowMessageFactory.java:136: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:17] [javac-output-27808]         private final Object result;
+[2025-10-20 03:29:17] [javac-output-27808]                              ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\FormattedMessage.java:157: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:17] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:17] [javac-output-27808]                   ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\LocalizedMessage.java:201: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:17] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:17] [javac-output-27808]                   ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\AbstractLogger.java:2996: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:17] [javac-output-27808]                         message.getFormat(),
+[2025-10-20 03:29:17] [javac-output-27808]                                ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\AbstractLogger.java:104: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:17] [javac-output-27808]     private final MessageFactory2 messageFactory;
+[2025-10-20 03:29:17] [javac-output-27808]                                   ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\AbstractLogger.java:105: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:17] [javac-output-27808]     private final FlowMessageFactory flowMessageFactory;
+[2025-10-20 03:29:17] [javac-output-27808]                                      ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\status\StatusLogger.java:509: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:17] [javac-output-27808]     private final Config config;
+[2025-10-20 03:29:17] [javac-output-27808]                          ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\status\StatusLogger.java:511: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:17] [javac-output-27808]     private final StatusConsoleListener fallbackListener;
+[2025-10-20 03:29:17] [javac-output-27808]                                         ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\status\StatusLogger.java:513: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:17] [javac-output-27808]     private final List<StatusListener> listeners;
+[2025-10-20 03:29:17] [javac-output-27808]                                        ^
+[2025-10-20 03:29:17] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\status\StatusLogger.java:521: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:17] [javac-output-27808]     private final Queue<StatusData> buffer = new ConcurrentLinkedQueue<>();
+[2025-10-20 03:29:17] [javac-output-27808]                                     ^
+[2025-10-20 03:29:18] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\status\StatusData.java:41: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:18] [javac-output-27808]     private final DateTimeFormatter instantFormatter;
+[2025-10-20 03:29:18] [javac-output-27808]                                     ^
+[2025-10-20 03:29:18] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\MessageFormatMessage.java:96: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:18] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:18] [javac-output-27808]                   ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ObjectArrayMessage.java:76: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:19] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:19] [javac-output-27808]                   ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ObjectMessage.java:75: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:19] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:19] [javac-output-27808]                   ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ParameterizedMessage.java:210: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:19] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:19] [javac-output-27808]                   ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ParameterizedNoReferenceMessageFactory.java:67: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:19] [javac-output-27808]         public String getFormat() {
+[2025-10-20 03:29:19] [javac-output-27808]                       ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ReusableParameterizedMessage.java:344: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:19] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:19] [javac-output-27808]                   ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ReusableSimpleMessage.java:45: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:19] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:19] [javac-output-27808]                   ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ReusableSimpleMessage.java:29: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:19] [javac-output-27808]     private CharSequence charSequence;
+[2025-10-20 03:29:19] [javac-output-27808]                          ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ReusableObjectMessage.java:57: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:19] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:19] [javac-output-27808]                   ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\SimpleMessage.java:78: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:19] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:19] [javac-output-27808]                   ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\StringFormattedMessage.java:99: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:19] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:19] [javac-output-27808]                   ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\StructuredDataCollectionMessage.java:51: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:19] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:19] [javac-output-27808]                   ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\StructuredDataCollectionMessage.java:32: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:19] [javac-output-27808]     private final List<StructuredDataMessage> structuredDataMessageList;
+[2025-10-20 03:29:19] [javac-output-27808]                                               ^
+[2025-10-20 03:29:19] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ThreadDumpMessage.java:111: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:29:19] [javac-output-27808]     public String getFormat() {
+[2025-10-20 03:29:19] [javac-output-27808]                   ^
+[2025-10-20 03:29:20] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\message\ThreadDumpMessage.java:46: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:20] [javac-output-27808]     private volatile Map<ThreadInformation, StackTraceElement[]> threads;
+[2025-10-20 03:29:20] [javac-output-27808]                                                                  ^
+[2025-10-20 03:29:20] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\simple\SimpleLogger.java:57: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:20] [javac-output-27808]     private PrintStream stream;
+[2025-10-20 03:29:20] [javac-output-27808]                         ^
+[2025-10-20 03:29:21] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\DefaultThreadContextMap.java:50: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:21] [javac-output-27808]     private ThreadLocal<Object[]> localState;
+[2025-10-20 03:29:21] [javac-output-27808]                                   ^
+[2025-10-20 03:29:21] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\MutableThreadContextStack.java:37: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:21] [javac-output-27808]     private final List<String> list;
+[2025-10-20 03:29:21] [javac-output-27808]                                ^
+[2025-10-20 03:29:21] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\spi\ExtendedLoggerWrapper.java:35: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:21] [javac-output-27808]     protected final ExtendedLogger logger;
+[2025-10-20 03:29:21] [javac-output-27808]                                    ^
+[2025-10-20 03:29:23] [javac-output-27808] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\src\main\java\org\apache\logging\log4j\util\Timer.java:49: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:29:23] [javac-output-27808]     private ThreadLocal<Long> startTime = new ThreadLocal<Long>() {
+[2025-10-20 03:29:23] [javac-output-27808]                               ^

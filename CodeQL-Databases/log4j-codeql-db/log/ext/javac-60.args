@@ -1,0 +1,114 @@
+-Xprefer:source
+-d
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\target\classes
+-classpath
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\target\classes;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core\target\log4j-core-2.26.0-SNAPSHOT.jar;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\target\log4j-api-2.26.0-SNAPSHOT.jar;C:\Users\Siddhesh\.m2\repository\org\jctools\jctools-core\4.0.5\jctools-core-4.0.5.jar;C:\Users\Siddhesh\.m2\repository\biz\aQute\bnd\biz.aQute.bnd.annotation\7.1.0\biz.aQute.bnd.annotation-7.1.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.resource\1.0.0\org.osgi.resource-1.0.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.service.serviceloader\1.0.0\org.osgi.service.serviceloader-1.0.0.jar;C:\Users\Siddhesh\.m2\repository\com\google\errorprone\error_prone_annotations\2.38.0\error_prone_annotations-2.38.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.annotation.bundle\2.0.0\org.osgi.annotation.bundle-2.0.0.jar;C:\Users\Siddhesh\.m2\repository\org\osgi\org.osgi.annotation.versioning\1.1.2\org.osgi.annotation.versioning-1.1.2.jar;C:\Users\Siddhesh\.m2\repository\com\github\spotbugs\spotbugs-annotations\4.8.6\spotbugs-annotations-4.8.6.jar;C:\Users\Siddhesh\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;
+-sourcepath
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\target\generated-sources\annotations;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\target\generated-sources\annotations;
+-s
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\target\generated-sources\annotations
+-proc:only
+-processor
+org.apache.logging.log4j.docgen.processor.DescriptorGenerator,org.apache.logging.log4j.core.config.plugins.processor.PluginProcessor,org.apache.logging.log4j.core.config.plugins.processor.GraalVmProcessor
+-processorpath
+C:\Users\Siddhesh\.m2\repository\org\apache\logging\log4j\log4j-docgen\0.9.0\log4j-docgen-0.9.0.jar;C:\Users\Siddhesh\.m2\repository\org\asciidoctor\asciidoctorj-api\3.0.0-alpha.2\asciidoctorj-api-3.0.0-alpha.2.jar;C:\Users\Siddhesh\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\Siddhesh\.m2\repository\org\apache\logging\log4j\log4j-tools-internal-freemarker-util\0.9.0\log4j-tools-internal-freemarker-util-0.9.0.jar;C:\Users\Siddhesh\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core\target\log4j-core-2.26.0-SNAPSHOT.jar;C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-api\target\log4j-api-2.26.0-SNAPSHOT.jar;
+-g
+--release
+8
+-encoding
+UTF-8
+-Alog4j.docgen.descriptorFilePath=C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2/target/plugin-descriptors/phase2/log4j-layout-template-json-plugins.xml
+-Alog4j.docgen.groupId=org.apache.logging.log4j
+-Alog4j.docgen.artifactId=log4j-layout-template-json
+-Alog4j.docgen.version=2.26.0-SNAPSHOT
+-Alog4j.docgen.description=Apache Log4j Layout for producing JSON output that is structured according to a user-provided template.
+-Alog4j.docgen.typeFilter.excludePattern=^java\..+
+-Alog4j.graalvm.groupId=org.apache.logging.log4j
+-Alog4j.graalvm.artifactId=log4j-layout-template-json
+-XDuseUnsharedTable=true
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\JsonTemplateLayout.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\JsonTemplateLayoutDefaults.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\CaseConverterResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\CaseConverterResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\CounterResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\CounterResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\EndOfBatchResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\EndOfBatchResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\EventAdditionalFieldInterceptor.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\EventResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\EventResolverContext.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\EventResolverFactories.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\EventResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\EventResolverInterceptor.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\EventResolverInterceptors.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\EventResolverStringSubstitutor.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\EventRootObjectKeyInterceptor.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\ExceptionResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\ExceptionResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\ExceptionRootCauseResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\ExceptionRootCauseResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\LevelResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\LevelResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\LoggerResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\LoggerResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\MainMapResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\MainMapResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\MapResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\MapResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\MarkerResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\MarkerResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\MessageParameterResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\MessageParameterResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\MessageResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\MessageResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\PatternResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\PatternResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\ReadOnlyStringMapResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\SourceResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\SourceResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\StackTraceElementResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\StackTraceElementResolverContext.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\StackTraceElementResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\StackTraceElementResolverStringSubstitutor.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\StackTraceObjectResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\StackTraceResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\StackTraceStringResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\TemplateResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\TemplateResolverConfig.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\TemplateResolverContext.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\TemplateResolverFactories.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\TemplateResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\TemplateResolverInterceptor.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\TemplateResolverInterceptors.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\TemplateResolverStringSubstitutor.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\TemplateResolvers.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\ThreadContextDataResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\ThreadContextDataResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\ThreadContextStackResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\ThreadContextStackResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\ThreadResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\ThreadResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\TimestampResolver.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\TimestampResolverFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\resolver\package-info.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\CharSequencePointer.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\DummyRecycler.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\DummyRecyclerFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\InstantFormatter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\JsonReader.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\JsonWriter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\MapAccessor.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\QueueingRecycler.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\QueueingRecyclerFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\Recycler.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\RecyclerFactories.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\RecyclerFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\RecyclerFactoryConverter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\StringParameterParser.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\ThreadLocalRecycler.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\ThreadLocalRecyclerFactory.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\TruncatingBufferedPrintWriter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\TruncatingBufferedWriter.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\Uris.java
+C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\package-info.java

@@ -1,0 +1,61 @@
+[2025-10-20 03:29:57] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:26: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:29:57] [javac-output-21200] import sun.misc.Unsafe;
+[2025-10-20 03:29:57] [javac-output-21200]                ^
+[2025-10-20 03:29:57] [javac-output-21200] warning: [processing] No processor claimed any of these annotations: /com.fasterxml.jackson.annotation.JsonIgnore,/com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty,/com.fasterxml.jackson.annotation.JsonCreator,/com.fasterxml.jackson.annotation.JsonPropertyOrder,/com.fasterxml.jackson.annotation.JsonProperty,/com.fasterxml.jackson.annotation.JsonIgnoreProperties
+[2025-10-20 03:29:57] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:26: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:29:57] [javac-output-21200] import sun.misc.Unsafe;
+[2025-10-20 03:29:57] [javac-output-21200]                ^
+[2025-10-20 03:29:57] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:26: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:29:57] [javac-output-21200] import sun.misc.Unsafe;
+[2025-10-20 03:29:57] [javac-output-21200]                ^
+[2025-10-20 03:29:57] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:26: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:29:57] [javac-output-21200] import sun.misc.Unsafe;
+[2025-10-20 03:29:57] [javac-output-21200]                ^
+[2025-10-20 03:29:57] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:26: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:29:57] [javac-output-21200] import sun.misc.Unsafe;
+[2025-10-20 03:29:57] [javac-output-21200]                ^
+[2025-10-20 03:29:57] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\impl\ExtendedClassInfo.java:26: warning: [serial] serializable class ExtendedClassInfo has no definition of serialVersionUID
+[2025-10-20 03:29:57] [javac-output-21200] public class ExtendedClassInfo implements Serializable {
+[2025-10-20 03:29:57] [javac-output-21200]              ^
+[2025-10-20 03:29:58] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\jackson\Log4jStackTraceElementDeserializer.java:59: warning: [deprecation] getCurrentName() in JsonParser has been deprecated
+[2025-10-20 03:29:58] [javac-output-21200]                 final String propName = jp.getCurrentName();
+[2025-10-20 03:29:58] [javac-output-21200]                                           ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:34: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]     private static final Unsafe unsafe = findUnsafe();
+[2025-10-20 03:30:02] [javac-output-21200]                          ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:34: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]     private static final Unsafe unsafe = findUnsafe();
+[2025-10-20 03:30:02] [javac-output-21200]                          ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:34: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]     private static final Unsafe unsafe = findUnsafe();
+[2025-10-20 03:30:02] [javac-output-21200]                          ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:34: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]     private static final Unsafe unsafe = findUnsafe();
+[2025-10-20 03:30:02] [javac-output-21200]                          ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:34: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]     private static final Unsafe unsafe = findUnsafe();
+[2025-10-20 03:30:02] [javac-output-21200]                          ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:36: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]     private static Unsafe findUnsafe() {
+[2025-10-20 03:30:02] [javac-output-21200]                    ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:36: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]     private static Unsafe findUnsafe() {
+[2025-10-20 03:30:02] [javac-output-21200]                    ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:36: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]     private static Unsafe findUnsafe() {
+[2025-10-20 03:30:02] [javac-output-21200]                    ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:36: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]     private static Unsafe findUnsafe() {
+[2025-10-20 03:30:02] [javac-output-21200]                    ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:36: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]     private static Unsafe findUnsafe() {
+[2025-10-20 03:30:02] [javac-output-21200]                    ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:38: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]             return AccessController.doPrivileged(new PrivilegedExceptionAction<Unsafe>() {
+[2025-10-20 03:30:02] [javac-output-21200]                                                                                ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:41: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]                 public Unsafe run() throws ReflectiveOperationException, SecurityException {
+[2025-10-20 03:30:02] [javac-output-21200]                        ^
+[2025-10-20 03:30:02] [javac-output-21200] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-core-java9\src\main\java\org\apache\logging\log4j\core\util\internal\UnsafeUtil.java:44: warning: Unsafe is internal proprietary API and may be removed in a future release
+[2025-10-20 03:30:02] [javac-output-21200]                     return (Unsafe) unsafeField.get(null);
+[2025-10-20 03:30:02] [javac-output-21200]                             ^

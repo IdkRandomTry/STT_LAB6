@@ -1,0 +1,21 @@
+[2025-10-20 03:15:57] [javac-output-29136] warning: [options] bootstrap class path is not set in conjunction with -source 8
+[2025-10-20 03:15:57] [javac-output-29136]   not setting the bootstrap class path may lead to class files that cannot run on JDK 8
+[2025-10-20 03:15:57] [javac-output-29136]     --release 8 is recommended instead of -source 8 -target 1.8 because it sets the bootstrap class path automatically
+[2025-10-20 03:15:57] [javac-output-29136] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:15:57] [javac-output-29136] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:15:57] [javac-output-29136] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:16:15] [javac-output-29136] C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\core\src\main\java\com\google\zxing\client\result\WifiResultParser.java:22: warning: [dangling-doc-comments] documentation comment is not attached to any declaration
+[2025-10-20 03:16:15] [javac-output-29136] /**
+[2025-10-20 03:16:15] [javac-output-29136] ^
+[2025-10-20 03:16:17] [javac-output-29136] C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\core\src\main\java\com\google\zxing\datamatrix\encoder\HighLevelEncoder.java:49: warning: [dangling-doc-comments] documentation comment is not attached to any declaration
+[2025-10-20 03:16:17] [javac-output-29136]   /**
+[2025-10-20 03:16:17] [javac-output-29136]   ^
+[2025-10-20 03:16:17] [javac-output-29136] C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\core\src\main\java\com\google\zxing\datamatrix\encoder\HighLevelEncoder.java:45: warning: [dangling-doc-comments] documentation comment is not attached to any declaration
+[2025-10-20 03:16:17] [javac-output-29136]   /**
+[2025-10-20 03:16:17] [javac-output-29136]   ^
+[2025-10-20 03:16:17] [javac-output-29136] C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\core\src\main\java\com\google\zxing\datamatrix\encoder\HighLevelEncoder.java:41: warning: [dangling-doc-comments] documentation comment is not attached to any declaration
+[2025-10-20 03:16:17] [javac-output-29136]   /**
+[2025-10-20 03:16:17] [javac-output-29136]   ^
+[2025-10-20 03:16:17] [javac-output-29136] C:\Sidd all in one\Unsafe\Lab6\Repos\zxing\core\src\main\java\com\google\zxing\datamatrix\encoder\HighLevelEncoder.java:77: warning: [dangling-doc-comments] documentation comment is not attached to any declaration
+[2025-10-20 03:16:17] [javac-output-29136]   /**
+[2025-10-20 03:16:17] [javac-output-29136]   ^

@@ -1,0 +1,37 @@
+[2025-10-20 03:45:49] [javac-output-29692] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:45:49] [javac-output-29692] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:45:49] [javac-output-29692] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:45:52] [javac-output-29692] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\InstantFormatter.java:27: warning: [deprecation] FastDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:45:52] [javac-output-29692] import org.apache.logging.log4j.core.util.datetime.FastDateFormat;
+[2025-10-20 03:45:52] [javac-output-29692]                                                   ^
+[2025-10-20 03:45:52] [javac-output-29692] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\InstantFormatter.java:28: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:45:52] [javac-output-29692] import org.apache.logging.log4j.core.util.datetime.FixedDateFormat;
+[2025-10-20 03:45:52] [javac-output-29692]                                                   ^
+[2025-10-20 03:45:52] [javac-output-29692] warning: [processing] No processor claimed any of these annotations: org.osgi.annotation.bundle.Export,org.apache.logging.log4j.core.config.plugins.PluginConfiguration,org.apache.logging.log4j.core.config.plugins.Plugin,org.apache.logging.log4j.core.config.plugins.PluginBuilderAttribute,org.apache.logging.log4j.core.config.plugins.PluginFactory,org.osgi.annotation.versioning.Version,org.apache.logging.log4j.core.config.plugins.PluginElement,org.apache.logging.log4j.core.config.plugins.PluginBuilderFactory,aQute.bnd.annotation.jpms.Open,edu.umd.cs.findbugs.annotations.SuppressFBWarnings
+[2025-10-20 03:45:52] [javac-output-29692] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\InstantFormatter.java:27: warning: [deprecation] FastDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:45:52] [javac-output-29692] import org.apache.logging.log4j.core.util.datetime.FastDateFormat;
+[2025-10-20 03:45:52] [javac-output-29692]                                                   ^
+[2025-10-20 03:45:52] [javac-output-29692] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\InstantFormatter.java:28: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:45:52] [javac-output-29692] import org.apache.logging.log4j.core.util.datetime.FixedDateFormat;
+[2025-10-20 03:45:52] [javac-output-29692]                                                   ^
+[2025-10-20 03:45:52] [javac-output-29692] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\InstantFormatter.java:27: warning: [deprecation] FastDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:45:52] [javac-output-29692] import org.apache.logging.log4j.core.util.datetime.FastDateFormat;
+[2025-10-20 03:45:52] [javac-output-29692]                                                   ^
+[2025-10-20 03:45:52] [javac-output-29692] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\InstantFormatter.java:28: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:45:52] [javac-output-29692] import org.apache.logging.log4j.core.util.datetime.FixedDateFormat;
+[2025-10-20 03:45:52] [javac-output-29692]                                                   ^
+[2025-10-20 03:45:53] [javac-output-29692] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\InstantFormatter.java:27: warning: [deprecation] FastDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:45:53] [javac-output-29692] import org.apache.logging.log4j.core.util.datetime.FastDateFormat;
+[2025-10-20 03:45:53] [javac-output-29692]                                                   ^
+[2025-10-20 03:45:53] [javac-output-29692] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\InstantFormatter.java:28: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:45:53] [javac-output-29692] import org.apache.logging.log4j.core.util.datetime.FixedDateFormat;
+[2025-10-20 03:45:53] [javac-output-29692]                                                   ^
+[2025-10-20 03:45:53] [javac-output-29692] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\InstantFormatter.java:27: warning: [deprecation] FastDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:45:53] [javac-output-29692] import org.apache.logging.log4j.core.util.datetime.FastDateFormat;
+[2025-10-20 03:45:53] [javac-output-29692]                                                   ^
+[2025-10-20 03:45:53] [javac-output-29692] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\InstantFormatter.java:28: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:45:53] [javac-output-29692] import org.apache.logging.log4j.core.util.datetime.FixedDateFormat;
+[2025-10-20 03:45:53] [javac-output-29692]                                                   ^
+[2025-10-20 03:46:00] [javac-output-29692] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json\src\main\java\org\apache\logging\log4j\layout\template\json\util\RecyclerFactoryConverter.java:31: warning: [deprecation] RecyclerFactories in org.apache.logging.log4j.layout.template.json.util has been deprecated
+[2025-10-20 03:46:00] [javac-output-29692]         return RecyclerFactories.ofSpec(recyclerFactorySpec);
+[2025-10-20 03:46:00] [javac-output-29692]                ^

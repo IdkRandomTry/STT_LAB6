@@ -1,0 +1,5 @@
+[2025-10-20 03:40:21] [javac-output-26108] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:40:21] [javac-output-26108] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:40:21] [javac-output-26108] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:40:24] [javac-output-26108] warning: unknown enum constant ElementType.MODULE
+[2025-10-20 03:40:24] [javac-output-26108] warning: unknown enum constant ElementType.MODULE

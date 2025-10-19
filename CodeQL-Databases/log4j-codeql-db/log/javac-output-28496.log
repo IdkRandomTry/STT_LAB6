@@ -1,0 +1,79 @@
+[2025-10-20 03:54:02] [javac-output-28496] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:54:02] [javac-output-28496] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:54:02] [javac-output-28496] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:54:05] [javac-output-28496] warning: [processing] No processor claimed any of these annotations: org.junit.jupiter.api.Test,org.junit.jupiter.params.provider.ValueSource,org.junit.jupiter.api.BeforeEach,org.junit.jupiter.params.ParameterizedTest,org.junit.jupiter.api.extension.ExtendWith,org.mockito.Mock,org.mockito.Captor
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java:39: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true) // because filterConfig is not used in testDestroy
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java:39: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true) // because filterConfig is not used in testDestroy
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java:39: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true) // because filterConfig is not used in testDestroy
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java:39: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true) // because filterConfig is not used in testDestroy
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java:39: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true) // because filterConfig is not used in testDestroy
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java:42: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true) // because filterConfig is not used in testDestroy
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java:42: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true) // because filterConfig is not used in testDestroy
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java:42: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true) // because filterConfig is not used in testDestroy
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java:42: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true) // because filterConfig is not used in testDestroy
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jServletFilterTest.java:42: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true) // because filterConfig is not used in testDestroy
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jShutdownOnContextDestroyedListenerTest.java:33: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jShutdownOnContextDestroyedListenerTest.java:33: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jShutdownOnContextDestroyedListenerTest.java:33: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jShutdownOnContextDestroyedListenerTest.java:33: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jShutdownOnContextDestroyedListenerTest.java:33: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jShutdownOnContextDestroyedListenerTest.java:36: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jShutdownOnContextDestroyedListenerTest.java:36: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jShutdownOnContextDestroyedListenerTest.java:36: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jShutdownOnContextDestroyedListenerTest.java:36: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jShutdownOnContextDestroyedListenerTest.java:36: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jWebInitializerImplTest.java:55: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jWebInitializerImplTest.java:55: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jWebInitializerImplTest.java:55: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jWebInitializerImplTest.java:55: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^
+[2025-10-20 03:54:06] [javac-output-28496] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-web\src\test\java\org\apache\logging\log4j\web\Log4jWebInitializerImplTest.java:55: warning: [deprecation] lenient() in Mock has been deprecated
+[2025-10-20 03:54:06] [javac-output-28496]     @Mock(lenient = true)
+[2025-10-20 03:54:06] [javac-output-28496]           ^

@@ -1,0 +1,29 @@
+[2025-10-20 03:46:53] [javac-output-10876] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:46:53] [javac-output-10876] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:46:53] [javac-output-10876] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:46:56] [javac-output-10876] warning: [processing] No processor claimed any of these annotations: org.junit.jupiter.params.provider.ValueSource,org.junit.jupiter.api.BeforeEach,org.junit.jupiter.params.provider.CsvSource,org.apache.logging.log4j.core.test.junit.LoggerContextSource,org.apache.logging.log4j.test.junit.UsingStatusListener,org.junit.jupiter.api.Nested,org.apache.logging.log4j.core.config.plugins.Plugin,org.junitpioneer.jupiter.SetSystemProperty,org.apache.logging.log4j.core.config.plugins.PluginFactory,org.junit.jupiter.api.Test,org.junit.jupiter.api.AfterAll,org.apache.logging.log4j.test.junit.UsingTestProperties,org.junit.jupiter.params.ParameterizedTest,org.junit.jupiter.api.BeforeAll,org.junit.jupiter.api.Tags,org.junit.jupiter.api.parallel.Execution,org.apache.logging.log4j.core.test.junit.Named
+[2025-10-20 03:47:02] [javac-output-10876] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json-test\src\test\java\org\apache\logging\log4j\layout\template\json\LogstashIT.java:500: warning: [rawtypes] found raw type: Map
+[2025-10-20 03:47:02] [javac-output-10876]                 .map(hit -> {
+[2025-10-20 03:47:02] [javac-output-10876]                      ^
+[2025-10-20 03:47:02] [javac-output-10876]   missing type arguments for generic class Map<K,V>
+[2025-10-20 03:47:02] [javac-output-10876]   where K,V are type-variables:
+[2025-10-20 03:47:02] [javac-output-10876]     K extends Object declared in interface Map
+[2025-10-20 03:47:02] [javac-output-10876]     V extends Object declared in interface Map
+[2025-10-20 03:48:27] [javac-output-10876] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json-test\src\test\java\org\apache\logging\log4j\layout\template\json\ThreadLocalRecyclerNestedLoggingTest.java:43: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:48:27] [javac-output-10876]         private final Logger logger;
+[2025-10-20 03:48:27] [javac-output-10876]                              ^
+[2025-10-20 03:48:29] [javac-output-10876] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json-test\src\test\java\org\apache\logging\log4j\layout\template\json\resolver\StackTraceStringResolverTest.java:52: warning: [dangling-doc-comments] documentation comment is not attached to any declaration
+[2025-10-20 03:48:29] [javac-output-10876]     ////////////////////////////////////////////////////////////////////////////
+[2025-10-20 03:48:29] [javac-output-10876]     ^
+[2025-10-20 03:48:29] [javac-output-10876] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json-test\src\test\java\org\apache\logging\log4j\layout\template\json\resolver\StackTraceStringResolverTest.java:151: warning: [dangling-doc-comments] documentation comment is not attached to any declaration
+[2025-10-20 03:48:29] [javac-output-10876]     ////////////////////////////////////////////////////////////////////////////
+[2025-10-20 03:48:29] [javac-output-10876]     ^
+[2025-10-20 03:48:29] [javac-output-10876] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json-test\src\test\java\org\apache\logging\log4j\layout\template\json\resolver\StackTraceStringResolverTest.java:328: warning: [dangling-doc-comments] documentation comment is not attached to any declaration
+[2025-10-20 03:48:29] [javac-output-10876]     ////////////////////////////////////////////////////////////////////////////
+[2025-10-20 03:48:29] [javac-output-10876]     ^
+[2025-10-20 03:48:29] [javac-output-10876] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json-test\src\test\java\org\apache\logging\log4j\layout\template\json\resolver\StackTraceStringResolverTest.java:393: warning: [dangling-doc-comments] documentation comment is not attached to any declaration
+[2025-10-20 03:48:29] [javac-output-10876]     ////////////////////////////////////////////////////////////////////////////
+[2025-10-20 03:48:29] [javac-output-10876]     ^
+[2025-10-20 03:48:31] [javac-output-10876] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-layout-template-json-test\src\test\java\org\apache\logging\log4j\layout\template\json\util\RecyclerFactoryCustomConverter.java:61: warning: [deprecation] RecyclerFactories in org.apache.logging.log4j.layout.template.json.util has been deprecated
+[2025-10-20 03:48:31] [javac-output-10876]         return NAME.equals(recyclerFactorySpec) ? RECYCLER_FACTORY : RecyclerFactories.ofSpec(recyclerFactorySpec);
+[2025-10-20 03:48:31] [javac-output-10876]                                                                      ^

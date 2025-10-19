@@ -1,0 +1,8 @@
+[2025-10-20 03:39:51] [javac-output-21328] warning: [path] bad path element "C:\Users\Siddhesh\.m2\repository\org\apache\cassandra\cassandra-all\3.11.19\apache-cassandra-thrift-3.11.19.jar": no such file or directory
+[2025-10-20 03:39:52] [javac-output-21328] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:39:52] [javac-output-21328] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:39:52] [javac-output-21328] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:39:54] [javac-output-21328] warning: [processing] No processor claimed any of these annotations: org.junit.Test,org.junit.experimental.categories.Category,org.junit.BeforeClass,org.junit.ClassRule
+[2025-10-20 03:40:33] [javac-output-21328] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:40:33] [javac-output-21328] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:40:33] [javac-output-21328] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.

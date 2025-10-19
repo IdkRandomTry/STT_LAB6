@@ -1,0 +1,7 @@
+[2025-10-20 03:16:29] [javac-output-27104] warning: [options] bootstrap class path is not set in conjunction with -source 8
+[2025-10-20 03:16:29] [javac-output-27104]   not setting the bootstrap class path may lead to class files that cannot run on JDK 8
+[2025-10-20 03:16:29] [javac-output-27104]     --release 8 is recommended instead of -source 8 -target 1.8 because it sets the bootstrap class path automatically
+[2025-10-20 03:16:29] [javac-output-27104] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:16:29] [javac-output-27104] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:16:29] [javac-output-27104] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:16:31] [javac-output-27104] warning: [processing] No processor claimed any of these annotations: com.beust.jcommander.Parameter

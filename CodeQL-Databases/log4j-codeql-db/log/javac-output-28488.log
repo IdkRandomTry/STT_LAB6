@@ -1,0 +1,519 @@
+[2025-10-20 03:37:08] [javac-output-28488] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:37:08] [javac-output-28488] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:37:08] [javac-output-28488] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:37:12] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:31: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:37:12] [javac-output-28488] import org.apache.logging.log4j.core.impl.ThrowableProxy;
+[2025-10-20 03:37:12] [javac-output-28488]                                          ^
+[2025-10-20 03:37:12] [javac-output-28488] warning: [processing] No processor claimed any of these annotations: org.apache.logging.log4j.core.config.plugins.PluginAttribute,org.osgi.annotation.bundle.Export,org.apache.logging.log4j.core.config.plugins.PluginAliases,org.apache.logging.log4j.core.config.plugins.Plugin,org.apache.logging.log4j.core.config.plugins.PluginBuilderAttribute,org.apache.logging.log4j.core.tools.picocli.CommandLine.Command,org.apache.logging.log4j.core.config.plugins.PluginFactory,org.osgi.annotation.versioning.Version,org.apache.logging.log4j.core.config.Order,org.apache.logging.log4j.core.config.plugins.PluginElement,org.apache.logging.log4j.core.tools.picocli.CommandLine.Option,org.apache.logging.log4j.core.config.plugins.PluginBuilderFactory,aQute.bnd.annotation.jpms.Open,edu.umd.cs.findbugs.annotations.SuppressFBWarnings,org.apache.logging.log4j.core.pattern.ConverterKeys
+[2025-10-20 03:37:12] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:31: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:37:12] [javac-output-28488] import org.apache.logging.log4j.core.impl.ThrowableProxy;
+[2025-10-20 03:37:12] [javac-output-28488]                                          ^
+[2025-10-20 03:37:13] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:31: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:37:13] [javac-output-28488] import org.apache.logging.log4j.core.impl.ThrowableProxy;
+[2025-10-20 03:37:13] [javac-output-28488]                                          ^
+[2025-10-20 03:37:13] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:31: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:37:13] [javac-output-28488] import org.apache.logging.log4j.core.impl.ThrowableProxy;
+[2025-10-20 03:37:13] [javac-output-28488]                                          ^
+[2025-10-20 03:37:13] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:31: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:37:13] [javac-output-28488] import org.apache.logging.log4j.core.impl.ThrowableProxy;
+[2025-10-20 03:37:13] [javac-output-28488]                                          ^
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\LoggingEvent.java:78: warning: [rawtypes] found raw type: Map
+[2025-10-20 03:37:14] [javac-output-28488]             final Map properties) {
+[2025-10-20 03:37:14] [javac-output-28488]                   ^
+[2025-10-20 03:37:14] [javac-output-28488]   missing type arguments for generic class Map<K,V>
+[2025-10-20 03:37:14] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:14] [javac-output-28488]     K extends Object declared in interface Map
+[2025-10-20 03:37:14] [javac-output-28488]     V extends Object declared in interface Map
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\LoggingEvent.java:194: warning: [rawtypes] found raw type: Map
+[2025-10-20 03:37:14] [javac-output-28488]     public Map getProperties() {
+[2025-10-20 03:37:14] [javac-output-28488]            ^
+[2025-10-20 03:37:14] [javac-output-28488]   missing type arguments for generic class Map<K,V>
+[2025-10-20 03:37:14] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:14] [javac-output-28488]     K extends Object declared in interface Map
+[2025-10-20 03:37:14] [javac-output-28488]     V extends Object declared in interface Map
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\LoggingEvent.java:202: warning: [rawtypes] found raw type: Set
+[2025-10-20 03:37:14] [javac-output-28488]     public Set getPropertyKeySet() {
+[2025-10-20 03:37:14] [javac-output-28488]            ^
+[2025-10-20 03:37:14] [javac-output-28488]   missing type arguments for generic class Set<E>
+[2025-10-20 03:37:14] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:14] [javac-output-28488]     E extends Object declared in interface Set
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Category.java:356: warning: [unchecked] getAllAppenders() in Category implements getAllAppenders() in AppenderAttachable
+[2025-10-20 03:37:14] [javac-output-28488]     public Enumeration getAllAppenders() {
+[2025-10-20 03:37:14] [javac-output-28488]                        ^
+[2025-10-20 03:37:14] [javac-output-28488]   return type requires unchecked conversion from Enumeration to Enumeration<Appender>
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Category.java:267: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:14] [javac-output-28488]         final Enumeration enumeration = this.getAllAppenders();
+[2025-10-20 03:37:14] [javac-output-28488]               ^
+[2025-10-20 03:37:14] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:14] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:14] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Category.java:326: warning: [unchecked] unchecked cast
+[2025-10-20 03:37:14] [javac-output-28488]             return new MapMessage<>((Map<String, ?>) message);
+[2025-10-20 03:37:14] [javac-output-28488]                                                      ^
+[2025-10-20 03:37:14] [javac-output-28488]   required: Map<String,?>
+[2025-10-20 03:37:14] [javac-output-28488]   found:    Object
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Category.java:356: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:14] [javac-output-28488]     public Enumeration getAllAppenders() {
+[2025-10-20 03:37:14] [javac-output-28488]            ^
+[2025-10-20 03:37:14] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:14] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:14] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Category.java:576: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:14] [javac-output-28488]             final Vector appenders = new Vector();
+[2025-10-20 03:37:14] [javac-output-28488]                   ^
+[2025-10-20 03:37:14] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:14] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:14] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Category.java:576: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:14] [javac-output-28488]             final Vector appenders = new Vector();
+[2025-10-20 03:37:14] [javac-output-28488]                                          ^
+[2025-10-20 03:37:14] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:14] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:14] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Category.java:577: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:14] [javac-output-28488]             for (final Enumeration iter = aai.getAllAppenders(); iter != null && iter.hasMoreElements(); ) {
+[2025-10-20 03:37:14] [javac-output-28488]                        ^
+[2025-10-20 03:37:14] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:14] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:14] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Category.java:578: warning: [unchecked] unchecked call to add(E) as a member of the raw type Vector
+[2025-10-20 03:37:14] [javac-output-28488]                 appenders.add(iter.nextElement());
+[2025-10-20 03:37:14] [javac-output-28488]                              ^
+[2025-10-20 03:37:14] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:14] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:14] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Logger.java:26: warning: [unchecked] getAllAppenders() in Category implements getAllAppenders() in AppenderAttachable
+[2025-10-20 03:37:14] [javac-output-28488] public class Logger extends Category {
+[2025-10-20 03:37:14] [javac-output-28488]              ^
+[2025-10-20 03:37:14] [javac-output-28488]   return type requires unchecked conversion from Enumeration to Enumeration<Appender>
+[2025-10-20 03:37:15] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\AppenderAttachableImpl.java:37: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:15] [javac-output-28488]     protected Vector appenderList;
+[2025-10-20 03:37:15] [javac-output-28488]               ^
+[2025-10-20 03:37:15] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:15] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:15] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Hierarchy.java:133: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:16] [javac-output-28488]     private final Vector listeners;
+[2025-10-20 03:37:16] [javac-output-28488]                   ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:16] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Hierarchy.java:134: warning: [rawtypes] found raw type: Hashtable
+[2025-10-20 03:37:16] [javac-output-28488]     Hashtable ht;
+[2025-10-20 03:37:16] [javac-output-28488]     ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Hashtable<K,V>
+[2025-10-20 03:37:16] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:16] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:16] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Hierarchy.java:152: warning: [rawtypes] found raw type: Hashtable
+[2025-10-20 03:37:16] [javac-output-28488]         ht = new Hashtable();
+[2025-10-20 03:37:16] [javac-output-28488]                  ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Hashtable<K,V>
+[2025-10-20 03:37:16] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:16] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:16] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Hierarchy.java:153: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:16] [javac-output-28488]         listeners = new Vector(1);
+[2025-10-20 03:37:16] [javac-output-28488]                         ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:16] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Hierarchy.java:167: warning: [unchecked] unchecked call to addElement(E) as a member of the raw type Vector
+[2025-10-20 03:37:16] [javac-output-28488]             listeners.addElement(listener);
+[2025-10-20 03:37:16] [javac-output-28488]                                 ^
+[2025-10-20 03:37:16] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Hierarchy.java:174: warning: [rawtypes] found raw type: Class
+[2025-10-20 03:37:16] [javac-output-28488]     public void addRenderer(final Class classToRender, final ObjectRenderer or) {
+[2025-10-20 03:37:16] [javac-output-28488]                                   ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Class<T>
+[2025-10-20 03:37:16] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     T extends Object declared in class Class
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Hierarchy.java:259: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:16] [javac-output-28488]     public Enumeration getCurrentCategories() {
+[2025-10-20 03:37:16] [javac-output-28488]            ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:16] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Hierarchy.java:271: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:16] [javac-output-28488]     public Enumeration getCurrentLoggers() {
+[2025-10-20 03:37:16] [javac-output-28488]            ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:16] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Hierarchy.java:424: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:16] [javac-output-28488]             final Enumeration cats = getCurrentLoggers();
+[2025-10-20 03:37:16] [javac-output-28488]                   ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:16] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\Hierarchy.java:450: warning: [rawtypes] found raw type: Class
+[2025-10-20 03:37:16] [javac-output-28488]     public void setRenderer(final Class renderedClass, final ObjectRenderer renderer) {
+[2025-10-20 03:37:16] [javac-output-28488]                                   ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Class<T>
+[2025-10-20 03:37:16] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     T extends Object declared in class Class
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\spi\RendererSupport.java:26: warning: [rawtypes] found raw type: Class
+[2025-10-20 03:37:16] [javac-output-28488]     public void setRenderer(Class renderedClass, ObjectRenderer renderer);
+[2025-10-20 03:37:16] [javac-output-28488]                             ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Class<T>
+[2025-10-20 03:37:16] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     T extends Object declared in class Class
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\RendererMap.java:33: warning: [rawtypes] found raw type: Hashtable
+[2025-10-20 03:37:16] [javac-output-28488]     Hashtable map;
+[2025-10-20 03:37:16] [javac-output-28488]     ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Hashtable<K,V>
+[2025-10-20 03:37:16] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:16] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:16] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\RendererMap.java:38: warning: [rawtypes] found raw type: Hashtable
+[2025-10-20 03:37:16] [javac-output-28488]         map = new Hashtable();
+[2025-10-20 03:37:16] [javac-output-28488]                   ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Hashtable<K,V>
+[2025-10-20 03:37:16] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:16] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:16] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\RendererMap.java:55: warning: [rawtypes] found raw type: Class
+[2025-10-20 03:37:16] [javac-output-28488]             final Class renderedClass = Loader.loadClass(renderedClassName);
+[2025-10-20 03:37:16] [javac-output-28488]                   ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Class<T>
+[2025-10-20 03:37:16] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     T extends Object declared in class Class
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\RendererMap.java:130: warning: [rawtypes] found raw type: Class
+[2025-10-20 03:37:16] [javac-output-28488]     public ObjectRenderer get(final Class clazz) {
+[2025-10-20 03:37:16] [javac-output-28488]                                     ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Class<T>
+[2025-10-20 03:37:16] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     T extends Object declared in class Class
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\RendererMap.java:133: warning: [rawtypes] found raw type: Class
+[2025-10-20 03:37:16] [javac-output-28488]         for (Class c = clazz; c != null; c = c.getSuperclass()) {
+[2025-10-20 03:37:16] [javac-output-28488]              ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Class<T>
+[2025-10-20 03:37:16] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     T extends Object declared in class Class
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\RendererMap.java:145: warning: [rawtypes] found raw type: Class
+[2025-10-20 03:37:16] [javac-output-28488]     ObjectRenderer searchInterfaces(Class c) {
+[2025-10-20 03:37:16] [javac-output-28488]                                     ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Class<T>
+[2025-10-20 03:37:16] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     T extends Object declared in class Class
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\RendererMap.java:152: warning: [rawtypes] found raw type: Class
+[2025-10-20 03:37:16] [javac-output-28488]         final Class[] ia = c.getInterfaces();
+[2025-10-20 03:37:16] [javac-output-28488]               ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Class<T>
+[2025-10-20 03:37:16] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     T extends Object declared in class Class
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\RendererMap.java:171: warning: [rawtypes] found raw type: Class
+[2025-10-20 03:37:16] [javac-output-28488]     public void put(final Class clazz, final ObjectRenderer or) {
+[2025-10-20 03:37:16] [javac-output-28488]                           ^
+[2025-10-20 03:37:16] [javac-output-28488]   missing type arguments for generic class Class<T>
+[2025-10-20 03:37:16] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:16] [javac-output-28488]     T extends Object declared in class Class
+[2025-10-20 03:37:16] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\or\RendererMap.java:172: warning: [unchecked] unchecked call to put(K,V) as a member of the raw type Hashtable
+[2025-10-20 03:37:16] [javac-output-28488]         map.put(clazz, or);
+[2025-10-20 03:37:16] [javac-output-28488]                ^
+[2025-10-20 03:37:16] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:16] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:16] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\helpers\PatternParser.java:417: warning: [rawtypes] found raw type: Map
+[2025-10-20 03:37:17] [javac-output-28488]                 final Map properties = event.getProperties();
+[2025-10-20 03:37:17] [javac-output-28488]                       ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Map<K,V>
+[2025-10-20 03:37:17] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:17] [javac-output-28488]     K extends Object declared in interface Map
+[2025-10-20 03:37:17] [javac-output-28488]     V extends Object declared in interface Map
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:92: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:17] [javac-output-28488]     class SortedKeyEnumeration implements Enumeration {
+[2025-10-20 03:37:17] [javac-output-28488]                                           ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:94: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:17] [javac-output-28488]         private final Enumeration e;
+[2025-10-20 03:37:17] [javac-output-28488]                       ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:96: warning: [rawtypes] found raw type: Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]         public SortedKeyEnumeration(final Hashtable ht) {
+[2025-10-20 03:37:17] [javac-output-28488]                                           ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Hashtable<K,V>
+[2025-10-20 03:37:17] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:17] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:97: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:17] [javac-output-28488]             final Enumeration f = ht.keys();
+[2025-10-20 03:37:17] [javac-output-28488]                   ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:98: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:17] [javac-output-28488]             final Vector keys = new Vector(ht.size());
+[2025-10-20 03:37:17] [javac-output-28488]                   ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:98: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:17] [javac-output-28488]             final Vector keys = new Vector(ht.size());
+[2025-10-20 03:37:17] [javac-output-28488]                                     ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:107: warning: [unchecked] unchecked call to add(int,E) as a member of the raw type Vector
+[2025-10-20 03:37:17] [javac-output-28488]                 keys.add(i, key);
+[2025-10-20 03:37:17] [javac-output-28488]                         ^
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:237: warning: [rawtypes] found raw type: Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]     protected Hashtable registry = new Hashtable(11);
+[2025-10-20 03:37:17] [javac-output-28488]               ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Hashtable<K,V>
+[2025-10-20 03:37:17] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:17] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:237: warning: [rawtypes] found raw type: Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]     protected Hashtable registry = new Hashtable(11);
+[2025-10-20 03:37:17] [javac-output-28488]                                        ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Hashtable<K,V>
+[2025-10-20 03:37:17] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:17] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:456: warning: [rawtypes] found raw type: Entry
+[2025-10-20 03:37:17] [javac-output-28488]                         final Map.Entry entry = (Map.Entry) element;
+[2025-10-20 03:37:17] [javac-output-28488]                                  ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Entry<K,V>
+[2025-10-20 03:37:17] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:17] [javac-output-28488]     K extends Object declared in interface Entry
+[2025-10-20 03:37:17] [javac-output-28488]     V extends Object declared in interface Entry
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:476: warning: [unchecked] unchecked call to put(K,V) as a member of the raw type Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]         registry.put(appender.getName(), appender);
+[2025-10-20 03:37:17] [javac-output-28488]                     ^
+[2025-10-20 03:37:17] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:17] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:486: warning: [rawtypes] found raw type: Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]         final Hashtable filters = new Hashtable();
+[2025-10-20 03:37:17] [javac-output-28488]               ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Hashtable<K,V>
+[2025-10-20 03:37:17] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:17] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:486: warning: [rawtypes] found raw type: Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]         final Hashtable filters = new Hashtable();
+[2025-10-20 03:37:17] [javac-output-28488]                                       ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Hashtable<K,V>
+[2025-10-20 03:37:17] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:17] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:487: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:17] [javac-output-28488]         final Enumeration e = properties.keys();
+[2025-10-20 03:37:17] [javac-output-28488]               ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:498: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:17] [javac-output-28488]                 Vector filterOpts = (Vector) filters.get(filterKey);
+[2025-10-20 03:37:17] [javac-output-28488]                 ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:500: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:17] [javac-output-28488]                     filterOpts = new Vector();
+[2025-10-20 03:37:17] [javac-output-28488]                                      ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:501: warning: [unchecked] unchecked call to put(K,V) as a member of the raw type Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]                     filters.put(filterKey, filterOpts);
+[2025-10-20 03:37:17] [javac-output-28488]                                ^
+[2025-10-20 03:37:17] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:17] [javac-output-28488]     K extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488]     V extends Object declared in class Hashtable
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:505: warning: [unchecked] unchecked call to add(E) as a member of the raw type Vector
+[2025-10-20 03:37:17] [javac-output-28488]                     filterOpts.add(new NameValue(name, value));
+[2025-10-20 03:37:17] [javac-output-28488]                                   ^
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:512: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:17] [javac-output-28488]         final Enumeration g = new SortedKeyEnumeration(filters);
+[2025-10-20 03:37:17] [javac-output-28488]               ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:523: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:17] [javac-output-28488]                     final Vector v = (Vector) filters.get(key);
+[2025-10-20 03:37:17] [javac-output-28488]                           ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:524: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:17] [javac-output-28488]                     final Enumeration filterProps = v.elements();
+[2025-10-20 03:37:17] [javac-output-28488]                           ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:17] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\PropertyConfigurator.java:609: warning: [rawtypes] found raw type: Enumeration
+[2025-10-20 03:37:17] [javac-output-28488]         final Enumeration enumeration = properties.propertyNames();
+[2025-10-20 03:37:17] [javac-output-28488]               ^
+[2025-10-20 03:37:17] [javac-output-28488]   missing type arguments for generic class Enumeration<E>
+[2025-10-20 03:37:17] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:17] [javac-output-28488]     E extends Object declared in interface Enumeration
+[2025-10-20 03:37:19] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\ProvisionNode.java:21: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:19] [javac-output-28488] class ProvisionNode extends Vector {
+[2025-10-20 03:37:19] [javac-output-28488]                             ^
+[2025-10-20 03:37:19] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:19] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:19] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:19] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\ProvisionNode.java:26: warning: [unchecked] unchecked call to addElement(E) as a member of the raw type Vector
+[2025-10-20 03:37:19] [javac-output-28488]         this.addElement(logger);
+[2025-10-20 03:37:19] [javac-output-28488]                        ^
+[2025-10-20 03:37:19] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:19] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:19] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\RenderedMessage.java:46: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:37:19] [javac-output-28488]     public String getFormat() {
+[2025-10-20 03:37:19] [javac-output-28488]                   ^
+[2025-10-20 03:37:19] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\RenderedMessage.java:25: warning: [serial] serializable class RenderedMessage has no definition of serialVersionUID
+[2025-10-20 03:37:19] [javac-output-28488] public class RenderedMessage implements Message {
+[2025-10-20 03:37:19] [javac-output-28488]              ^
+[2025-10-20 03:37:19] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\RenderedMessage.java:27: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:37:19] [javac-output-28488]     private final ObjectRenderer renderer;
+[2025-10-20 03:37:19] [javac-output-28488]                                  ^
+[2025-10-20 03:37:19] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\RenderedMessage.java:28: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:37:19] [javac-output-28488]     private final Object object;
+[2025-10-20 03:37:19] [javac-output-28488]                          ^
+[2025-10-20 03:37:19] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\VectorAppender.java:27: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:19] [javac-output-28488]     public Vector vector;
+[2025-10-20 03:37:19] [javac-output-28488]            ^
+[2025-10-20 03:37:19] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:19] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:19] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\VectorAppender.java:30: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:20] [javac-output-28488]         vector = new Vector();
+[2025-10-20 03:37:20] [javac-output-28488]                      ^
+[2025-10-20 03:37:20] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:20] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:20] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\VectorAppender.java:54: warning: [unchecked] unchecked call to addElement(E) as a member of the raw type Vector
+[2025-10-20 03:37:20] [javac-output-28488]         vector.addElement(event);
+[2025-10-20 03:37:20] [javac-output-28488]                          ^
+[2025-10-20 03:37:20] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:20] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\VectorAppender.java:65: warning: [rawtypes] found raw type: Vector
+[2025-10-20 03:37:20] [javac-output-28488]     public Vector getVector() {
+[2025-10-20 03:37:20] [javac-output-28488]            ^
+[2025-10-20 03:37:20] [javac-output-28488]   missing type arguments for generic class Vector<E>
+[2025-10-20 03:37:20] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:20] [javac-output-28488]     E extends Object declared in class Vector
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventAdapter.java:208: warning: [rawtypes] found raw type: Set
+[2025-10-20 03:37:20] [javac-output-28488]     public Set getPropertyKeySet() {
+[2025-10-20 03:37:20] [javac-output-28488]            ^
+[2025-10-20 03:37:20] [javac-output-28488]   missing type arguments for generic class Set<E>
+[2025-10-20 03:37:20] [javac-output-28488]   where E is a type-variable:
+[2025-10-20 03:37:20] [javac-output-28488]     E extends Object declared in interface Set
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventAdapter.java:213: warning: [rawtypes] found raw type: Map
+[2025-10-20 03:37:20] [javac-output-28488]     public Map getProperties() {
+[2025-10-20 03:37:20] [javac-output-28488]            ^
+[2025-10-20 03:37:20] [javac-output-28488]   missing type arguments for generic class Map<K,V>
+[2025-10-20 03:37:20] [javac-output-28488]   where K,V are type-variables:
+[2025-10-20 03:37:20] [javac-output-28488]     K extends Object declared in interface Map
+[2025-10-20 03:37:20] [javac-output-28488]     V extends Object declared in interface Map
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:159: warning: [deprecation] getThrownProxy() in LogEvent has been deprecated
+[2025-10-20 03:37:20] [javac-output-28488]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:37:20] [javac-output-28488]                           ^
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:65: warning: [deprecation] getContextMap() in LogEvent has been deprecated
+[2025-10-20 03:37:20] [javac-output-28488]     public Map<String, String> getContextMap() {
+[2025-10-20 03:37:20] [javac-output-28488]                                ^
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:53: warning: [unchecked] unchecked method invocation: constructor <init> in class ContextDataMap is applied to given types
+[2025-10-20 03:37:20] [javac-output-28488]         this.contextData = new ContextDataMap(event.getProperties());
+[2025-10-20 03:37:20] [javac-output-28488]                            ^
+[2025-10-20 03:37:20] [javac-output-28488]   required: Map<String,String>
+[2025-10-20 03:37:20] [javac-output-28488]   found:    Map
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:53: warning: [unchecked] unchecked conversion
+[2025-10-20 03:37:20] [javac-output-28488]         this.contextData = new ContextDataMap(event.getProperties());
+[2025-10-20 03:37:20] [javac-output-28488]                                                                  ^
+[2025-10-20 03:37:20] [javac-output-28488]   required: Map<String,String>
+[2025-10-20 03:37:20] [javac-output-28488]   found:    Map
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:54: warning: [unchecked] unchecked method invocation: constructor <init> in class MutableThreadContextStack is applied to given types
+[2025-10-20 03:37:20] [javac-output-28488]         this.contextStack = new MutableThreadContextStack(NDC.cloneStack());
+[2025-10-20 03:37:20] [javac-output-28488]                             ^
+[2025-10-20 03:37:20] [javac-output-28488]   required: List<String>
+[2025-10-20 03:37:20] [javac-output-28488]   found:    Stack
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:54: warning: [unchecked] unchecked conversion
+[2025-10-20 03:37:20] [javac-output-28488]         this.contextStack = new MutableThreadContextStack(NDC.cloneStack());
+[2025-10-20 03:37:20] [javac-output-28488]                                                                         ^
+[2025-10-20 03:37:20] [javac-output-28488]   required: List<String>
+[2025-10-20 03:37:20] [javac-output-28488]   found:    Stack
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:159: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:37:20] [javac-output-28488]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:37:20] [javac-output-28488]            ^
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:159: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:37:20] [javac-output-28488]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:37:20] [javac-output-28488]            ^
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:159: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:37:20] [javac-output-28488]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:37:20] [javac-output-28488]            ^
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:159: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:37:20] [javac-output-28488]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:37:20] [javac-output-28488]            ^
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:159: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:37:20] [javac-output-28488]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:37:20] [javac-output-28488]            ^
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:203: warning: [overloads] <V>forEach(org.apache.logging.log4j.util.BiConsumer<String,? super V>) in ContextDataMap is potentially ambiguous with forEach(java.util.function.BiConsumer<? super String,? super String>) in HashMap
+[2025-10-20 03:37:20] [javac-output-28488]         public <V> void forEach(final BiConsumer<String, ? super V> action) {
+[2025-10-20 03:37:20] [javac-output-28488]                         ^
+[2025-10-20 03:37:20] [javac-output-28488]   where V is a type-variable:
+[2025-10-20 03:37:20] [javac-output-28488]     V extends Object declared in method <V>forEach(org.apache.logging.log4j.util.BiConsumer<String,? super V>)
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:204: warning: [unchecked] unchecked cast
+[2025-10-20 03:37:20] [javac-output-28488]             super.forEach((k, v) -> action.accept(k, (V) v));
+[2025-10-20 03:37:20] [javac-output-28488]                                                          ^
+[2025-10-20 03:37:20] [javac-output-28488]   required: V
+[2025-10-20 03:37:20] [javac-output-28488]   found:    String
+[2025-10-20 03:37:20] [javac-output-28488]   where V is a type-variable:
+[2025-10-20 03:37:20] [javac-output-28488]     V extends Object declared in method <V>forEach(BiConsumer<String,? super V>)
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:209: warning: [unchecked] unchecked cast
+[2025-10-20 03:37:20] [javac-output-28488]             super.forEach((k, v) -> action.accept(k, (V) v, state));
+[2025-10-20 03:37:20] [javac-output-28488]                                                          ^
+[2025-10-20 03:37:20] [javac-output-28488]   required: V
+[2025-10-20 03:37:20] [javac-output-28488]   found:    String
+[2025-10-20 03:37:20] [javac-output-28488]   where V,S are type-variables:
+[2025-10-20 03:37:20] [javac-output-28488]     V extends Object declared in method <V,S>forEach(TriConsumer<String,? super V,S>,S)
+[2025-10-20 03:37:20] [javac-output-28488]     S extends Object declared in method <V,S>forEach(TriConsumer<String,? super V,S>,S)
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:214: warning: [unchecked] unchecked cast
+[2025-10-20 03:37:20] [javac-output-28488]             return (V) super.get(key);
+[2025-10-20 03:37:20] [javac-output-28488]                                 ^
+[2025-10-20 03:37:20] [javac-output-28488]   required: V
+[2025-10-20 03:37:20] [javac-output-28488]   found:    String
+[2025-10-20 03:37:20] [javac-output-28488]   where V is a type-variable:
+[2025-10-20 03:37:20] [javac-output-28488]     V extends Object declared in method <V>getValue(String)
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:184: warning: [serial] serializable class ContextDataMap has no definition of serialVersionUID
+[2025-10-20 03:37:20] [javac-output-28488]     private static class ContextDataMap extends HashMap<String, String> implements ReadOnlyStringMap {
+[2025-10-20 03:37:20] [javac-output-28488]                          ^
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:44: warning: [serial] serializable class LogEventWrapper has no definition of serialVersionUID
+[2025-10-20 03:37:20] [javac-output-28488] public class LogEventWrapper implements LogEvent {
+[2025-10-20 03:37:20] [javac-output-28488]              ^
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:46: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:37:20] [javac-output-28488]     private final LoggingEvent event;
+[2025-10-20 03:37:20] [javac-output-28488]                                ^
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\bridge\LogEventWrapper.java:49: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:37:20] [javac-output-28488]     private Thread thread;
+[2025-10-20 03:37:20] [javac-output-28488]                    ^
+[2025-10-20 03:37:20] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\xml\XmlConfiguration.java:825: warning: [serial] serializable class ConsumerException has no definition of serialVersionUID
+[2025-10-20 03:37:20] [javac-output-28488]     private static class ConsumerException extends RuntimeException {
+[2025-10-20 03:37:20] [javac-output-28488]                          ^
+[2025-10-20 03:37:21] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\BuilderManager.java:61: warning: [rawtypes] found raw type: Class
+[2025-10-20 03:37:21] [javac-output-28488]     private static final Class<?>[] CONSTRUCTOR_PARAMS = new Class[] {String.class, Properties.class};
+[2025-10-20 03:37:21] [javac-output-28488]                                                              ^
+[2025-10-20 03:37:21] [javac-output-28488]   missing type arguments for generic class Class<T>
+[2025-10-20 03:37:21] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:21] [javac-output-28488]     T extends Object declared in class Class
+[2025-10-20 03:37:21] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\AsyncAppenderBuilder.java:55: warning: [rawtypes] found raw type: AbstractBuilder
+[2025-10-20 03:37:21] [javac-output-28488] public class AsyncAppenderBuilder extends AbstractBuilder implements AppenderBuilder {
+[2025-10-20 03:37:21] [javac-output-28488]                                           ^
+[2025-10-20 03:37:21] [javac-output-28488]   missing type arguments for generic class AbstractBuilder<T>
+[2025-10-20 03:37:21] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:21] [javac-output-28488]     T extends Object declared in class AbstractBuilder
+[2025-10-20 03:37:21] [javac-output-28488] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-1.2-api\src\main\java\org\apache\log4j\builders\appender\AsyncAppenderBuilder.java:55: warning: [rawtypes] found raw type: AppenderBuilder
+[2025-10-20 03:37:21] [javac-output-28488] public class AsyncAppenderBuilder extends AbstractBuilder implements AppenderBuilder {
+[2025-10-20 03:37:21] [javac-output-28488]                                                                      ^
+[2025-10-20 03:37:21] [javac-output-28488]   missing type arguments for generic class AppenderBuilder<T>
+[2025-10-20 03:37:21] [javac-output-28488]   where T is a type-variable:
+[2025-10-20 03:37:21] [javac-output-28488]     T extends Appender declared in interface AppenderBuilder

@@ -1,0 +1,2 @@
+[2025-10-20 03:12:28] [javac-output-28352] warning: [path] bad path element "C:\Sidd all in one\Unsafe\Lab6\Repos\gson\test-graal-native-image\target\classes": no such file or directory
+[2025-10-20 03:12:30] [javac-output-28352] warning: [processing] No processor claimed any of these annotations: /com.google.gson.annotations.SerializedName,/com.google.gson.annotations.JsonAdapter,/org.junit.jupiter.api.Test

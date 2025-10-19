@@ -1,0 +1,52 @@
+[2025-10-20 03:43:53] [javac-output-11916] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:43:53] [javac-output-11916] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:43:53] [javac-output-11916] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:43:56] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:36: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:43:56] [javac-output-11916] import org.apache.logging.log4j.core.impl.ThrowableProxy;
+[2025-10-20 03:43:56] [javac-output-11916]                                          ^
+[2025-10-20 03:43:56] [javac-output-11916] warning: [processing] No processor claimed any of these annotations: org.apache.logging.log4j.core.config.plugins.PluginAttribute,org.osgi.annotation.bundle.Export,javax.persistence.MappedSuperclass,javax.persistence.Converter,org.apache.logging.log4j.core.config.plugins.Plugin,org.apache.logging.log4j.core.config.plugins.PluginFactory,javax.persistence.Basic,org.osgi.annotation.versioning.Version,org.apache.logging.log4j.core.config.plugins.PluginElement,javax.persistence.Inheritance,javax.persistence.Transient,aQute.bnd.annotation.jpms.Open,javax.persistence.Convert
+[2025-10-20 03:43:56] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:36: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:43:56] [javac-output-11916] import org.apache.logging.log4j.core.impl.ThrowableProxy;
+[2025-10-20 03:43:56] [javac-output-11916]                                          ^
+[2025-10-20 03:43:56] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:36: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:43:56] [javac-output-11916] import org.apache.logging.log4j.core.impl.ThrowableProxy;
+[2025-10-20 03:43:56] [javac-output-11916]                                          ^
+[2025-10-20 03:43:56] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:36: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:43:56] [javac-output-11916] import org.apache.logging.log4j.core.impl.ThrowableProxy;
+[2025-10-20 03:43:56] [javac-output-11916]                                          ^
+[2025-10-20 03:43:56] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:36: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:43:56] [javac-output-11916] import org.apache.logging.log4j.core.impl.ThrowableProxy;
+[2025-10-20 03:43:56] [javac-output-11916]                                          ^
+[2025-10-20 03:43:57] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:229: warning: [deprecation] getThrownProxy() in LogEvent has been deprecated
+[2025-10-20 03:43:57] [javac-output-11916]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:43:57] [javac-output-11916]                           ^
+[2025-10-20 03:43:57] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:229: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:43:57] [javac-output-11916]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:43:57] [javac-output-11916]            ^
+[2025-10-20 03:43:57] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:229: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:43:57] [javac-output-11916]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:43:57] [javac-output-11916]            ^
+[2025-10-20 03:43:57] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:229: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:43:57] [javac-output-11916]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:43:57] [javac-output-11916]            ^
+[2025-10-20 03:43:57] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:229: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:43:57] [javac-output-11916]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:43:57] [javac-output-11916]            ^
+[2025-10-20 03:43:57] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:229: warning: [deprecation] ThrowableProxy in org.apache.logging.log4j.core.impl has been deprecated
+[2025-10-20 03:43:57] [javac-output-11916]     public ThrowableProxy getThrownProxy() {
+[2025-10-20 03:43:57] [javac-output-11916]            ^
+[2025-10-20 03:43:57] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\BasicLogEventEntity.java:230: warning: [deprecation] getThrownProxy() in LogEvent has been deprecated
+[2025-10-20 03:43:57] [javac-output-11916]         return this.getWrappedEvent().getThrownProxy();
+[2025-10-20 03:43:57] [javac-output-11916]                                      ^
+[2025-10-20 03:43:57] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\JpaDatabaseManager.java:50: warning: [deprecation] AbstractDatabaseManager(String,int) in AbstractDatabaseManager has been deprecated
+[2025-10-20 03:43:57] [javac-output-11916]         super(name, bufferSize);
+[2025-10-20 03:43:57] [javac-output-11916]         ^
+[2025-10-20 03:43:57] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\JpaDatabaseManager.java:178: warning: [deprecation] AbstractFactoryData(int,Layout<? extends Serializable>) in AbstractFactoryData has been deprecated
+[2025-10-20 03:43:57] [javac-output-11916]             super(bufferSize, null);
+[2025-10-20 03:43:57] [javac-output-11916]             ^
+[2025-10-20 03:44:00] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\converter\ContextDataJsonAttributeConverter.java:70: warning: [deprecation] fields() in ObjectNode has been deprecated
+[2025-10-20 03:44:00] [javac-output-11916]             final Iterator<Map.Entry<String, JsonNode>> entries = root.fields();
+[2025-10-20 03:44:00] [javac-output-11916]                                                                       ^
+[2025-10-20 03:44:00] [javac-output-11916] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-jpa\src\main\java\org\apache\logging\log4j\core\appender\db\jpa\converter\ContextStackJsonAttributeConverter.java:66: warning: [deprecation] DefaultThreadContextStack(boolean) in DefaultThreadContextStack has been deprecated
+[2025-10-20 03:44:00] [javac-output-11916]         final DefaultThreadContextStack result = new DefaultThreadContextStack(true);
+[2025-10-20 03:44:00] [javac-output-11916]                                                  ^

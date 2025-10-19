@@ -1,0 +1,6 @@
+[2025-10-20 03:40:16] [javac-output-27320] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:40:16] [javac-output-27320] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:40:16] [javac-output-27320] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:40:18] [javac-output-27320] warning: unknown enum constant ElementType.MODULE
+[2025-10-20 03:40:18] [javac-output-27320] warning: unknown enum constant ElementType.MODULE
+[2025-10-20 03:40:18] [javac-output-27320] warning: [processing] No processor claimed any of these annotations: org.apache.logging.log4j.core.config.plugins.PluginElement,org.apache.logging.log4j.core.config.plugins.PluginAttribute,org.apache.logging.log4j.core.config.plugins.Plugin,org.apache.logging.log4j.core.config.plugins.PluginFactory,org.jspecify.annotations.NullMarked

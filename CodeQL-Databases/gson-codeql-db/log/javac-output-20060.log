@@ -1,0 +1,1 @@
+[2025-10-20 03:13:18] [javac-output-20060] warning: [processing] No processor claimed any of these annotations: /com.google.gson.interceptors.Intercept,/javax.annotation.PostConstruct,/org.junit.Test,/org.junit.Before

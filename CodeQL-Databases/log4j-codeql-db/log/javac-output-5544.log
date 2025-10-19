@@ -1,0 +1,4 @@
+[2025-10-20 03:53:31] [javac-output-5544] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:53:31] [javac-output-5544] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:53:31] [javac-output-5544] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:53:34] [javac-output-5544] warning: [processing] No processor claimed any of these annotations: org.springframework.context.annotation.Configuration,org.junit.Rule,org.springframework.boot.test.context.SpringBootTest,org.junit.runner.RunWith,org.springframework.beans.factory.annotation.Autowired,org.junit.Test

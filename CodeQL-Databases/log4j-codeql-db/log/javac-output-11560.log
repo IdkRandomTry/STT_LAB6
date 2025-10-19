@@ -1,0 +1,39 @@
+[2025-10-20 03:38:48] [javac-output-11560] warning: [options] source value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:38:48] [javac-output-11560] warning: [options] target value 8 is obsolete and will be removed in a future release
+[2025-10-20 03:38:48] [javac-output-11560] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[2025-10-20 03:38:51] [javac-output-11560] warning: [processing] No processor claimed any of these annotations: org.junit.jupiter.params.provider.ValueSource,org.junit.jupiter.api.BeforeEach,org.apache.logging.slf4j.LoggerContextSource,org.apache.logging.log4j.test.junit.UsingStatusListener,org.junitpioneer.jupiter.Issue,org.junit.jupiter.api.Test,org.junit.jupiter.params.ParameterizedTest,org.junit.jupiter.api.extension.Extensions,org.junit.jupiter.api.BeforeAll,org.junit.jupiter.api.Tag,org.junit.jupiter.params.provider.MethodSource
+[2025-10-20 03:38:53] [javac-output-11560] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-to-slf4j\src\test\java\org\apache\logging\slf4j\LogBuilderTest.java:92: warning: [try] auto-closeable resource c is never referenced in body of corresponding try statement
+[2025-10-20 03:38:53] [javac-output-11560]         try (final Instance c = CloseableThreadContext.put("callerId", "Log4j2")) {
+[2025-10-20 03:38:53] [javac-output-11560]                             ^
+[2025-10-20 03:38:53] [javac-output-11560] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-to-slf4j\src\test\java\org\apache\logging\slf4j\LoggerContextResolver.java:111: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:38:53] [javac-output-11560]     static final class LoggerContextHolder implements Store.CloseableResource {
+[2025-10-20 03:38:53] [javac-output-11560]                                                            ^
+[2025-10-20 03:38:53] [javac-output-11560] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-to-slf4j\src\test\java\org\apache\logging\slf4j\LoggerContextResolver.java:111: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:38:53] [javac-output-11560]     static final class LoggerContextHolder implements Store.CloseableResource {
+[2025-10-20 03:38:53] [javac-output-11560]                                                            ^
+[2025-10-20 03:38:53] [javac-output-11560] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-to-slf4j\src\test\java\org\apache\logging\slf4j\LoggerContextResolver.java:111: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:38:53] [javac-output-11560]     static final class LoggerContextHolder implements Store.CloseableResource {
+[2025-10-20 03:38:53] [javac-output-11560]                                                            ^
+[2025-10-20 03:38:53] [javac-output-11560] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-to-slf4j\src\test\java\org\apache\logging\slf4j\LoggerContextResolver.java:111: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:38:53] [javac-output-11560]     static final class LoggerContextHolder implements Store.CloseableResource {
+[2025-10-20 03:38:53] [javac-output-11560]                                                            ^
+[2025-10-20 03:38:53] [javac-output-11560] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-to-slf4j\src\test\java\org\apache\logging\slf4j\LoggerContextResolver.java:111: warning: [deprecation] CloseableResource in Store has been deprecated
+[2025-10-20 03:38:53] [javac-output-11560]     static final class LoggerContextHolder implements Store.CloseableResource {
+[2025-10-20 03:38:53] [javac-output-11560]                                                            ^
+[2025-10-20 03:38:54] [javac-output-11560] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-to-slf4j\src\test\java\org\apache\logging\slf4j\SLF4JLoggerTest.java:92: warning: [deprecation] entry() in Logger has been deprecated
+[2025-10-20 03:38:54] [javac-output-11560]         logger.entry();
+[2025-10-20 03:38:54] [javac-output-11560]               ^
+[2025-10-20 03:38:54] [javac-output-11560] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-to-slf4j\src\test\java\org\apache\logging\slf4j\SLF4JLoggerTest.java:93: warning: [deprecation] exit() in Logger has been deprecated
+[2025-10-20 03:38:54] [javac-output-11560]         logger.exit();
+[2025-10-20 03:38:54] [javac-output-11560]               ^
+[2025-10-20 03:38:54] [javac-output-11560] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-to-slf4j\src\test\java\org\apache\logging\slf4j\SLF4JLoggerTest.java:99: warning: [deprecation] entry(Object...) in Logger has been deprecated
+[2025-10-20 03:38:54] [javac-output-11560]         logger.entry(OBJ);
+[2025-10-20 03:38:54] [javac-output-11560]               ^
+[2025-10-20 03:38:54] [javac-output-11560] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-to-slf4j\src\test\java\org\apache\logging\slf4j\SLF4JLoggerTest.java:100: warning: [deprecation] <R>exit(R) in Logger has been deprecated
+[2025-10-20 03:38:54] [javac-output-11560]         logger.exit(0);
+[2025-10-20 03:38:54] [javac-output-11560]               ^
+[2025-10-20 03:38:54] [javac-output-11560]   where R is a type-variable:
+[2025-10-20 03:38:54] [javac-output-11560]     R extends Object declared in method <R>exit(R)
+[2025-10-20 03:38:54] [javac-output-11560] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-to-slf4j\src\test\java\org\apache\logging\slf4j\SLF4JLoggerTest.java:106: warning: [deprecation] entry(Object...) in Logger has been deprecated
+[2025-10-20 03:38:54] [javac-output-11560]         logger.entry(OBJ);
+[2025-10-20 03:38:54] [javac-output-11560]               ^

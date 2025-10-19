@@ -1,0 +1,1 @@
+[2025-10-20 03:13:55] [javac-output-18512] warning: [processing] No processor claimed any of these annotations: /org.junit.Test,/org.junit.Before,/com.google.protobuf.Generated

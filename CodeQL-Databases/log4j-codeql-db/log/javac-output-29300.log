@@ -1,0 +1,172 @@
+[2025-10-20 03:51:43] [javac-output-29300] warning: [processing] No processor claimed any of these annotations: /javax.persistence.GeneratedValue,/org.openjdk.jmh.annotations.Group,/org.openjdk.jmh.annotations.OutputTimeUnit,/org.openjdk.jmh.annotations.Threads,/javax.persistence.Id,/javax.persistence.Convert,/javax.persistence.Table,/javax.persistence.Column,/org.openjdk.jmh.annotations.Warmup,/org.openjdk.jmh.annotations.State,/org.openjdk.jmh.annotations.Benchmark,/org.openjdk.jmh.annotations.Fork,/javax.persistence.Entity,/org.openjdk.jmh.annotations.Measurement,/org.openjdk.jmh.annotations.TearDown,/edu.umd.cs.findbugs.annotations.SuppressFBWarnings,/org.openjdk.jmh.annotations.Setup,/org.openjdk.jmh.annotations.Param,/org.openjdk.jmh.annotations.BenchmarkMode
+[2025-10-20 03:51:45] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\layout\template\json\JsonTemplateLayoutBenchmarkReport.java:156: warning: [serial] serialization-related method readObject is not effective in an enum class
+[2025-10-20 03:51:45] [javac-output-29300]             final List<Object> jmhResult = readObject(jmhResultFile);
+[2025-10-20 03:51:45] [javac-output-29300]                                            ^
+[2025-10-20 03:51:46] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\appender\StringAppender.java:40: warning: [deprecation] SerializedLayout in org.apache.logging.log4j.core.layout has been deprecated
+[2025-10-20 03:51:46] [javac-output-29300]         if (layout != null && !(layout instanceof SerializedLayout)) {
+[2025-10-20 03:51:46] [javac-output-29300]                                                   ^
+[2025-10-20 03:51:46] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\appender\StringAppender.java:51: warning: [deprecation] SerializedLayout in org.apache.logging.log4j.core.layout has been deprecated
+[2025-10-20 03:51:46] [javac-output-29300]         if (layout instanceof SerializedLayout) {
+[2025-10-20 03:51:46] [javac-output-29300]                               ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\NamePatternConverterBenchmark.java:82: warning: [serial] serializable class BenchmarkLogEvent has no definition of serialVersionUID
+[2025-10-20 03:51:50] [javac-output-29300]     private static class BenchmarkLogEvent extends AbstractLogEvent {
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:52: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout("%m%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:54: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout(" ", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:56: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout("%c %m%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:58: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout("%d %c %m%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:60: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout("%d %m%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:62: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout("%c%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:64: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout("%d%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:66: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout("%d%m%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:68: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout("%c%m%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:70: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout("%m %ex%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:72: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout("%d %m%ex%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutBenchmark.java:74: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout("%d %c %m%ex%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:50] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\PatternLayoutComparisonBenchmark.java:52: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:50] [javac-output-29300]             PatternLayout.createLayout(LOG4JPATTERN, null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:50] [javac-output-29300]                          ^
+[2025-10-20 03:51:51] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\SortedArrayVsHashMapBenchmark.java:113: warning: [rawtypes] found raw type: Map
+[2025-10-20 03:51:51] [javac-output-29300]     public Map putAllMap() {
+[2025-10-20 03:51:51] [javac-output-29300]            ^
+[2025-10-20 03:51:51] [javac-output-29300]   missing type arguments for generic class Map<K,V>
+[2025-10-20 03:51:51] [javac-output-29300]   where K,V are type-variables:
+[2025-10-20 03:51:51] [javac-output-29300]     K extends Object declared in interface Map
+[2025-10-20 03:51:51] [javac-output-29300]     V extends Object declared in interface Map
+[2025-10-20 03:51:51] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\SortedArrayVsHashMapBenchmark.java:130: warning: [rawtypes] found raw type: Map
+[2025-10-20 03:51:51] [javac-output-29300]     public Map cloneMap() {
+[2025-10-20 03:51:51] [javac-output-29300]            ^
+[2025-10-20 03:51:51] [javac-output-29300]   missing type arguments for generic class Map<K,V>
+[2025-10-20 03:51:51] [javac-output-29300]   where K,V are type-variables:
+[2025-10-20 03:51:51] [javac-output-29300]     K extends Object declared in interface Map
+[2025-10-20 03:51:51] [javac-output-29300]     V extends Object declared in interface Map
+[2025-10-20 03:51:51] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\SortedArrayVsHashMapBenchmark.java:131: warning: [rawtypes] found raw type: HashMap
+[2025-10-20 03:51:51] [javac-output-29300]         return new HashMap(populatedMap);
+[2025-10-20 03:51:51] [javac-output-29300]                    ^
+[2025-10-20 03:51:51] [javac-output-29300]   missing type arguments for generic class HashMap<K,V>
+[2025-10-20 03:51:51] [javac-output-29300]   where K,V are type-variables:
+[2025-10-20 03:51:51] [javac-output-29300]     K extends Object declared in class HashMap
+[2025-10-20 03:51:51] [javac-output-29300]     V extends Object declared in class HashMap
+[2025-10-20 03:51:51] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\SortedArrayVsHashMapBenchmark.java:131: warning: [unchecked] unchecked call to HashMap(Map<? extends K,? extends V>) as a member of the raw type HashMap
+[2025-10-20 03:51:51] [javac-output-29300]         return new HashMap(populatedMap);
+[2025-10-20 03:51:51] [javac-output-29300]                ^
+[2025-10-20 03:51:51] [javac-output-29300]   where K,V are type-variables:
+[2025-10-20 03:51:51] [javac-output-29300]     K extends Object declared in class HashMap
+[2025-10-20 03:51:51] [javac-output-29300]     V extends Object declared in class HashMap
+[2025-10-20 03:51:51] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\nogc\OpenHashStringMap.java:204: warning: [rawtypes] found raw type: OpenHashStringMap
+[2025-10-20 03:51:51] [javac-output-29300]     private void initFrom0(final OpenHashStringMap other) {
+[2025-10-20 03:51:51] [javac-output-29300]                                  ^
+[2025-10-20 03:51:51] [javac-output-29300]   missing type arguments for generic class OpenHashStringMap<K,V>
+[2025-10-20 03:51:51] [javac-output-29300]   where K,V are type-variables:
+[2025-10-20 03:51:51] [javac-output-29300]     K extends Object declared in class OpenHashStringMap
+[2025-10-20 03:51:51] [javac-output-29300]     V extends Object declared in class OpenHashStringMap
+[2025-10-20 03:51:51] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\nogc\OpenHashStringMap.java:414: warning: [unchecked] unchecked cast
+[2025-10-20 03:51:51] [javac-output-29300]         return (VAL) getObjectValue(key);
+[2025-10-20 03:51:51] [javac-output-29300]                                    ^
+[2025-10-20 03:51:51] [javac-output-29300]   required: VAL
+[2025-10-20 03:51:51] [javac-output-29300]   found:    V
+[2025-10-20 03:51:51] [javac-output-29300]   where V,VAL are type-variables:
+[2025-10-20 03:51:51] [javac-output-29300]     V extends Object declared in class OpenHashStringMap
+[2025-10-20 03:51:51] [javac-output-29300]     VAL extends Object declared in method <VAL>getValue(String)
+[2025-10-20 03:51:51] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\nogc\OpenHashStringMap.java:90: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:51:51] [javac-output-29300]     private final V defRetValue = null;
+[2025-10-20 03:51:51] [javac-output-29300]                     ^
+[2025-10-20 03:51:51] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\TextEncoderHelperBenchmark.java:57: warning: [deprecation] createLayout(String,PatternSelector,Configuration,RegexReplacement,Charset,boolean,boolean,String,String) in PatternLayout has been deprecated
+[2025-10-20 03:51:51] [javac-output-29300]             PatternLayout.createLayout("%d %c %m%n", null, null, null, CHARSET_DEFAULT, false, true, null, null);
+[2025-10-20 03:51:51] [javac-output-29300]                          ^
+[2025-10-20 03:51:51] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadContextBenchmark2.java:238: warning: [try] auto-closeable resource ignored is never referenced in body of corresponding try statement
+[2025-10-20 03:51:51] [javac-output-29300]         try (final CloseableThreadContext.Instance ignored = CloseableThreadContext.put(KEYS[8], NESTED[0])
+[2025-10-20 03:51:51] [javac-output-29300]                                                    ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:57: warning: [deprecation] FastDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FastDateFormat fastDateFormat = FastDateFormat.getInstance("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                   ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:57: warning: [deprecation] FastDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FastDateFormat fastDateFormat = FastDateFormat.getInstance("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                   ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:57: warning: [deprecation] FastDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FastDateFormat fastDateFormat = FastDateFormat.getInstance("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                   ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:57: warning: [deprecation] FastDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FastDateFormat fastDateFormat = FastDateFormat.getInstance("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                   ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:57: warning: [deprecation] FastDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FastDateFormat fastDateFormat = FastDateFormat.getInstance("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                   ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:57: warning: [deprecation] FastDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FastDateFormat fastDateFormat = FastDateFormat.getInstance("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                                                   ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:58: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FixedDateFormat fixedDateFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                   ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:58: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FixedDateFormat fixedDateFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                   ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:58: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FixedDateFormat fixedDateFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                   ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:58: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FixedDateFormat fixedDateFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                   ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:58: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FixedDateFormat fixedDateFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                   ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:58: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]     private final FixedDateFormat fixedDateFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                                                     ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:100: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]         private final FixedDateFormat customFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                       ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:100: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]         private final FixedDateFormat customFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                       ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:100: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]         private final FixedDateFormat customFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                       ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:100: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]         private final FixedDateFormat customFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                       ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:100: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]         private final FixedDateFormat customFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                       ^
+[2025-10-20 03:51:52] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\jmh\ThreadsafeDateFormatBenchmark.java:100: warning: [deprecation] FixedDateFormat in org.apache.logging.log4j.core.util.datetime has been deprecated
+[2025-10-20 03:51:52] [javac-output-29300]         private final FixedDateFormat customFormat = FixedDateFormat.createIfSupported("HH:mm:ss.SSS");
+[2025-10-20 03:51:52] [javac-output-29300]                                                      ^
+[2025-10-20 03:51:53] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\nogc\NoGcMessage.java:25: warning: [serial] serializable class NoGcMessage has no definition of serialVersionUID
+[2025-10-20 03:51:53] [javac-output-29300] public class NoGcMessage implements Message {
+[2025-10-20 03:51:53] [javac-output-29300]              ^
+[2025-10-20 03:51:53] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\nogc\NoGcMessage.java:36: warning: [serial] non-transient instance field of a serializable class declared with a non-serializable type
+[2025-10-20 03:51:53] [javac-output-29300]     private final ThreadLocal<InternalState> state = new ThreadLocal<>();
+[2025-10-20 03:51:53] [javac-output-29300]                                              ^
+[2025-10-20 03:51:53] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\nogc\ParameterizedMessage.java:183: warning: [deprecation] getFormat() in Message has been deprecated
+[2025-10-20 03:51:53] [javac-output-29300]     public String getFormat() {
+[2025-10-20 03:51:53] [javac-output-29300]                   ^
+[2025-10-20 03:51:53] [javac-output-29300] C:\Sidd all in one\Unsafe\Lab6\Repos\logging-log4j2\log4j-perf-test\src\main\java\org\apache\logging\log4j\perf\util\NoOpLogbackAppender.java:25: warning: [rawtypes] found raw type: AppenderBase
+[2025-10-20 03:51:53] [javac-output-29300] public class NoOpLogbackAppender extends AppenderBase {
+[2025-10-20 03:51:53] [javac-output-29300]                                          ^
+[2025-10-20 03:51:53] [javac-output-29300]   missing type arguments for generic class AppenderBase<E>
+[2025-10-20 03:51:53] [javac-output-29300]   where E is a type-variable:
+[2025-10-20 03:51:53] [javac-output-29300]     E extends Object declared in class AppenderBase

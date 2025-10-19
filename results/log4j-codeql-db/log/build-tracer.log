@@ -1,0 +1,270 @@
+[T 18:22:11 22648] Initializing tracer.
+[T 18:22:11 22648] Initializing tags.
+[T 18:22:11 22648] CodeQL CLI version 2.23.3
+[T 18:22:11 22648] Initializing tracer.
+[T 18:22:11 22648] Initializing tags.
+[T 18:22:11 22648] Allocated ID 3066240100005878_0000000000000001 (parent )
+[T 18:22:11 22648] ==== Candidate to intercept: C:\Sidd all in one\CSE is Ez\STT\STTA2\Lab6\Tools\codeql\tools\win64\runner.exe (27208) ====
+[T 18:22:11 22648] Lua: === Intercepted call to c:\sidd all in one\cse is ez\stt\stta2\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 18:22:11 22648] Executing the following tracer actions:
+[T 18:22:11 22648] Tracer actions:
+[T 18:22:11 22648] pre_invocations(0)
+[T 18:22:11 22648] post_invocations(0)
+[T 18:22:11 22648] trace_languages(1): [java]
+[T 18:22:11 27208] Initializing tracer.
+[T 18:22:11 27208] Initializing tags.
+[T 18:22:11 27208] ID set to 3066240100005878_0000000000000001 (parent root)
+[T 18:22:11 27208] Allocated ID A41579F100006A48_0000000000000001 (parent 3066240100005878_0000000000000001)
+[T 18:22:11 27208] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (25240) ====
+[T 18:22:11 27208] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 18:22:11 27208] Executing the following tracer actions:
+[T 18:22:11 27208] Tracer actions:
+[T 18:22:11 27208] pre_invocations(0)
+[T 18:22:11 27208] post_invocations(0)
+[T 18:22:11 27208] trace_languages(1): [java]
+[T 18:22:11 25240] Initializing tracer.
+[T 18:22:11 25240] Initializing tags.
+[T 18:22:11 25240] ID set to A41579F100006A48_0000000000000001 (parent 3066240100005878_0000000000000001)
+[T 18:22:11 25240] Allocated ID C4F0744300006298_0000000000000001 (parent A41579F100006A48_0000000000000001)
+[T 18:22:11 25240] ==== Candidate to intercept: C:\Sidd all in one\CSE is Ez\STT\STTA2\Lab6\Tools\codeql\tools\win64\java\bin\java.exe (26300) ====
+[T 18:22:11 25240] Lua: === Intercepted call to c:\sidd all in one\cse is ez\stt\stta2\lab6\tools\codeql\tools\win64\java\bin\java.exe ===
+[T 18:22:11 25240] Executing the following tracer actions:
+[T 18:22:11 25240] Tracer actions:
+[T 18:22:11 25240] pre_invocations(0)
+[T 18:22:11 25240] post_invocations(0)
+[T 18:22:11 25240] trace_languages(1): [java]
+[T 18:22:11 26300] Initializing tracer.
+[T 18:22:11 26300] Initializing tags.
+[T 18:22:11 26300] ID set to C4F0744300006298_0000000000000001 (parent A41579F100006A48_0000000000000001)
+[T 18:22:12 26300] Passing through -javaagent:C:\Sidd all in one\CSE is Ez\STT\STTA2\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 18:22:12 26300] Passing through -Xbootclasspath/a:C:\Sidd all in one\CSE is Ez\STT\STTA2\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 18:22:12 26300] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\CSE is Ez\STT\STTA2\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\CSE is Ez\STT\STTA2\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 18:22:13 26300] Allocated ID 74BE4D56000066BC_0000000000000001 (parent C4F0744300006298_0000000000000001)
+[T 18:22:13 26300] ==== Candidate to intercept: C:\Sidd all in one\CSE is Ez\STT\STTA2\Lab6\Tools\codeql\tools\win64\runner.exe (24640) ====
+[T 18:22:13 26300] Lua: === Intercepted call to c:\sidd all in one\cse is ez\stt\stta2\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 18:22:13 26300] Executing the following tracer actions:
+[T 18:22:13 26300] Tracer actions:
+[T 18:22:13 26300] pre_invocations(0)
+[T 18:22:13 26300] post_invocations(0)
+[T 18:22:13 26300] trace_languages(1): [java]
+[T 18:22:13 24640] Initializing tracer.
+[T 18:22:13 24640] Initializing tags.
+[T 18:22:13 24640] ID set to 74BE4D56000066BC_0000000000000001 (parent C4F0744300006298_0000000000000001)
+[T 18:22:13 24640] Allocated ID D8DF595000006040_0000000000000001 (parent 74BE4D56000066BC_0000000000000001)
+[T 18:22:13 24640] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (3016) ====
+[T 18:22:13 24640] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 18:22:13 24640] Executing the following tracer actions:
+[T 18:22:13 24640] Tracer actions:
+[T 18:22:13 24640] pre_invocations(0)
+[T 18:22:13 24640] post_invocations(0)
+[T 18:22:13 24640] trace_languages(1): [java]
+[T 18:22:13 3016] Initializing tracer.
+[T 18:22:13 3016] Initializing tags.
+[T 18:22:13 3016] ID set to D8DF595000006040_0000000000000001 (parent 74BE4D56000066BC_0000000000000001)
+[T 18:58:12 26160] Initializing tracer.
+[T 18:58:12 26160] Initializing tags.
+[T 18:58:12 26160] CodeQL CLI version 2.23.3
+[T 18:58:12 26160] Initializing tracer.
+[T 18:58:12 26160] Initializing tags.
+[T 18:58:12 26160] Allocated ID 97ABB77900006630_0000000000000001 (parent )
+[T 18:58:12 26160] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (18380) ====
+[T 18:58:12 26160] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 18:58:12 26160] Executing the following tracer actions:
+[T 18:58:12 26160] Tracer actions:
+[T 18:58:12 26160] pre_invocations(0)
+[T 18:58:12 26160] post_invocations(0)
+[T 18:58:12 26160] trace_languages(1): [java]
+[T 18:58:12 18380] Initializing tracer.
+[T 18:58:12 18380] Initializing tags.
+[T 18:58:12 18380] ID set to 97ABB77900006630_0000000000000001 (parent root)
+[T 18:58:12 18380] Allocated ID 74717434000047CC_0000000000000001 (parent 97ABB77900006630_0000000000000001)
+[T 18:58:12 18380] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (27240) ====
+[T 18:58:12 18380] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 18:58:12 18380] Executing the following tracer actions:
+[T 18:58:12 18380] Tracer actions:
+[T 18:58:12 18380] pre_invocations(0)
+[T 18:58:12 18380] post_invocations(0)
+[T 18:58:12 18380] trace_languages(1): [java]
+[T 18:58:12 27240] Initializing tracer.
+[T 18:58:12 27240] Initializing tags.
+[T 18:58:12 27240] ID set to 74717434000047CC_0000000000000001 (parent 97ABB77900006630_0000000000000001)
+[T 18:58:12 27240] Allocated ID 1B936B8600006A68_0000000000000001 (parent 74717434000047CC_0000000000000001)
+[T 18:58:12 27240] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\java\bin\java.exe (27404) ====
+[T 18:58:12 27240] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\java\bin\java.exe ===
+[T 18:58:12 27240] Executing the following tracer actions:
+[T 18:58:12 27240] Tracer actions:
+[T 18:58:12 27240] pre_invocations(0)
+[T 18:58:12 27240] post_invocations(0)
+[T 18:58:12 27240] trace_languages(1): [java]
+[T 18:58:12 27404] Initializing tracer.
+[T 18:58:12 27404] Initializing tags.
+[T 18:58:12 27404] ID set to 1B936B8600006A68_0000000000000001 (parent 74717434000047CC_0000000000000001)
+[T 18:58:12 27404] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 18:58:12 27404] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 18:58:13 27404] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 18:58:14 27404] Allocated ID A51DE26900006B0C_0000000000000001 (parent 1B936B8600006A68_0000000000000001)
+[T 18:58:14 27404] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (7176) ====
+[T 18:58:14 27404] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 18:58:14 27404] Executing the following tracer actions:
+[T 18:58:14 27404] Tracer actions:
+[T 18:58:14 27404] pre_invocations(0)
+[T 18:58:14 27404] post_invocations(0)
+[T 18:58:14 27404] trace_languages(1): [java]
+[T 18:58:14 7176] Initializing tracer.
+[T 18:58:14 7176] Initializing tags.
+[T 18:58:14 7176] ID set to A51DE26900006B0C_0000000000000001 (parent 1B936B8600006A68_0000000000000001)
+[T 18:58:14 7176] Allocated ID 783A0D2500001C08_0000000000000001 (parent A51DE26900006B0C_0000000000000001)
+[T 18:58:14 7176] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (26048) ====
+[T 18:58:14 7176] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 18:58:14 7176] Executing the following tracer actions:
+[T 18:58:14 7176] Tracer actions:
+[T 18:58:14 7176] pre_invocations(0)
+[T 18:58:14 7176] post_invocations(0)
+[T 18:58:14 7176] trace_languages(1): [java]
+[T 18:58:14 26048] Initializing tracer.
+[T 18:58:14 26048] Initializing tags.
+[T 18:58:14 26048] ID set to 783A0D2500001C08_0000000000000001 (parent A51DE26900006B0C_0000000000000001)
+[T 19:01:34 26412] Initializing tracer.
+[T 19:01:34 26412] Initializing tags.
+[T 19:01:34 26412] CodeQL CLI version 2.23.3
+[T 19:01:34 26412] Initializing tracer.
+[T 19:01:34 26412] Initializing tags.
+[T 19:01:34 26412] Allocated ID 48EC89E60000672C_0000000000000001 (parent )
+[T 19:01:35 26412] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (19808) ====
+[T 19:01:35 26412] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 19:01:35 26412] Executing the following tracer actions:
+[T 19:01:35 26412] Tracer actions:
+[T 19:01:35 26412] pre_invocations(0)
+[T 19:01:35 26412] post_invocations(0)
+[T 19:01:35 26412] trace_languages(1): [java]
+[T 19:01:35 19808] Initializing tracer.
+[T 19:01:35 19808] Initializing tags.
+[T 19:01:35 19808] ID set to 48EC89E60000672C_0000000000000001 (parent root)
+[T 19:01:35 19808] Allocated ID CC8AB4A100004D60_0000000000000001 (parent 48EC89E60000672C_0000000000000001)
+[T 19:01:35 19808] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (4924) ====
+[T 19:01:35 19808] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 19:01:35 19808] Executing the following tracer actions:
+[T 19:01:35 19808] Tracer actions:
+[T 19:01:35 19808] pre_invocations(0)
+[T 19:01:35 19808] post_invocations(0)
+[T 19:01:35 19808] trace_languages(1): [java]
+[T 19:01:35 4924] Initializing tracer.
+[T 19:01:35 4924] Initializing tags.
+[T 19:01:35 4924] ID set to CC8AB4A100004D60_0000000000000001 (parent 48EC89E60000672C_0000000000000001)
+[T 19:01:35 4924] Allocated ID DF9284120000133C_0000000000000001 (parent CC8AB4A100004D60_0000000000000001)
+[T 19:01:35 4924] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\java\bin\java.exe (25544) ====
+[T 19:01:35 4924] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\java\bin\java.exe ===
+[T 19:01:35 4924] Executing the following tracer actions:
+[T 19:01:35 4924] Tracer actions:
+[T 19:01:35 4924] pre_invocations(0)
+[T 19:01:35 4924] post_invocations(0)
+[T 19:01:35 4924] trace_languages(1): [java]
+[T 19:01:35 25544] Initializing tracer.
+[T 19:01:35 25544] Initializing tags.
+[T 19:01:35 25544] ID set to DF9284120000133C_0000000000000001 (parent CC8AB4A100004D60_0000000000000001)
+[T 19:01:35 25544] Passing through -javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin to underlying JVM.
+[T 19:01:35 25544] Passing through -Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar to underlying JVM.
+[T 19:01:35 25544] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar=ignore-project,java,kotlin' '-Xbootclasspath/a:C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\java\tools\codeql-java-agent.jar' ] (result: 1, 0).
+[T 19:01:36 25544] Allocated ID 0189FBD2000063C8_0000000000000001 (parent DF9284120000133C_0000000000000001)
+[T 19:01:36 25544] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (21640) ====
+[T 19:01:36 25544] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 19:01:36 25544] Executing the following tracer actions:
+[T 19:01:36 25544] Tracer actions:
+[T 19:01:36 25544] pre_invocations(0)
+[T 19:01:36 25544] post_invocations(0)
+[T 19:01:36 25544] trace_languages(1): [java]
+[T 19:01:36 21640] Initializing tracer.
+[T 19:01:36 21640] Initializing tags.
+[T 19:01:36 21640] ID set to 0189FBD2000063C8_0000000000000001 (parent DF9284120000133C_0000000000000001)
+[T 19:01:36 21640] Allocated ID 4254888F00005488_0000000000000001 (parent 0189FBD2000063C8_0000000000000001)
+[T 19:01:36 21640] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (15208) ====
+[T 19:01:36 21640] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 19:01:36 21640] Executing the following tracer actions:
+[T 19:01:36 21640] Tracer actions:
+[T 19:01:36 21640] pre_invocations(0)
+[T 19:01:36 21640] post_invocations(0)
+[T 19:01:36 21640] trace_languages(1): [java]
+[T 19:01:36 15208] Initializing tracer.
+[T 19:01:36 15208] Initializing tags.
+[T 19:01:36 15208] ID set to 4254888F00005488_0000000000000001 (parent 0189FBD2000063C8_0000000000000001)
+[T 20:48:23 26740] Initializing tracer.
+[T 20:48:23 26740] Initializing tags.
+[T 20:48:23 26740] CodeQL CLI version 2.23.3
+[T 20:48:23 26740] Initializing tracer.
+[T 20:48:23 26740] Initializing tags.
+[T 20:48:23 26740] Allocated ID 78AF95AB00006874_0000000000000001 (parent )
+[T 20:48:23 26740] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (19412) ====
+[T 20:48:23 26740] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 20:48:23 26740] Executing the following tracer actions:
+[T 20:48:23 26740] Tracer actions:
+[T 20:48:23 26740] pre_invocations(0)
+[T 20:48:23 26740] post_invocations(0)
+[T 20:48:23 26740] trace_languages(1): [java]
+[T 20:48:23 19412] Initializing tracer.
+[T 20:48:23 19412] Initializing tags.
+[T 20:48:23 19412] ID set to 78AF95AB00006874_0000000000000001 (parent root)
+[T 20:48:23 19412] Allocated ID 04F4721E00004BD4_0000000000000001 (parent 78AF95AB00006874_0000000000000001)
+[T 20:48:23 19412] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (21120) ====
+[T 20:48:23 19412] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 20:48:23 19412] Executing the following tracer actions:
+[T 20:48:23 19412] Tracer actions:
+[T 20:48:23 19412] pre_invocations(0)
+[T 20:48:23 19412] post_invocations(0)
+[T 20:48:23 19412] trace_languages(1): [java]
+[T 20:48:23 21120] Initializing tracer.
+[T 20:48:23 21120] Initializing tags.
+[T 20:48:23 21120] ID set to 04F4721E00004BD4_0000000000000001 (parent 78AF95AB00006874_0000000000000001)
+[T 20:51:48 19384] Initializing tracer.
+[T 20:51:48 19384] Initializing tags.
+[T 20:51:48 19384] CodeQL CLI version 2.23.3
+[T 20:51:48 19384] Initializing tracer.
+[T 20:51:48 19384] Initializing tags.
+[T 20:51:48 19384] Allocated ID 6675A71C00004BB8_0000000000000001 (parent )
+[T 20:51:48 19384] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (8124) ====
+[T 20:51:48 19384] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 20:51:48 19384] Executing the following tracer actions:
+[T 20:51:48 19384] Tracer actions:
+[T 20:51:48 19384] pre_invocations(0)
+[T 20:51:48 19384] post_invocations(0)
+[T 20:51:48 19384] trace_languages(1): [java]
+[T 20:51:48 8124] Initializing tracer.
+[T 20:51:48 8124] Initializing tags.
+[T 20:51:48 8124] ID set to 6675A71C00004BB8_0000000000000001 (parent root)
+[T 20:51:48 8124] Allocated ID 94C156BF00001FBC_0000000000000001 (parent 6675A71C00004BB8_0000000000000001)
+[T 20:51:48 8124] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (25340) ====
+[T 20:51:48 8124] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 20:51:48 8124] Executing the following tracer actions:
+[T 20:51:48 8124] Tracer actions:
+[T 20:51:48 8124] pre_invocations(0)
+[T 20:51:48 8124] post_invocations(0)
+[T 20:51:48 8124] trace_languages(1): [java]
+[T 20:51:48 25340] Initializing tracer.
+[T 20:51:48 25340] Initializing tags.
+[T 20:51:48 25340] ID set to 94C156BF00001FBC_0000000000000001 (parent 6675A71C00004BB8_0000000000000001)
+[T 20:57:29 11224] Initializing tracer.
+[T 20:57:29 11224] Initializing tags.
+[T 20:57:29 11224] CodeQL CLI version 2.23.3
+[T 20:57:29 11224] Initializing tracer.
+[T 20:57:29 11224] Initializing tags.
+[T 20:57:29 11224] Allocated ID 0F3D23D000002BD8_0000000000000001 (parent )
+[T 20:57:29 11224] ==== Candidate to intercept: C:\Sidd all in one\Unsafe\Lab6\Tools\codeql\tools\win64\runner.exe (27936) ====
+[T 20:57:29 11224] Lua: === Intercepted call to c:\sidd all in one\unsafe\lab6\tools\codeql\tools\win64\runner.exe ===
+[T 20:57:29 11224] Executing the following tracer actions:
+[T 20:57:29 11224] Tracer actions:
+[T 20:57:29 11224] pre_invocations(0)
+[T 20:57:29 11224] post_invocations(0)
+[T 20:57:29 11224] trace_languages(1): [java]
+[T 20:57:29 27936] Initializing tracer.
+[T 20:57:29 27936] Initializing tags.
+[T 20:57:29 27936] ID set to 0F3D23D000002BD8_0000000000000001 (parent root)
+[T 20:57:29 27936] Allocated ID F3B21F7300006D20_0000000000000001 (parent 0F3D23D000002BD8_0000000000000001)
+[T 20:57:29 27936] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (15168) ====
+[T 20:57:29 27936] Lua: === Intercepted call to c:\windows\system32\cmd.exe ===
+[T 20:57:29 27936] Executing the following tracer actions:
+[T 20:57:29 27936] Tracer actions:
+[T 20:57:29 27936] pre_invocations(0)
+[T 20:57:29 27936] post_invocations(0)
+[T 20:57:29 27936] trace_languages(1): [java]
+[T 20:57:29 15168] Initializing tracer.
+[T 20:57:29 15168] Initializing tags.
+[T 20:57:29 15168] ID set to F3B21F7300006D20_0000000000000001 (parent 0F3D23D000002BD8_0000000000000001)
