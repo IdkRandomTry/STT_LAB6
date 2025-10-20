@@ -1,0 +1,23 @@
+[2025-10-20 12:55:37] This is codeql database analyze C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db Tools/codeql-queries/codeql-queries/java/ql/src/codeql-suites/java-security-and-quality.qls --format=sarif-latest --output=C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql.sarif --ram=4000
+[2025-10-20 12:55:37] Log file was started late.
+[2025-10-20 12:55:37] [PROGRESS] database analyze> Running queries.
+[2025-10-20 12:55:37] Running plumbing command: codeql database run-queries --evaluator-log-level=5 --ram=4000 --warnings=show --qlconfig-file=C:\Sidd all in one\Unsafe\Lab6\qlconfig.yml --dynamic-join-order-mode=none --no-rerun -- C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db Tools/codeql-queries/codeql-queries/java/ql/src/codeql-suites/java-security-and-quality.qls
+[2025-10-20 12:55:37] Calling plumbing command: codeql resolve ram --dataset=C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db\db-java --ram=4000 --format=json
+[2025-10-20 12:55:37] [PROGRESS] resolve ram> Stringpool size measured as 5800362
+[2025-10-20 12:55:37] Plumbing command codeql resolve ram completed:
+                      [
+                        "-J-Xmx1800M",
+                        "--off-heap-ram=1469"
+                      ]
+[2025-10-20 12:55:37] Spawning plumbing command: execute queries -J-Xmx1800M --off-heap-ram=1469 --verbosity=progress --logdir=C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db\log --evaluator-log-level=5 --warnings=show --qlconfig-file=C:\Sidd all in one\Unsafe\Lab6\qlconfig.yml --dynamic-join-order-mode=none --no-rerun --output=C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db\results -- C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db\db-java Tools/codeql-queries/codeql-queries/java/ql/src/codeql-suites/java-security-and-quality.qls
+[2025-10-20 13:22:59] Plumbing command codeql execute queries terminated with status 0.
+[2025-10-20 13:22:59] Plumbing command codeql database run-queries completed with status 0.
+[2025-10-20 13:22:59] [PROGRESS] database analyze> Interpreting results.
+[2025-10-20 13:22:59] Calling plumbing command: codeql resolve ram --ram=4000 --off-heap-ram=0 --format=json
+[2025-10-20 13:23:00] Plumbing command codeql resolve ram completed:
+                      [
+                        "-J-Xmx3000M"
+                      ]
+[2025-10-20 13:23:00] Spawning plumbing command: database interpret-results -J-Xmx3000M --verbosity=progress --logdir=C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db\log --format=sarif-latest -o=C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql.sarif --max-paths=4 --csv-location-format=line-column --print-diagnostics-summary --print-metrics-summary --qlconfig-file=C:\Sidd all in one\Unsafe\Lab6\qlconfig.yml -- C:\Sidd all in one\Unsafe\Lab6\CodeQL-Databases\gson-codeql-db Tools/codeql-queries/codeql-queries/java/ql/src/codeql-suites/java-security-and-quality.qls
+[2025-10-20 13:23:11] Plumbing command codeql database interpret-results terminated with status 0.
+[2025-10-20 13:23:11] Exiting with code 0
