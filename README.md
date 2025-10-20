@@ -1,4 +1,4 @@
-We got most of the data of (repository, tool) pair as 0 or 1. Hence for the purpose of meaningfully calculating IoU we use sample data.
+We got most of the data of (repository, tool) pair as 0 or 1 (except in CodeQL). Hence for the purpose of meaningfully calculating IoU we use sample data.
 ![alt text](Images/Top25.png)
 
 ![alt text](Images/IoU.png)
