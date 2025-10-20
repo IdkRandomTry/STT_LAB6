@@ -2,3 +2,5 @@ We got most of the data of (repository, tool) pair as 0 or 1. Hence for the purp
 ![alt text](Images/top25.png)
 
 ![alt text](Images/IoU.png)
+
+PMD and CodeQL are the most diverse and complimentary SAST according to this data.
